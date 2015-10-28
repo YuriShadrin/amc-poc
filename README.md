@@ -1,6 +1,14 @@
 # AMC POC
 
 ## Build
+Before start you must have the JDK 1.7+ and Maven 3.3.3+ installed.
+
+* Download ERC dependency as ZIP: https://github.com/YuriShadrin/easy-rest-client/archive/master.zip
+* Unzip ERC, go to ERC directory (```easy-rest-client-master```)
+* Build ERC as: ```mvn clean install```
+* Download AMC POC project as ZIP: https://github.com/YuriShadrin/amc-poc/archive/master.zip
+* Unzip AMC POC, go to project directory (```amc-poc-master```)
+* Build project as: ```mvn clean install```
 
 ## Run
 
