@@ -2,6 +2,8 @@
 
 ## Build
 
+## Run
+
 ## Configuration
 
 ### Facebook
@@ -75,7 +77,4 @@ Change configuration in: src/main/resources/keys/googleplus_keys.json
 * Go to "APIS & auth -> Credentials"
 * Add credentials -> API key -> Server key
 * Click "Create" button, get API key from opened popup window  
-
-
-
 
