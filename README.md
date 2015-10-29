@@ -11,7 +11,7 @@ Before start you must have the JDK 1.7+ and Maven 3.3.3+ installed.
 * Build project as: ```mvn clean install```
 
 ## Run
-***Before running tests you must configure AMC POC as described below.***
+:warning: Before running tests you must configure AMC POC as described below.
 
 All tests are run using maven:
 ```
@@ -31,7 +31,7 @@ mvn exec:java  -P youtube
 
 All tests have hardcoded default parameters, parameters can be redefined using ```-Dexec.args``` command line argument, for example:
 ```
-mvn exec:java -P googleplus -Dexec.args="'Brit Floyd' 'Pink Floyd'"
+mvn exec:java -P googleplus -Dexec.args="'Pink Floyd' 'Brit Floyd'"
 ```
 or
 ```
@@ -51,7 +51,7 @@ target/logs/youtube.log
 
 ## Configuration
 
-***Warning: if configuration was changed, you need to rebuild AMC POC!***
+:warning: Warning: if configuration was changed, you need to rebuild AMC POC!
 
 ### Facebook
 * Register as developer on https://developers.facebook.com
@@ -123,3 +123,7 @@ Change configuration in: ```src/main/resources/keys/googleplus_keys.json```
   }
 }
 ```
+
+:warning: During first run a default browser will be opened with request to provide access to your profile.
+
+
