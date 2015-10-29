@@ -1,4 +1,4 @@
-# ![](https://github.com/YuriShadrin/amc-poc/blob/master/src/main/resources/amcpoc.png) AMC POC
+# ![](https://github.com/YuriShadrin/amc-poc/blob/master/src/main/resources/amcpoc.png)
 
 ## Build
 Before start you must have the JDK 1.7+ and Maven 3.3.3+ installed.
