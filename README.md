@@ -51,6 +51,8 @@ target/logs/youtube.log
 
 ## Configuration
 
+***Warning: if configuration was changed, you need to rebuild AMC POC!***
+
 ### Facebook
 * Register as developer on https://developers.facebook.com
 * Go to "My Apps -> Add a New App" or "My Apps -> choose the existing App" 
