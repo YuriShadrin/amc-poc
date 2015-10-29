@@ -35,8 +35,19 @@ mvn exec:java -P googleplus -Dexec.args="'Brit Floyd' 'Pink Floyd'"
 ```
 or
 ```
-mvn exec:java  -P youtube -Dexec.args="YR5ApYxkU-U"
+mvn exec:java -P youtube -Dexec.args="YR5ApYxkU-U"
 ```
+
+## Outputs
+Result of all tests is output to stdout and to a file inside ```target/logs``` directory, name of result file is corresponded to the name of used profile, for example, for test
+```
+mvn exec:java -P youtube
+```
+result will be written to the file
+```
+target/logs/youtube.log
+```
+
 
 ## Configuration
 
