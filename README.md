@@ -11,7 +11,7 @@ Before start you must have the JDK 1.7+ and Maven 3.3.3+ installed.
 * Build project as: ```mvn clean install```
 
 ## Run
-**Before running tests you must configure AMC POC as described below.**
+***Before running tests you must configure AMC POC as described below.***
 
 All tests are run using maven:
 ```
