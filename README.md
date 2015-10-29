@@ -38,7 +38,7 @@ or
 mvn exec:java -P youtube -Dexec.args="YR5ApYxkU-U"
 ```
 
-## Outputs
+## Output
 Result of all tests is output to stdout and to a file inside ```target/logs``` directory, name of result file is corresponded to the name of used profile, for example, for test
 ```
 mvn exec:java -P youtube
