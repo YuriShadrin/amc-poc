@@ -23,6 +23,7 @@ Where profile - name of profile, one of the following:
 * twitter
 * googleplus
 * youtube
+* wikipedia
 
 For example:
 ```
@@ -36,6 +37,10 @@ mvn exec:java -P googleplus -Dexec.args="'Pink Floyd' 'Brit Floyd'"
 or
 ```
 mvn exec:java -P youtube -Dexec.args="YR5ApYxkU-U"
+```
+or
+```
+mvn exec:java -P wikipedia -Dexec.args="Britney_Spears"
 ```
 
 ## Output
@@ -125,5 +130,12 @@ Change configuration in: ```src/main/resources/keys/googleplus_keys.json```
 ```
 
 :warning: During first run a default browser will be opened with request to provide access to your profile.
+
+--------------- 
+
+### Wikipedia
+Configuration is not needed.
+Data is received from http://stats.grok.se
+
 
 
