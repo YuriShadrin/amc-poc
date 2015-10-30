@@ -1,11 +1,17 @@
 package com.exadel.amc.wikipedia;
 
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Comparator;
+import java.util.List;
+import java.util.Map;
+import java.util.Map.Entry;
+
 import org.nextlets.erc.ERCFactory;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import com.exadel.amc.wikipedia.data.ArticleStatistics;
-import com.exadel.amc.wikipedia.data.DailyView;
 
 public class WikiTest {
 
@@ -25,9 +31,18 @@ public class WikiTest {
 		
 		log.info("");
 		log.info("Views:");
-		
-		for (DailyView dv : as.getDailyViews()) {
-			log.info("{} : {}", dv.getDate(), dv.getViewsCount());
+
+		List<Map.Entry<String, Integer>>list = new ArrayList<Map.Entry<String, Integer>>();
+		list.addAll(as.getDailyViews().entrySet());
+		Collections.sort(list, new Comparator<Map.Entry<String, Integer>>() {
+            @Override
+            public int compare(Entry<String, Integer> e1, Entry<String, Integer> e2) {
+                return e2.getKey().compareTo(e1.getKey());
+            }
+		});
+
+		for (Map.Entry<String, Integer> entry : list) {
+		    log.info("{}: {}", entry.getKey(), entry.getValue());
 		}
 	}
 	

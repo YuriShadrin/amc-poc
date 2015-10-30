@@ -1,6 +1,8 @@
 package com.exadel.amc.wikipedia.data;
 
-import java.util.List;
+import java.util.Map;
+
+import com.google.gson.annotations.SerializedName;
 
 public class ArticleStatistics {
 
@@ -9,7 +11,8 @@ public class ArticleStatistics {
 	private Integer rank;
 	private String title;
 
-	private List<DailyView> dailyViews;
+    @SerializedName("daily_views")
+	private Map<String, Integer> dailyViews;
 
 	public String getProject() {
 		return project;
@@ -43,17 +46,18 @@ public class ArticleStatistics {
 		this.title = title;
 	}
 
-	public List<DailyView> getDailyViews() {
-		return dailyViews;
-	}
+    public Map<String, Integer> getDailyViews() {
+        return dailyViews;
+    }
 
-	public void setDailyViews(List<DailyView> dailyViews) {
-		this.dailyViews = dailyViews;
-	}
+    public void setDailyViews(Map<String, Integer> dailyViews) {
+        this.dailyViews = dailyViews;
+    }
 
-	@Override
-	public String toString() {
-		return "ArticleStatistics [title=" + title + ", project=" + project + ", month=" + month + ", rank=" + rank
-				+ ", dailyViews=" + dailyViews + "]";
-	}
+    @Override
+    public String toString() {
+        return "ArticleStatistics [title=" + title + ", project=" + project + ", month=" + month + ", rank=" + rank
+                + ", dailyViews=" + dailyViews + "]";
+    }
+
 }
