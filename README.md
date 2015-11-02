@@ -160,7 +160,7 @@ access.token.secret=ACCESS_TOKEN_SECRET
 
 :information_source: Tumblr API provides possibility to get info about current user (i.e. for user associated with provided tokens), how to get info about other users -- it is unknown.
 
-### Tumblr
+### Instagram
  * Create an account in Instagram (via mobile app)
  * Goto https://instagram.com/developer
  * Register a new client
