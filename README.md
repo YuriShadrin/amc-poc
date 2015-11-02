@@ -25,6 +25,7 @@ Where profile - name of profile, one of the following:
 * youtube
 * wikipedia
 * tumblr
+* instagram
 
 For example:
 ```
@@ -43,6 +44,10 @@ or
 ```
 mvn exec:java -P wikipedia -Dexec.args="Britney_Spears"
 ```
+or
+```
+mvn exec:java -P instagram -Dexec.args="ledzeppelin"
+```
 
 ## Output
 Result of all tests is output to stdout and to a file inside ```target/logs``` directory, name of result file is corresponded to the name of used profile, for example, for test
@@ -53,7 +58,6 @@ result will be written to the file
 ```
 target/logs/youtube.log
 ```
-
 
 ## Configuration
 
@@ -144,7 +148,6 @@ Data is received from http://stats.grok.se
  * On page https://www.tumblr.com/docs/en/api/v2 click link "API Console" (or just goto https://api.tumblr.com/console/calls/user/info)
  * On API Console you'll see consumer.key, consumer.secret, access.token and access.token.secret
 
-
 Change configuration in: ```src/main/resources/keys/tumblr_keys.properties```
 ```properties
 consumer.key=CONSUMER_KEY
@@ -157,5 +160,14 @@ access.token.secret=ACCESS_TOKEN_SECRET
 
 :information_source: Tumblr API provides possibility to get info about current user (i.e. for user associated with provided tokens), how to get info about other users -- it is unknown.
 
+### Tumblr
+ * Create an account in Instagram (via mobile app)
+ * Goto https://instagram.com/developer
+ * Register a new client
+ * Generate access token (follow instruction on https://instagram.com/developer/authentication)
 
+Change configuration in: ```src/main/resources/keys/instagram_keys.properties```
+```properties
+access.token=ACCESS_TOKEN
+```
 
