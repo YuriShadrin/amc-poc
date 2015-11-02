@@ -6,45 +6,45 @@ import com.google.gson.annotations.SerializedName;
 
 public class ArticleStatistics {
 
-	private String project;
-	private String month;
-	private Integer rank;
-	private String title;
+    private String project;
+    private String month;
+    private Integer rank;
+    private String title;
 
     @SerializedName("daily_views")
-	private Map<String, Integer> dailyViews;
+    private Map<String, Integer> dailyViews;
 
-	public String getProject() {
-		return project;
-	}
+    public String getProject() {
+        return project;
+    }
 
-	public void setProject(String project) {
-		this.project = project;
-	}
+    public void setProject(String project) {
+        this.project = project;
+    }
 
-	public String getMonth() {
-		return month;
-	}
+    public String getMonth() {
+        return month;
+    }
 
-	public void setMonth(String month) {
-		this.month = month;
-	}
+    public void setMonth(String month) {
+        this.month = month;
+    }
 
-	public Integer getRank() {
-		return rank;
-	}
+    public Integer getRank() {
+        return rank;
+    }
 
-	public void setRank(Integer rank) {
-		this.rank = rank;
-	}
+    public void setRank(Integer rank) {
+        this.rank = rank;
+    }
 
-	public String getTitle() {
-		return title;
-	}
+    public String getTitle() {
+        return title;
+    }
 
-	public void setTitle(String title) {
-		this.title = title;
-	}
+    public void setTitle(String title) {
+        this.title = title;
+    }
 
     public Map<String, Integer> getDailyViews() {
         return dailyViews;

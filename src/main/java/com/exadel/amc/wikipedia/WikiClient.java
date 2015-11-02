@@ -8,7 +8,7 @@ import com.exadel.amc.wikipedia.data.ResponseDesirializer;
 
 public interface WikiClient {
 
-	@ERCEndpoint(endpoint="/json/en/latest30/{acticle}", deserializer=ResponseDesirializer.class)
-	ArticleStatistics getArticleStatisticsLatest30(@ERCParam(name="acticle") String acticle);
-	
+    @ERCEndpoint(endpoint = "/json/en/latest30/{acticle}", deserializer = ResponseDesirializer.class)
+    ArticleStatistics getArticleStatisticsLatest30(@ERCParam(name = "acticle") String acticle);
+
 }

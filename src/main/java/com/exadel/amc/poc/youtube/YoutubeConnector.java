@@ -5,12 +5,12 @@ import com.exadel.amc.poc.TaskConfiguration;
 
 public class YoutubeConnector implements Connector<YoutubeMetricsData> {
 
-	public YoutubeConnector(TaskConfiguration config) {
-	}
+    public YoutubeConnector(TaskConfiguration config) {
+    }
 
-	@Override
-	public YoutubeMetricsData getMetricsData(String id) {
-		return null;
-	}
+    @Override
+    public YoutubeMetricsData getMetricsData(String id) {
+        return null;
+    }
 
 }

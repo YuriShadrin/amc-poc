@@ -2,20 +2,18 @@ package com.exadel.amc.poc;
 
 public interface TaskStatus {
 
-	enum State {
-		running,
-		completed,
-		completed_with_error
-	}
-	
-	public State getState();
+    enum State {
+        running, completed, completed_with_error
+    }
 
-	public long getStartTime();
+    public State getState();
 
-	public long getEndTime();
+    public long getStartTime();
 
-	public int getSpentLimits();
+    public long getEndTime();
 
-	public TaskException getException();
-	
+    public int getSpentLimits();
+
+    public TaskException getException();
+
 }

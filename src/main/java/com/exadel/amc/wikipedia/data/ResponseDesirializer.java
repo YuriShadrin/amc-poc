@@ -9,16 +9,12 @@ import com.google.gson.GsonBuilder;
 
 public class ResponseDesirializer implements ERCResultDeserializer<ArticleStatistics> {
 
-	@Override
-	public ArticleStatistics deserealize(
-			ERCConfiguration configuration,
-			int statusCode,
-			String contentType,
-			String responseBody,
-			Class<ArticleStatistics> resultClass) throws ERCDeserializationException {
-		
+    @Override
+    public ArticleStatistics deserealize(ERCConfiguration configuration, int statusCode, String contentType,
+            byte[] responseBody, Class<ArticleStatistics> resultClass) throws ERCDeserializationException {
+
         Gson gson = new GsonBuilder().create();
-        ArticleStatistics as = gson.fromJson(responseBody, ArticleStatistics.class);
-		return as;
-	}
+        ArticleStatistics as = gson.fromJson(new String(responseBody), ArticleStatistics.class);
+        return as;
+    }
 }

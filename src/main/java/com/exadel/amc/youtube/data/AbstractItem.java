@@ -1,61 +1,61 @@
 package com.exadel.amc.youtube.data;
 
-public abstract class AbstractItem <S extends AbstractStatus, T extends AbstractStatistics, P extends AbstractSnippet> {
+public abstract class AbstractItem<S extends AbstractStatus, T extends AbstractStatistics, P extends AbstractSnippet> {
 
-	private String kind;
-	private String etag;
-	private String id;
-	
-	private S status;
-	private T statistics;
-	private P snippet;
+    private String kind;
+    private String etag;
+    private String id;
 
-	public String getKind() {
-		return kind;
-	}
+    private S status;
+    private T statistics;
+    private P snippet;
 
-	public void setKind(String kind) {
-		this.kind = kind;
-	}
+    public String getKind() {
+        return kind;
+    }
 
-	public String getEtag() {
-		return etag;
-	}
+    public void setKind(String kind) {
+        this.kind = kind;
+    }
 
-	public void setEtag(String etag) {
-		this.etag = etag;
-	}
+    public String getEtag() {
+        return etag;
+    }
 
-	public String getId() {
-		return id;
-	}
+    public void setEtag(String etag) {
+        this.etag = etag;
+    }
 
-	public void setId(String id) {
-		this.id = id;
-	}
+    public String getId() {
+        return id;
+    }
 
-	public S getStatus() {
-		return status;
-	}
+    public void setId(String id) {
+        this.id = id;
+    }
 
-	public void setStatus(S status) {
-		this.status = status;
-	}
+    public S getStatus() {
+        return status;
+    }
 
-	public T getStatistics() {
-		return statistics;
-	}
+    public void setStatus(S status) {
+        this.status = status;
+    }
 
-	public void setStatistics(T statistics) {
-		this.statistics = statistics;
-	}
+    public T getStatistics() {
+        return statistics;
+    }
 
-	public P getSnippet() {
-		return snippet;
-	}
+    public void setStatistics(T statistics) {
+        this.statistics = statistics;
+    }
 
-	public void setSnippet(P snippet) {
-		this.snippet = snippet;
-	}
-	
+    public P getSnippet() {
+        return snippet;
+    }
+
+    public void setSnippet(P snippet) {
+        this.snippet = snippet;
+    }
+
 }

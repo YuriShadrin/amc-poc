@@ -7,7 +7,7 @@ import com.exadel.amc.youtube.data.channel.ChannelSearchResult;
 
 public interface YoutubeChannels {
 
-	@ERCEndpoint(endpoint="/channels?part=id,snippet,statistics,status")
-	ChannelSearchResult getChannelById(@ERCParam(name="id") String id);
-	
+    @ERCEndpoint(endpoint = "/channels?part=id,snippet,statistics,status")
+    ChannelSearchResult getChannelById(@ERCParam(name = "id") String id);
+
 }
