@@ -24,6 +24,7 @@ Where profile - name of profile, one of the following:
 * googleplus
 * youtube
 * wikipedia
+* tumblr
 
 For example:
 ```
@@ -137,5 +138,17 @@ Change configuration in: ```src/main/resources/keys/googleplus_keys.json```
 Configuration is not needed.
 Data is received from http://stats.grok.se
 
+### Tumblr
+ * Goto https://www.tumblr.com/docs/en/api/v2 Look for "register an application" link, click it
+ * Register your application
+ * On page https://www.tumblr.com/docs/en/api/v2 click link "API Console" (or just goto https://api.tumblr.com/console/calls/user/info)
+ * On API Console you'll see consumer.key, consumer.secret, access.token and access.token.secret
 
 
+Change configuration in: ```src/main/resources/keys/tumblr_keys.properties```
+```properties
+consumer.key=CONSUMER_KEY
+consumer.secret=CONSUMER_SECRET
+access.token=ACCESS_TOKEN
+access.token.secret=ACCESS_TOKEN_SECRET
+```
