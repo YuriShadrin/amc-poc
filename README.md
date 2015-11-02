@@ -172,7 +172,7 @@ access.token=ACCESS_TOKEN
 ```
 
 ### Metacritic
-:x: Unfortunately *Metacritic* requires subscription to API, even for the basic subscription you need to enter bank card requisites which issues in USA:
+:x: Unfortunately **Metacritic** requires subscription to API, even for the basic subscription you need to enter bank card requisites which issues in USA:
 
 https://market.mashape.com/byroredux/metacritic/pricing
 
