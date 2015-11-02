@@ -269,6 +269,35 @@
             </build>
         </profile>
 
+        <profile>
+            <id>instagram</id>
+            <build>
+                <plugins>
+                    <plugin>
+                        <groupId>org.codehaus.mojo</groupId>
+                        <artifactId>exec-maven-plugin</artifactId>
+                        <version>1.4.0</version>
+                        <executions>
+                            <execution>
+                                <goals>
+                                    <goal>java</goal>
+                                </goals>
+                            </execution>
+                        </executions>
+                        <configuration>
+                            <mainClass>com.exadel.amc.instagram.InstagramTest</mainClass>
+                            <systemProperties>
+                                <systemProperty>
+                                    <key>log4j.configuration</key>
+                                    <value>file:src/main/resources/logs/instagram-log4j.xml</value>
+                                </systemProperty>
+                            </systemProperties>
+                        </configuration>
+                    </plugin>
+                </plugins>
+            </build>
+        </profile>
+
     </profiles>
 
 </project>
