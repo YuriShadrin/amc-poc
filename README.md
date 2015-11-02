@@ -152,3 +152,10 @@ consumer.secret=CONSUMER_SECRET
 access.token=ACCESS_TOKEN
 access.token.secret=ACCESS_TOKEN_SECRET
 ```
+
+:warning: Tumblr has a limitation for creation apps -- 1 per day.
+
+:information_source: Tumblr API provides possibility to get info about current user (i.e. for user associated with provided tokens), how to get info about other users -- it is unknown.
+
+
+
