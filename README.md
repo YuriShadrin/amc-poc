@@ -3,8 +3,8 @@
 ## Build
 Before start you must have the JDK 1.7+ and Maven 3.3.3+ installed.
 
-* Download Easy Rest Client (ERC) as ZIP: https://github.com/YuriShadrin/easy-rest-client/archive/master.zip
-* Unzip ERC, go to the ERC directory (```easy-rest-client-master```)
+* Download Easy Rest Client (ERC) as ZIP: https://github.com/nextlets/erc/archive/master.zip
+* Unzip ERC, go to the ERC directory (```erc-master```)
 * Build ERC as: ```mvn clean install```
 * Download AMC POC project as ZIP: https://github.com/YuriShadrin/amc-poc/archive/master.zip
 * Unzip AMC POC, go to the project directory (```amc-poc-master```)
