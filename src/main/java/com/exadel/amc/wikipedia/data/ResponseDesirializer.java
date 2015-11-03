@@ -11,10 +11,10 @@ public class ResponseDesirializer implements ERCResultDeserializer<ArticleStatis
 
     @Override
     public ArticleStatistics deserealize(ERCConfiguration configuration, int statusCode, String contentType,
-            String responseBody, Class<ArticleStatistics> resultClass) throws ERCDeserializationException {
+            byte[] responseBody, Class<ArticleStatistics> resultClass) throws ERCDeserializationException {
 
         Gson gson = new GsonBuilder().create();
-        ArticleStatistics as = gson.fromJson(responseBody, ArticleStatistics.class);
+        ArticleStatistics as = gson.fromJson(new String(responseBody), ArticleStatistics.class);
         return as;
     }
 }

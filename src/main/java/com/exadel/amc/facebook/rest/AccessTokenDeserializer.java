@@ -9,10 +9,11 @@ public class AccessTokenDeserializer implements ERCResultDeserializer<String> {
     public static final String ACCESS_TOKEN = "access_token";
 
     @Override
-    public String deserealize(ERCConfiguration configuration, int statusCode, String contentType, String responseBody,
+    public String deserealize(ERCConfiguration configuration, int statusCode, String contentType, byte[] responseBody,
             Class<String> resultClass) throws ERCDeserializationException {
-        if (responseBody.startsWith(ACCESS_TOKEN)) {
-            return responseBody.split("=")[1];
+        String resp = new String(responseBody);
+        if (resp.startsWith(ACCESS_TOKEN)) {
+            return resp.split("=")[1];
         }
         return null;
     }
