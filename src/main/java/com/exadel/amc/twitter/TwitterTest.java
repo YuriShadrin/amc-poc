@@ -8,7 +8,7 @@ import java.util.Properties;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import com.exadel.amc.facebook.FBClientTest;
+import com.exadel.amc.facebook.FacebookTest;
 
 import twitter4j.Query;
 import twitter4j.QueryResult;
@@ -34,7 +34,7 @@ public class TwitterTest {
     public static void main(String[] args) throws Exception {
 
         Properties props = new Properties();
-        props.load(FBClientTest.class.getResourceAsStream("/keys/twitter_keys.properties"));
+        props.load(FacebookTest.class.getResourceAsStream("/keys/twitter_keys.properties"));
 
         ConfigurationBuilder cb = new ConfigurationBuilder();
         cb.setDebugEnabled(true).setOAuthConsumerKey(props.getProperty("consumer.key").trim())

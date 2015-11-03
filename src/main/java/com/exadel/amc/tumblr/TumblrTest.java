@@ -7,7 +7,7 @@ import java.util.Properties;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import com.exadel.amc.facebook.FBClientTest;
+import com.exadel.amc.facebook.FacebookTest;
 import com.tumblr.jumblr.JumblrClient;
 import com.tumblr.jumblr.types.Blog;
 import com.tumblr.jumblr.types.Post;
@@ -29,7 +29,7 @@ public class TumblrTest {
 
     static JumblrClient makeClient() throws IOException {
         Properties props = new Properties();
-        props.load(FBClientTest.class.getResourceAsStream("/keys/tumblr_keys.properties"));
+        props.load(FacebookTest.class.getResourceAsStream("/keys/tumblr_keys.properties"));
 
         JumblrClient client = new JumblrClient(
                 props.getProperty("consumer.key").trim(),

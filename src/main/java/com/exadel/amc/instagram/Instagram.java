@@ -6,7 +6,7 @@ import java.util.Properties;
 
 import org.nextlets.erc.ERCFactory;
 
-import com.exadel.amc.facebook.FBClientTest;
+import com.exadel.amc.facebook.FacebookTest;
 import com.exadel.amc.instagram.data.User;
 import com.exadel.amc.instagram.data.UserGetResult;
 import com.exadel.amc.instagram.data.UsersSearchResult;
@@ -16,17 +16,12 @@ public class Instagram {
 
     private InstagramRestClient client;
 
-    private Instagram() {
-    }
-
-    public static Instagram getInstance() throws IOException {
+    public Instagram() throws IOException {
         Properties props = new Properties();
-        props.load(FBClientTest.class.getResourceAsStream("/keys/instagram_keys.properties"));
-        Instagram inst = new Instagram();
+        props.load(FacebookTest.class.getResourceAsStream("/keys/instagram_keys.properties"));
         ERCFactory f = ERCFactory.getInstance("https://api.instagram.com/v1");
         f.getAutoParams().put("access_token", props.getProperty("access.token").trim());
-        inst.client = f.createRestClient(InstagramRestClient.class);
-        return inst;
+        this.client = f.createRestClient(InstagramRestClient.class);
     }
 
     public List<User> searchUsers(String query) {

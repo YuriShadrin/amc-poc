@@ -1,4 +1,4 @@
-package com.exadel.amc.facebook;
+package com.exadel.amc.facebook.rest;
 
 import org.nextlets.erc.ERCConfiguration;
 import org.nextlets.erc.exception.ERCDeserializationException;

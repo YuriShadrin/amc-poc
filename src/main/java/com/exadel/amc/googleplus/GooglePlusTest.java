@@ -19,14 +19,15 @@ import com.google.api.services.plus.model.Person;
  */
 public class GooglePlusTest {
 
-    static Logger log = LoggerFactory.getLogger(GooglePlusTest.class);
+    private static final String SEARCH_STRING = "Exadel, Inc.";
+    private static Logger log = LoggerFactory.getLogger(GooglePlusTest.class);
 
     public static void main(String[] args) throws Exception {
         GooglePlus gp = new GooglePlus();
 
         String searches[];
         if (args.length == 0) {
-            searches = new String[] { "Exadel, Inc." };
+            searches = new String[] { SEARCH_STRING };
         } else {
             searches = args;
         }
@@ -46,37 +47,7 @@ public class GooglePlusTest {
             if (lp.size() > 0) {
                 log.info("--- Person '" + lp.get(0).getDisplayName() + "':");
                 Person p = gp.getPerson(lp.get(0).getId());
-                log.info("\tid: " + p.getId());
-                log.info("\tdisplay name: " + p.getDisplayName());
-                log.info("\tname: " + p.getName());
-                log.info("\tnick name: " + p.getNickname());
-
-                log.info("\tcircled by count: " + p.getCircledByCount());
-                log.info("\tplus one count: " + p.getPlusOneCount());
-
-                log.info("\tabout me: " + p.getAboutMe());
-                log.info("\tage range: " + p.getAgeRange());
-                log.info("\tbirthday: " + p.getBirthday());
-                log.info("\tbragging rights: " + p.getBraggingRights());
-                log.info("\tcover: " + p.getCover());
-                log.info("\tcurrent location: " + p.getCurrentLocation());
-                log.info("\tdomain: " + p.getDomain());
-                log.info("\temails: " + p.getEmails());
-                log.info("\tetag: " + p.getEtag());
-                log.info("\tgender: " + p.getGender());
-                log.info("\tgoogle+ url: " + p.getUrl());
-                log.info("\timage: " + p.getImage());
-                log.info("\tis plus user: " + p.getIsPlusUser());
-                log.info("\tkind: " + p.getKind());
-                log.info("\tlanguage: " + p.getLanguage());
-                log.info("\tobject type: " + p.getObjectType());
-                log.info("\toccupation: " + p.getOccupation());
-                log.info("\torganizations: " + p.getOrganizations());
-                log.info("\tplaces lived: " + p.getPlacesLived());
-                log.info("\trelationship status: " + p.getRelationshipStatus());
-                log.info("\tskills: " + p.getSkills());
-                log.info("\ttagline: " + p.getTagline());
-                log.info("\turls: " + p.getUrls());
+                printPerson(p);
             }
 
             if (lp.size() > 0) {
@@ -95,4 +66,39 @@ public class GooglePlusTest {
             log.info("");
         }
     }
+
+    private static void printPerson(Person p) {
+        log.info("\tid: " + p.getId());
+        log.info("\tdisplay name: " + p.getDisplayName());
+        log.info("\tname: " + p.getName());
+        log.info("\tnick name: " + p.getNickname());
+
+        log.info("\tcircled by count: " + p.getCircledByCount());
+        log.info("\tplus one count: " + p.getPlusOneCount());
+
+        log.info("\tabout me: " + p.getAboutMe());
+        log.info("\tage range: " + p.getAgeRange());
+        log.info("\tbirthday: " + p.getBirthday());
+        log.info("\tbragging rights: " + p.getBraggingRights());
+        log.info("\tcover: " + p.getCover());
+        log.info("\tcurrent location: " + p.getCurrentLocation());
+        log.info("\tdomain: " + p.getDomain());
+        log.info("\temails: " + p.getEmails());
+        log.info("\tetag: " + p.getEtag());
+        log.info("\tgender: " + p.getGender());
+        log.info("\tgoogle+ url: " + p.getUrl());
+        log.info("\timage: " + p.getImage());
+        log.info("\tis plus user: " + p.getIsPlusUser());
+        log.info("\tkind: " + p.getKind());
+        log.info("\tlanguage: " + p.getLanguage());
+        log.info("\tobject type: " + p.getObjectType());
+        log.info("\toccupation: " + p.getOccupation());
+        log.info("\torganizations: " + p.getOrganizations());
+        log.info("\tplaces lived: " + p.getPlacesLived());
+        log.info("\trelationship status: " + p.getRelationshipStatus());
+        log.info("\tskills: " + p.getSkills());
+        log.info("\ttagline: " + p.getTagline());
+        log.info("\turls: " + p.getUrls());
+    }
+
 }

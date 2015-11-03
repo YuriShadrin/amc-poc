@@ -7,21 +7,15 @@ import java.util.List;
 import java.util.Map;
 import java.util.Map.Entry;
 
-import org.nextlets.erc.ERCFactory;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import com.exadel.amc.wikipedia.data.ArticleStatistics;
 
-public class WikiTest {
+public class WikipediaTest {
 
-    static Logger log = LoggerFactory.getLogger(WikiTest.class);
-
-    static WikiClient createWikiClient() {
-        ERCFactory f = ERCFactory.getInstance("http://stats.grok.se");
-        WikiClient client = f.createRestClient(WikiClient.class);
-        return client;
-    }
+    private static final String SEARCH_STRING = "Britney_Spears";
+    static Logger log = LoggerFactory.getLogger(WikipediaTest.class);
 
     private static void printArticleStatistics(ArticleStatistics as) {
         log.info("Title: {}", as.getTitle());
@@ -47,19 +41,19 @@ public class WikiTest {
     }
 
     public static void main(String[] args) {
-        WikiClient client = createWikiClient();
+        Wikipedia wiki = new Wikipedia();
 
         String[] searches;
 
         if (args.length > 0) {
             searches = args;
         } else {
-            searches = new String[] { "Britney_Spears" };
+            searches = new String[] { SEARCH_STRING };
         }
 
         for (String search : searches) {
             log.info(">>> {} <<<", search);
-            printArticleStatistics(client.getArticleStatisticsLatest30(search));
+            printArticleStatistics(wiki.getArticleStatisticsLatest30(search));
             log.info("");
         }
     }

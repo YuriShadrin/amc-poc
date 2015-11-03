@@ -1,9 +1,9 @@
-package com.exadel.amc.facebook;
+package com.exadel.amc.facebook.rest;
 
 import org.nextlets.erc.ERCEndpoint;
 import org.nextlets.erc.ERCParam;
 
-public interface FBClient {
+public interface FacebookRestClient {
 
     @ERCEndpoint(endpoint = "/oauth/access_token?grant_type=client_credentials", deserializer = AccessTokenDeserializer.class)
     String getAccessToken(@ERCParam(name = "client_id") String appId, @ERCParam(name = "client_secret") String appsecret);

@@ -140,7 +140,7 @@
                             </execution>
                         </executions>
                         <configuration>
-                            <mainClass>com.exadel.amc.facebook.FBClientTest</mainClass>
+                            <mainClass>com.exadel.amc.facebook.FacebookTest</mainClass>
                             <systemProperties>
                                 <systemProperty>
                                     <key>log4j.configuration</key>
@@ -169,7 +169,7 @@
                             </execution>
                         </executions>
                         <configuration>
-                            <mainClass>com.exadel.amc.youtube.SearchTest</mainClass>
+                            <mainClass>com.exadel.amc.youtube.YoutubeTest</mainClass>
                             <systemProperties>
                                 <systemProperty>
                                     <key>log4j.configuration</key>
@@ -227,7 +227,7 @@
                             </execution>
                         </executions>
                         <configuration>
-                            <mainClass>com.exadel.amc.wikipedia.WikiTest</mainClass>
+                            <mainClass>com.exadel.amc.wikipedia.WikipediaTest</mainClass>
                             <systemProperties>
                                 <systemProperty>
                                     <key>log4j.configuration</key>

@@ -18,18 +18,19 @@ import facebook4j.internal.org.json.JSONObject;
  */
 public class InstagramTest {
 
+    private static final String SEARCH_STRING = "ladygaga";
     static Logger log = LoggerFactory.getLogger(InstagramTest.class);
 
     public static void main(String[] args) throws Exception {
 
         String searches[];
         if (args.length == 0) {
-            searches = new String[] { "ladygaga" };
+            searches = new String[] { SEARCH_STRING };
         } else {
             searches = args;
         }
 
-        Instagram inst = Instagram.getInstance();
+        Instagram inst = new Instagram();
         Gson gson = new Gson();
 
         for (String search : searches) {

@@ -1,5 +1,7 @@
 package com.exadel.amc.poc;
 
-public class MetricsData {
+public abstract class MetricsData {
 
+    public abstract int getSpentLimits();
+    
 }
