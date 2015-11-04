@@ -36,11 +36,379 @@
 	tagline: Software company
 	urls: [{"label":"Main Exadel Web Site","type":"otherProfile","value":"http://www.exadel.com"}, {"label":"exadel","type":"otherProfile","value":"http://twitter.com/exadel"}]
 --- Activities:
-{"access":{"description":"Public","items":[{"type":"public"}],"kind":"plus#acl"},"actor":{"displayName":"Exadel, Inc.","id":"116763099544850540335","image":{"url":"https://lh3.googleusercontent.com/-a9V0ekTkPxA/AAAAAAAAAAI/AAAAAAAAAFI/6UY8NchQ3-s/photo.jpg?sz=50"},"url":"https://plus.google.com/116763099544850540335","verification":{"adHocVerified":"UNKNOWN_VERIFICATION_STATUS"}},"etag":"\"MrhFVuKLF7zHXL6gE2l7cEdzuiA/8BxRS6E72Abrvf1be9C4MLeDReI\"","id":"z135t1ihsom0cbjo304ccz3jgmuljj0xcb0","kind":"plus#activity","object":{"actor":{"verification":{"adHocVerified":"UNKNOWN_VERIFICATION_STATUS"}},"content":"Our RESTXpress REST Gateway product now has its own Google+ page.?","objectType":"note","plusoners":{"selfLink":"https://www.googleapis.com/plus/v1/activities/z135t1ihsom0cbjo304ccz3jgmuljj0xcb0/people/plusoners","totalItems":0},"replies":{"selfLink":"https://www.googleapis.com/plus/v1/activities/z135t1ihsom0cbjo304ccz3jgmuljj0xcb0/comments","totalItems":0},"resharers":{"selfLink":"https://www.googleapis.com/plus/v1/activities/z135t1ihsom0cbjo304ccz3jgmuljj0xcb0/people/resharers","totalItems":0},"url":"https://plus.google.com/116763099544850540335/posts/NzZmPWkPmwY"},"provider":{"title":"Google+"},"published":"2014-01-27T19:40:49.565Z","title":"Our RESTXpress REST Gateway product now has its own Google+ page.","updated":"2014-01-27T19:40:49.565Z","url":"https://plus.google.com/116763099544850540335/posts/NzZmPWkPmwY","verb":"post"}
-{"access":{"description":"Public","items":[{"type":"public"}],"kind":"plus#acl"},"actor":{"displayName":"Exadel, Inc.","id":"116763099544850540335","image":{"url":"https://lh3.googleusercontent.com/-a9V0ekTkPxA/AAAAAAAAAAI/AAAAAAAAAFI/6UY8NchQ3-s/photo.jpg?sz=50"},"url":"https://plus.google.com/116763099544850540335","verification":{"adHocVerified":"UNKNOWN_VERIFICATION_STATUS"}},"etag":"\"MrhFVuKLF7zHXL6gE2l7cEdzuiA/1DofbSCJUgd3LQS2TSCytZpDnMk\"","id":"z12sez0yfseeubdus22bsvv4qofvsbe1s","kind":"plus#activity","object":{"actor":{"verification":{"adHocVerified":"UNKNOWN_VERIFICATION_STATUS"}},"attachments":[{"content":"Webinar covering these topics in a hands-on demo:\n\nBuild a SQL-based REST resource\nBuild a SOAP-based REST resource\nBuild a REST-based REST resource\nLook at filters and validators\nExample of authentication\nShow new features under development","displayName":"Overview of RESTXpress (November 13, 2013)","embed":{"type":"application/x-shockwave-flash","url":"https://www.youtube.com/v/7qexG2YyPw4?version=3&autohide=1&autoplay=1&feature=autoshare-u"},"image":{"height":284,"type":"image/jpeg","url":"https://lh5.googleusercontent.com/proxy/RlCK72CMt5eAzS127EsRFqGF1dIqv3m4mvVJCb0M3-oH3GZP8Bycbd-QCenu4zvUeKmLBT2_TxvcKXMP_bVhAw=w506-h284-n","width":506},"objectType":"video","url":"https://www.youtube.com/watch?v=7qexG2YyPw4&feature=autoshare"}],"content":"","objectType":"note","plusoners":{"selfLink":"https://www.googleapis.com/plus/v1/activities/z12sez0yfseeubdus22bsvv4qofvsbe1s/people/plusoners","totalItems":0},"replies":{"selfLink":"https://www.googleapis.com/plus/v1/activities/z12sez0yfseeubdus22bsvv4qofvsbe1s/comments","totalItems":0},"resharers":{"selfLink":"https://www.googleapis.com/plus/v1/activities/z12sez0yfseeubdus22bsvv4qofvsbe1s/people/resharers","totalItems":0},"url":"https://plus.google.com/116763099544850540335/posts/FmgqksNTeAK"},"provider":{"title":""},"published":"2013-11-14T02:38:41.038Z","title":"","updated":"2013-11-14T02:38:41.038Z","url":"https://plus.google.com/116763099544850540335/posts/FmgqksNTeAK","verb":"post"}
-{"access":{"description":"Public","items":[{"type":"public"}],"kind":"plus#acl"},"actor":{"displayName":"Exadel, Inc.","id":"116763099544850540335","image":{"url":"https://lh3.googleusercontent.com/-a9V0ekTkPxA/AAAAAAAAAAI/AAAAAAAAAFI/6UY8NchQ3-s/photo.jpg?sz=50"},"url":"https://plus.google.com/116763099544850540335","verification":{"adHocVerified":"UNKNOWN_VERIFICATION_STATUS"}},"etag":"\"MrhFVuKLF7zHXL6gE2l7cEdzuiA/GAIj8FetAr9iMD3d-Af2wxYTK6E\"","id":"z13tzfjodonhgrdhz04ccz3jgmuljj0xcb0","kind":"plus#activity","object":{"actor":{"verification":{"adHocVerified":"UNKNOWN_VERIFICATION_STATUS"}},"attachments":[{"content":"RESTXpress is a gateway and administrative console that allows internal services to act as REST services. Using an existing RESTXpress REST service resource, this video shows an example of adding a validator (in this case, a custom class) and an example of adding a security configuration (in this case, based on LDAP authentication).","displayName":"Adding Validation and Security to a REST Service Resource","embed":{"type":"application/x-shockwave-flash","url":"https://www.youtube.com/v/FdtgZYQA-xk?version=3&autohide=1&autoplay=1&feature=autoshare"},"image":{"height":284,"type":"image/jpeg","url":"https://lh5.googleusercontent.com/proxy/2k1IprOVPpK3B-oH8x6UcBDS99tR4spJuCcLfvPRyqZebffy1YE0wd7b9bpO0TIkrgT9tC2wc9KbLqiSdZ1Qag=w506-h284-n","width":506},"objectType":"video","url":"https://www.youtube.com/watch?v=FdtgZYQA-xk&feature=autoshare"}],"content":"","objectType":"note","plusoners":{"selfLink":"https://www.googleapis.com/plus/v1/activities/z13tzfjodonhgrdhz04ccz3jgmuljj0xcb0/people/plusoners","totalItems":0},"replies":{"selfLink":"https://www.googleapis.com/plus/v1/activities/z13tzfjodonhgrdhz04ccz3jgmuljj0xcb0/comments","totalItems":0},"resharers":{"selfLink":"https://www.googleapis.com/plus/v1/activities/z13tzfjodonhgrdhz04ccz3jgmuljj0xcb0/people/resharers","totalItems":0},"url":"https://plus.google.com/116763099544850540335/posts/Yznj1mD132r"},"provider":{"title":""},"published":"2013-08-20T19:20:01.087Z","title":"","updated":"2013-08-20T19:20:01.087Z","url":"https://plus.google.com/116763099544850540335/posts/Yznj1mD132r","verb":"post"}
-{"access":{"description":"Public","items":[{"type":"public"}],"kind":"plus#acl"},"actor":{"displayName":"Exadel, Inc.","id":"116763099544850540335","image":{"url":"https://lh3.googleusercontent.com/-a9V0ekTkPxA/AAAAAAAAAAI/AAAAAAAAAFI/6UY8NchQ3-s/photo.jpg?sz=50"},"url":"https://plus.google.com/116763099544850540335","verification":{"adHocVerified":"UNKNOWN_VERIFICATION_STATUS"}},"etag":"\"MrhFVuKLF7zHXL6gE2l7cEdzuiA/kUp45lBWJYy-bwzLSOzt4tqWzyc\"","id":"z13oyjcodw3nu5dgj04ccz3jgmuljj0xcb0","kind":"plus#activity","object":{"actor":{"verification":{"adHocVerified":"UNKNOWN_VERIFICATION_STATUS"}},"attachments":[{"content":"RESTXpress is a gateway that allows internal services to act as REST services. This video shows how RESTXpress allows you to create a REST service from a SQL query on a database..","displayName":"Setting Up a SQL-based REST Service","embed":{"type":"application/x-shockwave-flash","url":"http://www.youtube.com/v/02MND0acsHI?version=3&autohide=1&autoplay=1&feature=autoshare"},"image":{"height":284,"type":"image/jpeg","url":"https://lh3.googleusercontent.com/proxy/28mkdGbUaBGdqEb1jy6E-IHSlD5f6i9WP5aY88axWxXbzAvgRNMWxFRhd9RZPGUki7KVw83HC4Lea2HT38euzg=w506-h284-n","width":506},"objectType":"video","url":"http://www.youtube.com/watch?v=02MND0acsHI&feature=autoshare"}],"content":"","objectType":"note","plusoners":{"selfLink":"https://www.googleapis.com/plus/v1/activities/z13oyjcodw3nu5dgj04ccz3jgmuljj0xcb0/people/plusoners","totalItems":1},"replies":{"selfLink":"https://www.googleapis.com/plus/v1/activities/z13oyjcodw3nu5dgj04ccz3jgmuljj0xcb0/comments","totalItems":1},"resharers":{"selfLink":"https://www.googleapis.com/plus/v1/activities/z13oyjcodw3nu5dgj04ccz3jgmuljj0xcb0/people/resharers","totalItems":0},"url":"https://plus.google.com/116763099544850540335/posts/Qy72tUV7G5N"},"provider":{"title":""},"published":"2013-08-16T00:59:46.349Z","title":"","updated":"2013-08-16T00:59:46.349Z","url":"https://plus.google.com/116763099544850540335/posts/Qy72tUV7G5N","verb":"post"}
+{
+    "access": {
+        "description": "Public",
+        "items": [{"type": "public"}],
+        "kind": "plus#acl"
+    },
+    "actor": {
+        "displayName": "Exadel, Inc.",
+        "id": "116763099544850540335",
+        "image": {"url": "https://lh3.googleusercontent.com/-a9V0ekTkPxA/AAAAAAAAAAI/AAAAAAAAAFI/6UY8NchQ3-s/photo.jpg?sz=50"},
+        "url": "https://plus.google.com/116763099544850540335",
+        "verification": {"adHocVerified": "UNKNOWN_VERIFICATION_STATUS"}
+    },
+    "etag": "\"MrhFVuKLF7zHXL6gE2l7cEdzuiA/8BxRS6E72Abrvf1be9C4MLeDReI\"",
+    "id": "z135t1ihsom0cbjo304ccz3jgmuljj0xcb0",
+    "kind": "plus#activity",
+    "object": {
+        "actor": {"verification": {"adHocVerified": "UNKNOWN_VERIFICATION_STATUS"}},
+        "content": "Our RESTXpress REST Gateway product now has its own Google+ page.?",
+        "objectType": "note",
+        "plusoners": {
+            "selfLink": "https://www.googleapis.com/plus/v1/activities/z135t1ihsom0cbjo304ccz3jgmuljj0xcb0/people/plusoners",
+            "totalItems": 0
+        },
+        "replies": {
+            "selfLink": "https://www.googleapis.com/plus/v1/activities/z135t1ihsom0cbjo304ccz3jgmuljj0xcb0/comments",
+            "totalItems": 0
+        },
+        "resharers": {
+            "selfLink": "https://www.googleapis.com/plus/v1/activities/z135t1ihsom0cbjo304ccz3jgmuljj0xcb0/people/resharers",
+            "totalItems": 0
+        },
+        "url": "https://plus.google.com/116763099544850540335/posts/NzZmPWkPmwY"
+    },
+    "provider": {"title": "Google+"},
+    "published": {
+        "dateOnly": false,
+        "timeZoneShift": 0,
+        "value": 1390851649565
+    },
+    "title": "Our RESTXpress REST Gateway product now has its own Google+ page.",
+    "updated": {
+        "dateOnly": false,
+        "timeZoneShift": 0,
+        "value": 1390851649565
+    },
+    "url": "https://plus.google.com/116763099544850540335/posts/NzZmPWkPmwY",
+    "verb": "post"
+}
+{
+    "access": {
+        "description": "Public",
+        "items": [{"type": "public"}],
+        "kind": "plus#acl"
+    },
+    "actor": {
+        "displayName": "Exadel, Inc.",
+        "id": "116763099544850540335",
+        "image": {"url": "https://lh3.googleusercontent.com/-a9V0ekTkPxA/AAAAAAAAAAI/AAAAAAAAAFI/6UY8NchQ3-s/photo.jpg?sz=50"},
+        "url": "https://plus.google.com/116763099544850540335",
+        "verification": {"adHocVerified": "UNKNOWN_VERIFICATION_STATUS"}
+    },
+    "etag": "\"MrhFVuKLF7zHXL6gE2l7cEdzuiA/1DofbSCJUgd3LQS2TSCytZpDnMk\"",
+    "id": "z12sez0yfseeubdus22bsvv4qofvsbe1s",
+    "kind": "plus#activity",
+    "object": {
+        "actor": {"verification": {"adHocVerified": "UNKNOWN_VERIFICATION_STATUS"}},
+        "attachments": [{
+            "content": "Webinar covering these topics in a hands-on demo:\n\nBuild a SQL-based REST resource\nBuild a SOAP-based REST resource\nBuild a REST-based REST resource\nLook at filters and validators\nExample of authentication\nShow new features under development",
+            "displayName": "Overview of RESTXpress (November 13, 2013)",
+            "embed": {
+                "type": "application/x-shockwave-flash",
+                "url": "https://www.youtube.com/v/7qexG2YyPw4?version=3&autohide=1&autoplay=1&feature=autoshare-u"
+            },
+            "image": {
+                "height": 284,
+                "type": "image/jpeg",
+                "url": "https://lh5.googleusercontent.com/proxy/RlCK72CMt5eAzS127EsRFqGF1dIqv3m4mvVJCb0M3-oH3GZP8Bycbd-QCenu4zvUeKmLBT2_TxvcKXMP_bVhAw=w506-h284-n",
+                "width": 506
+            },
+            "objectType": "video",
+            "url": "https://www.youtube.com/watch?v=7qexG2YyPw4&feature=autoshare"
+        }],
+        "content": "",
+        "objectType": "note",
+        "plusoners": {
+            "selfLink": "https://www.googleapis.com/plus/v1/activities/z12sez0yfseeubdus22bsvv4qofvsbe1s/people/plusoners",
+            "totalItems": 0
+        },
+        "replies": {
+            "selfLink": "https://www.googleapis.com/plus/v1/activities/z12sez0yfseeubdus22bsvv4qofvsbe1s/comments",
+            "totalItems": 0
+        },
+        "resharers": {
+            "selfLink": "https://www.googleapis.com/plus/v1/activities/z12sez0yfseeubdus22bsvv4qofvsbe1s/people/resharers",
+            "totalItems": 0
+        },
+        "url": "https://plus.google.com/116763099544850540335/posts/FmgqksNTeAK"
+    },
+    "provider": {"title": ""},
+    "published": {
+        "dateOnly": false,
+        "timeZoneShift": 0,
+        "value": 1384396721038
+    },
+    "title": "",
+    "updated": {
+        "dateOnly": false,
+        "timeZoneShift": 0,
+        "value": 1384396721038
+    },
+    "url": "https://plus.google.com/116763099544850540335/posts/FmgqksNTeAK",
+    "verb": "post"
+}
+{
+    "access": {
+        "description": "Public",
+        "items": [{"type": "public"}],
+        "kind": "plus#acl"
+    },
+    "actor": {
+        "displayName": "Exadel, Inc.",
+        "id": "116763099544850540335",
+        "image": {"url": "https://lh3.googleusercontent.com/-a9V0ekTkPxA/AAAAAAAAAAI/AAAAAAAAAFI/6UY8NchQ3-s/photo.jpg?sz=50"},
+        "url": "https://plus.google.com/116763099544850540335",
+        "verification": {"adHocVerified": "UNKNOWN_VERIFICATION_STATUS"}
+    },
+    "etag": "\"MrhFVuKLF7zHXL6gE2l7cEdzuiA/GAIj8FetAr9iMD3d-Af2wxYTK6E\"",
+    "id": "z13tzfjodonhgrdhz04ccz3jgmuljj0xcb0",
+    "kind": "plus#activity",
+    "object": {
+        "actor": {"verification": {"adHocVerified": "UNKNOWN_VERIFICATION_STATUS"}},
+        "attachments": [{
+            "content": "RESTXpress is a gateway and administrative console that allows internal services to act as REST services. Using an existing RESTXpress REST service resource, this video shows an example of adding a validator (in this case, a custom class) and an example of adding a security configuration (in this case, based on LDAP authentication).",
+            "displayName": "Adding Validation and Security to a REST Service Resource",
+            "embed": {
+                "type": "application/x-shockwave-flash",
+                "url": "https://www.youtube.com/v/FdtgZYQA-xk?version=3&autohide=1&autoplay=1&feature=autoshare"
+            },
+            "image": {
+                "height": 284,
+                "type": "image/jpeg",
+                "url": "https://lh5.googleusercontent.com/proxy/2k1IprOVPpK3B-oH8x6UcBDS99tR4spJuCcLfvPRyqZebffy1YE0wd7b9bpO0TIkrgT9tC2wc9KbLqiSdZ1Qag=w506-h284-n",
+                "width": 506
+            },
+            "objectType": "video",
+            "url": "https://www.youtube.com/watch?v=FdtgZYQA-xk&feature=autoshare"
+        }],
+        "content": "",
+        "objectType": "note",
+        "plusoners": {
+            "selfLink": "https://www.googleapis.com/plus/v1/activities/z13tzfjodonhgrdhz04ccz3jgmuljj0xcb0/people/plusoners",
+            "totalItems": 0
+        },
+        "replies": {
+            "selfLink": "https://www.googleapis.com/plus/v1/activities/z13tzfjodonhgrdhz04ccz3jgmuljj0xcb0/comments",
+            "totalItems": 0
+        },
+        "resharers": {
+            "selfLink": "https://www.googleapis.com/plus/v1/activities/z13tzfjodonhgrdhz04ccz3jgmuljj0xcb0/people/resharers",
+            "totalItems": 0
+        },
+        "url": "https://plus.google.com/116763099544850540335/posts/Yznj1mD132r"
+    },
+    "provider": {"title": ""},
+    "published": {
+        "dateOnly": false,
+        "timeZoneShift": 0,
+        "value": 1377026401087
+    },
+    "title": "",
+    "updated": {
+        "dateOnly": false,
+        "timeZoneShift": 0,
+        "value": 1377026401087
+    },
+    "url": "https://plus.google.com/116763099544850540335/posts/Yznj1mD132r",
+    "verb": "post"
+}
+{
+    "access": {
+        "description": "Public",
+        "items": [{"type": "public"}],
+        "kind": "plus#acl"
+    },
+    "actor": {
+        "displayName": "Exadel, Inc.",
+        "id": "116763099544850540335",
+        "image": {"url": "https://lh3.googleusercontent.com/-a9V0ekTkPxA/AAAAAAAAAAI/AAAAAAAAAFI/6UY8NchQ3-s/photo.jpg?sz=50"},
+        "url": "https://plus.google.com/116763099544850540335",
+        "verification": {"adHocVerified": "UNKNOWN_VERIFICATION_STATUS"}
+    },
+    "etag": "\"MrhFVuKLF7zHXL6gE2l7cEdzuiA/kUp45lBWJYy-bwzLSOzt4tqWzyc\"",
+    "id": "z13oyjcodw3nu5dgj04ccz3jgmuljj0xcb0",
+    "kind": "plus#activity",
+    "object": {
+        "actor": {"verification": {"adHocVerified": "UNKNOWN_VERIFICATION_STATUS"}},
+        "attachments": [{
+            "content": "RESTXpress is a gateway that allows internal services to act as REST services. This video shows how RESTXpress allows you to create a REST service from a SQL query on a database..",
+            "displayName": "Setting Up a SQL-based REST Service",
+            "embed": {
+                "type": "application/x-shockwave-flash",
+                "url": "http://www.youtube.com/v/02MND0acsHI?version=3&autohide=1&autoplay=1&feature=autoshare"
+            },
+            "image": {
+                "height": 284,
+                "type": "image/jpeg",
+                "url": "https://lh3.googleusercontent.com/proxy/28mkdGbUaBGdqEb1jy6E-IHSlD5f6i9WP5aY88axWxXbzAvgRNMWxFRhd9RZPGUki7KVw83HC4Lea2HT38euzg=w506-h284-n",
+                "width": 506
+            },
+            "objectType": "video",
+            "url": "http://www.youtube.com/watch?v=02MND0acsHI&feature=autoshare"
+        }],
+        "content": "",
+        "objectType": "note",
+        "plusoners": {
+            "selfLink": "https://www.googleapis.com/plus/v1/activities/z13oyjcodw3nu5dgj04ccz3jgmuljj0xcb0/people/plusoners",
+            "totalItems": 1
+        },
+        "replies": {
+            "selfLink": "https://www.googleapis.com/plus/v1/activities/z13oyjcodw3nu5dgj04ccz3jgmuljj0xcb0/comments",
+            "totalItems": 1
+        },
+        "resharers": {
+            "selfLink": "https://www.googleapis.com/plus/v1/activities/z13oyjcodw3nu5dgj04ccz3jgmuljj0xcb0/people/resharers",
+            "totalItems": 0
+        },
+        "url": "https://plus.google.com/116763099544850540335/posts/Qy72tUV7G5N"
+    },
+    "provider": {"title": ""},
+    "published": {
+        "dateOnly": false,
+        "timeZoneShift": 0,
+        "value": 1376614786349
+    },
+    "title": "",
+    "updated": {
+        "dateOnly": false,
+        "timeZoneShift": 0,
+        "value": 1376614786349
+    },
+    "url": "https://plus.google.com/116763099544850540335/posts/Qy72tUV7G5N",
+    "verb": "post"
+}
     Activity z13oyjcodw3nu5dgj04ccz3jgmuljj0xcb0 comments: [{"actor":{"displayName":"auf zon","id":"104502035076954026523","image":{"url":"https://lh6.googleusercontent.com/-1Cdq0LohSPM/AAAAAAAAAAI/AAAAAAAAO54/DBEXB564Kak/photo.jpg?sz=50"},"url":"https://plus.google.com/104502035076954026523","verification":{"adHocVerified":"UNKNOWN_VERIFICATION_STATUS"}},"etag":"\"MrhFVuKLF7zHXL6gE2l7cEdzuiA/HaGGHqw73-u24-Nc7AAREfGjHiI\"","id":"z13oyjcodw3nu5dgj04ccz3jgmuljj0xcb0.1403149936611544","inReplyTo":[{"id":"z13oyjcodw3nu5dgj04ccz3jgmuljj0xcb0","url":"https://plus.google.com/116763099544850540335/posts/Qy72tUV7G5N"}],"kind":"plus#comment","object":{"content":"Why nobody comment your video?? I think, this video very useful","objectType":"comment"},"plusoners":{"totalItems":0},"published":"2014-06-19T03:52:16.611Z","selfLink":"https://www.googleapis.com/plus/v1/comments/z13oyjcodw3nu5dgj04ccz3jgmuljj0xcb0#1403149936611544","updated":"2014-06-19T03:52:16.611Z","verb":"post"}]
-{"access":{"description":"Public","items":[{"type":"public"}],"kind":"plus#acl"},"actor":{"displayName":"Exadel, Inc.","id":"116763099544850540335","image":{"url":"https://lh3.googleusercontent.com/-a9V0ekTkPxA/AAAAAAAAAAI/AAAAAAAAAFI/6UY8NchQ3-s/photo.jpg?sz=50"},"url":"https://plus.google.com/116763099544850540335","verification":{"adHocVerified":"UNKNOWN_VERIFICATION_STATUS"}},"etag":"\"MrhFVuKLF7zHXL6gE2l7cEdzuiA/mvNer1L8wEFR55hpDNGdS2dLTc4\"","id":"z124cfzrooi4ipdn322bsvv4qofvsbe1s","kind":"plus#activity","object":{"actor":{"verification":{"adHocVerified":"UNKNOWN_VERIFICATION_STATUS"}},"attachments":[{"content":"RESTXpress is a gateway that allows internal services to act as REST services. This video shows how RESTXpress works by creating two REST services based on a SQL data source, as part of a demo app for helping insurance agents in the field.","displayName":"A Quick Intro to RESTXpress","embed":{"type":"application/x-shockwave-flash","url":"http://www.youtube.com/v/aimPzdDApdM?version=3&autohide=1&autoplay=1&feature=autoshare"},"image":{"height":284,"type":"image/jpeg","url":"https://lh3.googleusercontent.com/proxy/_78vOgKekFHLn5xVO8y1uj1O9D4DkIrZlRb4k43P_lRPOdtejwTmPCRKBICbGa5BFJ5fg_BZ6-WKzrGDYde2nw=w506-h284-n","width":506},"objectType":"video","url":"http://www.youtube.com/watch?v=aimPzdDApdM&feature=autoshare"}],"content":"","objectType":"note","plusoners":{"selfLink":"https://www.googleapis.com/plus/v1/activities/z124cfzrooi4ipdn322bsvv4qofvsbe1s/people/plusoners","totalItems":0},"replies":{"selfLink":"https://www.googleapis.com/plus/v1/activities/z124cfzrooi4ipdn322bsvv4qofvsbe1s/comments","totalItems":0},"resharers":{"selfLink":"https://www.googleapis.com/plus/v1/activities/z124cfzrooi4ipdn322bsvv4qofvsbe1s/people/resharers","totalItems":0},"url":"https://plus.google.com/116763099544850540335/posts/HcNHAdgNzPH"},"provider":{"title":""},"published":"2013-06-25T00:32:20.241Z","title":"","updated":"2013-06-25T00:32:20.241Z","url":"https://plus.google.com/116763099544850540335/posts/HcNHAdgNzPH","verb":"post"}
-{"access":{"description":"Public","items":[{"type":"public"}],"kind":"plus#acl"},"actor":{"displayName":"Exadel, Inc.","id":"116763099544850540335","image":{"url":"https://lh3.googleusercontent.com/-a9V0ekTkPxA/AAAAAAAAAAI/AAAAAAAAAFI/6UY8NchQ3-s/photo.jpg?sz=50"},"url":"https://plus.google.com/116763099544850540335","verification":{"adHocVerified":"UNKNOWN_VERIFICATION_STATUS"}},"etag":"\"MrhFVuKLF7zHXL6gE2l7cEdzuiA/ZfWrcZQ-ItWbNjj4LcFBCElKrR0\"","id":"z12xg1hicsvsgziod04ccz3jgmuljj0xcb0","kind":"plus#activity","object":{"actor":{"verification":{"adHocVerified":"UNKNOWN_VERIFICATION_STATUS"}},"attachments":[{"content":"RESTXpress is a gateway that allows internal services to act as REST services. This video shows how RESTXpress allows you to create REST service from an existing SOAP-based service.","displayName":"Setting Up a REST Service from a SOAP-based Web Service","embed":{"type":"application/x-shockwave-flash","url":"http://www.youtube.com/v/-22fT2Y1aQE?version=3&autohide=1&autoplay=1&feature=autoshare"},"image":{"height":284,"type":"image/jpeg","url":"https://lh4.googleusercontent.com/proxy/7AISIvFMQgHWNngF05uMvbVEVXcjifmTY1pz_T5ryjGFSunr1bmI9me0oYKI9xBmQtG9g1U7CIudSm39OuBcXw=w506-h284-n","width":506},"objectType":"video","url":"http://www.youtube.com/watch?v=-22fT2Y1aQE&feature=autoshare"}],"content":"","objectType":"note","plusoners":{"selfLink":"https://www.googleapis.com/plus/v1/activities/z12xg1hicsvsgziod04ccz3jgmuljj0xcb0/people/plusoners","totalItems":0},"replies":{"selfLink":"https://www.googleapis.com/plus/v1/activities/z12xg1hicsvsgziod04ccz3jgmuljj0xcb0/comments","totalItems":0},"resharers":{"selfLink":"https://www.googleapis.com/plus/v1/activities/z12xg1hicsvsgziod04ccz3jgmuljj0xcb0/people/resharers","totalItems":0},"url":"https://plus.google.com/116763099544850540335/posts/PzWrkwi2GsK"},"provider":{"title":""},"published":"2013-06-25T00:32:19.816Z","title":"","updated":"2013-06-25T00:32:19.816Z","url":"https://plus.google.com/116763099544850540335/posts/PzWrkwi2GsK","verb":"post"}
+{
+    "access": {
+        "description": "Public",
+        "items": [{"type": "public"}],
+        "kind": "plus#acl"
+    },
+    "actor": {
+        "displayName": "Exadel, Inc.",
+        "id": "116763099544850540335",
+        "image": {"url": "https://lh3.googleusercontent.com/-a9V0ekTkPxA/AAAAAAAAAAI/AAAAAAAAAFI/6UY8NchQ3-s/photo.jpg?sz=50"},
+        "url": "https://plus.google.com/116763099544850540335",
+        "verification": {"adHocVerified": "UNKNOWN_VERIFICATION_STATUS"}
+    },
+    "etag": "\"MrhFVuKLF7zHXL6gE2l7cEdzuiA/mvNer1L8wEFR55hpDNGdS2dLTc4\"",
+    "id": "z124cfzrooi4ipdn322bsvv4qofvsbe1s",
+    "kind": "plus#activity",
+    "object": {
+        "actor": {"verification": {"adHocVerified": "UNKNOWN_VERIFICATION_STATUS"}},
+        "attachments": [{
+            "content": "RESTXpress is a gateway that allows internal services to act as REST services. This video shows how RESTXpress works by creating two REST services based on a SQL data source, as part of a demo app for helping insurance agents in the field.",
+            "displayName": "A Quick Intro to RESTXpress",
+            "embed": {
+                "type": "application/x-shockwave-flash",
+                "url": "http://www.youtube.com/v/aimPzdDApdM?version=3&autohide=1&autoplay=1&feature=autoshare"
+            },
+            "image": {
+                "height": 284,
+                "type": "image/jpeg",
+                "url": "https://lh3.googleusercontent.com/proxy/_78vOgKekFHLn5xVO8y1uj1O9D4DkIrZlRb4k43P_lRPOdtejwTmPCRKBICbGa5BFJ5fg_BZ6-WKzrGDYde2nw=w506-h284-n",
+                "width": 506
+            },
+            "objectType": "video",
+            "url": "http://www.youtube.com/watch?v=aimPzdDApdM&feature=autoshare"
+        }],
+        "content": "",
+        "objectType": "note",
+        "plusoners": {
+            "selfLink": "https://www.googleapis.com/plus/v1/activities/z124cfzrooi4ipdn322bsvv4qofvsbe1s/people/plusoners",
+            "totalItems": 0
+        },
+        "replies": {
+            "selfLink": "https://www.googleapis.com/plus/v1/activities/z124cfzrooi4ipdn322bsvv4qofvsbe1s/comments",
+            "totalItems": 0
+        },
+        "resharers": {
+            "selfLink": "https://www.googleapis.com/plus/v1/activities/z124cfzrooi4ipdn322bsvv4qofvsbe1s/people/resharers",
+            "totalItems": 0
+        },
+        "url": "https://plus.google.com/116763099544850540335/posts/HcNHAdgNzPH"
+    },
+    "provider": {"title": ""},
+    "published": {
+        "dateOnly": false,
+        "timeZoneShift": 0,
+        "value": 1372120340241
+    },
+    "title": "",
+    "updated": {
+        "dateOnly": false,
+        "timeZoneShift": 0,
+        "value": 1372120340241
+    },
+    "url": "https://plus.google.com/116763099544850540335/posts/HcNHAdgNzPH",
+    "verb": "post"
+}
+{
+    "access": {
+        "description": "Public",
+        "items": [{"type": "public"}],
+        "kind": "plus#acl"
+    },
+    "actor": {
+        "displayName": "Exadel, Inc.",
+        "id": "116763099544850540335",
+        "image": {"url": "https://lh3.googleusercontent.com/-a9V0ekTkPxA/AAAAAAAAAAI/AAAAAAAAAFI/6UY8NchQ3-s/photo.jpg?sz=50"},
+        "url": "https://plus.google.com/116763099544850540335",
+        "verification": {"adHocVerified": "UNKNOWN_VERIFICATION_STATUS"}
+    },
+    "etag": "\"MrhFVuKLF7zHXL6gE2l7cEdzuiA/ZfWrcZQ-ItWbNjj4LcFBCElKrR0\"",
+    "id": "z12xg1hicsvsgziod04ccz3jgmuljj0xcb0",
+    "kind": "plus#activity",
+    "object": {
+        "actor": {"verification": {"adHocVerified": "UNKNOWN_VERIFICATION_STATUS"}},
+        "attachments": [{
+            "content": "RESTXpress is a gateway that allows internal services to act as REST services. This video shows how RESTXpress allows you to create REST service from an existing SOAP-based service.",
+            "displayName": "Setting Up a REST Service from a SOAP-based Web Service",
+            "embed": {
+                "type": "application/x-shockwave-flash",
+                "url": "http://www.youtube.com/v/-22fT2Y1aQE?version=3&autohide=1&autoplay=1&feature=autoshare"
+            },
+            "image": {
+                "height": 284,
+                "type": "image/jpeg",
+                "url": "https://lh4.googleusercontent.com/proxy/7AISIvFMQgHWNngF05uMvbVEVXcjifmTY1pz_T5ryjGFSunr1bmI9me0oYKI9xBmQtG9g1U7CIudSm39OuBcXw=w506-h284-n",
+                "width": 506
+            },
+            "objectType": "video",
+            "url": "http://www.youtube.com/watch?v=-22fT2Y1aQE&feature=autoshare"
+        }],
+        "content": "",
+        "objectType": "note",
+        "plusoners": {
+            "selfLink": "https://www.googleapis.com/plus/v1/activities/z12xg1hicsvsgziod04ccz3jgmuljj0xcb0/people/plusoners",
+            "totalItems": 0
+        },
+        "replies": {
+            "selfLink": "https://www.googleapis.com/plus/v1/activities/z12xg1hicsvsgziod04ccz3jgmuljj0xcb0/comments",
+            "totalItems": 0
+        },
+        "resharers": {
+            "selfLink": "https://www.googleapis.com/plus/v1/activities/z12xg1hicsvsgziod04ccz3jgmuljj0xcb0/people/resharers",
+            "totalItems": 0
+        },
+        "url": "https://plus.google.com/116763099544850540335/posts/PzWrkwi2GsK"
+    },
+    "provider": {"title": ""},
+    "published": {
+        "dateOnly": false,
+        "timeZoneShift": 0,
+        "value": 1372120339816
+    },
+    "title": "",
+    "updated": {
+        "dateOnly": false,
+        "timeZoneShift": 0,
+        "value": 1372120339816
+    },
+    "url": "https://plus.google.com/116763099544850540335/posts/PzWrkwi2GsK",
+    "verb": "post"
+}
 

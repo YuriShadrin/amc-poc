@@ -9,6 +9,8 @@ import com.google.api.services.plus.model.Activity;
 import com.google.api.services.plus.model.Comment;
 import com.google.api.services.plus.model.Person;
 
+import facebook4j.internal.org.json.JSONObject;
+
 /**
  * Create Google account Go to https://console.developers.google.com/ Create new
  * project (click "Enable and manage APIs" link) or choose the existing Go to
@@ -54,7 +56,8 @@ public class GooglePlusTest {
                 log.info("--- Activities:");
                 List<Activity> la = gp.getActivities(lp.get(0).getId());
                 for (Activity a : la) {
-                    log.info("{}", a);
+                    
+                    log.info("{}", new JSONObject(a).toString(4));
 
                     List<Comment> lc = gp.getActivityComments(a.getId());
                     if (lc.size() > 0) {
