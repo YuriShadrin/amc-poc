@@ -79,6 +79,7 @@ public class YoutubeTest {
         log.info("\tIsLinked: {}", ci.getStatus().getIsLinked());
         log.info("\tLongUploadsStatus: {}", ci.getStatus().getLongUploadsStatus());
         log.info("\tPrivacyStatus: {}", ci.getStatus().getPrivacyStatus());
+        log.info("\tStatistics: {}", ci.getStatistics());
     }
 
 }
