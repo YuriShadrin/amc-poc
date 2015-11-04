@@ -176,3 +176,5 @@ access.token=ACCESS_TOKEN
 
 https://market.mashape.com/byroredux/metacritic/pricing
 
+### Zap2it
+:x: Unfortunately API for **Zap2it** was not found.
