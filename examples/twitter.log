@@ -1,0 +1,1036 @@
+Lookup users: [ladygaga]
+
+Id: 14230524
+Name: The Countess
+Screen name: ladygaga
+Description: jazz art pop punk actress
+AccessLevel: 0
+CreatedAt: Thu Mar 27 00:37:48 EET 2008
+FavouritesCount: 534
+FollowersCount: 52103935
+FriendsCount: 131609
+ListedCount: 232432
+StatusesCount: 7064
+Lang: en
+Status: StatusJSONImpl{createdAt=Tue Nov 03 21:09:05 EET 2015, id=661621133553360896, text='Help out someone in need today and give back. 1 dollar will make a difference. https://t.co/hbT3aM1E7H', source='<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>', isTruncated=false, inReplyToStatusId=-1, inReplyToUserId=-1, isFavorited=false, isRetweeted=false, favoriteCount=3235, inReplyToScreenName='null', geoLocation=null, place=null, retweetCount=1889, isPossiblySensitive=false, lang='en', contributorsIDs=[], retweetedStatus=null, userMentionEntities=[], urlEntities=[URLEntityJSONImpl{url='https://t.co/hbT3aM1E7H', expandedURL='https://twitter.com/ladystarlightny/status/661584339608723456', displayURL='twitter.com/ladystarlightn…'}], hashtagEntities=[], mediaEntities=[], symbolEntities=[], currentUserRetweetId=-1, user=null, withHeldInCountries=null}
+TimeZone: Quito
+URL: null
+---------------------------------
+
+Search tweets: Query{query='ladygaga', lang='null', locale='null', maxId=-1, count=50, since='2015-10-28', sinceId=-1, geocode='null', until='2015-11-4', resultType='null', nextPageQuery='null'}
+
+Id: 661694300875567104
+CreatedAt: Wed Nov 04 01:59:49 EET 2015
+CurrentUserRetweetId: -1
+FavoriteCount: 0
+GeoLocation: null
+HashtagEntities: []
+InReplyToScreenName: null
+InReplyToStatusId: -1
+InReplyToUserId: -1
+Lang: en
+MediaEntities: [MediaEntityJSONImpl{id=661075554636926976, url=https://t.co/10LGjULsvp, mediaURL=http://pbs.twimg.com/media/CSyctuPUEAA7SJl.jpg, mediaURLHttps=https://pbs.twimg.com/media/CSyctuPUEAA7SJl.jpg, expandedURL=http://twitter.com/ladygaga/status/661075565366091776/photo/1, displayURL='pic.twitter.com/10LGjULsvp', sizes={0=Size{width=150, height=150, resize=101}, 1=Size{width=340, height=501, resize=100}, 2=Size{width=600, height=885, resize=100}, 3=Size{width=694, height=1024, resize=100}}, type=photo}]
+Place: null
+RetweetCount: 3240
+RetweetedStatus: StatusJSONImpl{createdAt=Mon Nov 02 09:01:11 EET 2015, id=661075565366091776, text='Love my @YSL t-shirt they are the best! Custom @MaisonValentino purse very vintage @ManoloBlahnik kitten heels ?? https://t.co/10LGjULsvp', source='<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>', isTruncated=false, inReplyToStatusId=-1, inReplyToUserId=-1, isFavorited=false, isRetweeted=false, favoriteCount=7544, inReplyToScreenName='null', geoLocation=null, place=null, retweetCount=3240, isPossiblySensitive=false, lang='en', contributorsIDs=[], retweetedStatus=null, userMentionEntities=[UserMentionEntityJSONImpl{name='Yves Saint Laurent', screenName='YSL', id=60054156}, UserMentionEntityJSONImpl{name='Valentino', screenName='MaisonValentino', id=73359920}, UserMentionEntityJSONImpl{name='Manolo Blahnik', screenName='ManoloBlahnik', id=714334891}], urlEntities=[], hashtagEntities=[], mediaEntities=[MediaEntityJSONImpl{id=661075554636926976, url=https://t.co/10LGjULsvp, mediaURL=http://pbs.twimg.com/media/CSyctuPUEAA7SJl.jpg, mediaURLHttps=https://pbs.twimg.com/media/CSyctuPUEAA7SJl.jpg, expandedURL=http://twitter.com/ladygaga/status/661075565366091776/photo/1, displayURL='pic.twitter.com/10LGjULsvp', sizes={0=Size{width=150, height=150, resize=101}, 1=Size{width=340, height=501, resize=100}, 2=Size{width=600, height=885, resize=100}, 3=Size{width=694, height=1024, resize=100}}, type=photo}], symbolEntities=[], currentUserRetweetId=-1, user=UserJSONImpl{id=14230524, name='The Countess', screenName='ladygaga', location='', description='jazz art pop punk actress', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/651768708789108736/O-_dWj58_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/651768708789108736/O-_dWj58_normal.jpg', isDefaultProfileImage=false, url='null', isProtected=false, followersCount=52103935, status=null, profileBackgroundColor='0A090A', profileTextColor='333333', profileLinkColor='050505', profileSidebarFillColor='DDFFCC', profileSidebarBorderColor='000000', profileUseBackgroundImage=true, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=131609, createdAt=Thu Mar 27 00:37:48 EET 2008, favouritesCount=534, utcOffset=-18000, timeZone='Quito', profileBackgroundImageUrl='http://pbs.twimg.com/profile_background_images/514429204939563008/4md0cRjw.png', profileBackgroundImageUrlHttps='https://pbs.twimg.com/profile_background_images/514429204939563008/4md0cRjw.png', profileBackgroundTiled=true, lang='en', statusesCount=7064, isGeoEnabled=false, isVerified=true, translator=false, listedCount=232432, isFollowRequestSent=false, withheldInCountries=null}, withHeldInCountries=null}
+Scopes: null
+Source: <a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
+Text: RT @ladygaga: Love my @YSL t-shirt they are the best! Custom @MaisonValentino purse very vintage @ManoloBlahnik kitten heels ?? https://t.c…
+User: UserJSONImpl{id=131355678, name='Brandon Virtue', screenName='brandonvirtue', location='New Jersey PARTYNAUSEOUS', description='You attract the right things when you have a sense of who you are | Rutgers University'18 | Lady Gaga followed on 5.18.14 & tweeted me on 8.14.14', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/657712797527199744/0nz0AlPz_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/657712797527199744/0nz0AlPz_normal.jpg', isDefaultProfileImage=false, url='null', isProtected=false, followersCount=4502, status=null, profileBackgroundColor='131516', profileTextColor='333333', profileLinkColor='009999', profileSidebarFillColor='EFEFEF', profileSidebarBorderColor='EEEEEE', profileUseBackgroundImage=true, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=4128, createdAt=Sat Apr 10 04:28:28 EEST 2010, favouritesCount=9791, utcOffset=-21600, timeZone='Central Time (US & Canada)', profileBackgroundImageUrl='http://abs.twimg.com/images/themes/theme14/bg.gif', profileBackgroundImageUrlHttps='https://abs.twimg.com/images/themes/theme14/bg.gif', profileBackgroundTiled=true, lang='en', statusesCount=37476, isGeoEnabled=true, isVerified=false, translator=false, listedCount=11, isFollowRequestSent=false, withheldInCountries=null}
+---------------------------------
+
+Id: 661694292197400576
+CreatedAt: Wed Nov 04 01:59:47 EET 2015
+CurrentUserRetweetId: -1
+FavoriteCount: 0
+GeoLocation: null
+HashtagEntities: []
+InReplyToScreenName: null
+InReplyToStatusId: -1
+InReplyToUserId: -1
+Lang: en
+MediaEntities: [MediaEntityJSONImpl{id=658330690262401024, url=https://t.co/7SJgoc3q1h, mediaURL=http://pbs.twimg.com/media/CSLcRlnUAAAmu5W.jpg, mediaURLHttps=https://pbs.twimg.com/media/CSLcRlnUAAAmu5W.jpg, expandedURL=http://twitter.com/ladygaga/status/658330697015230464/photo/1, displayURL='pic.twitter.com/7SJgoc3q1h', sizes={0=Size{width=150, height=150, resize=101}, 1=Size{width=340, height=255, resize=100}, 2=Size{width=600, height=450, resize=100}, 3=Size{width=1024, height=768, resize=100}}, type=photo}]
+Place: null
+RetweetCount: 12820
+RetweetedStatus: StatusJSONImpl{createdAt=Sun Oct 25 19:14:04 EET 2015, id=658330697015230464, text='Last night, she saiiid oh baby I feel so down ?? https://t.co/7SJgoc3q1h', source='<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>', isTruncated=false, inReplyToStatusId=-1, inReplyToUserId=-1, isFavorited=false, isRetweeted=false, favoriteCount=25485, inReplyToScreenName='null', geoLocation=null, place=null, retweetCount=12820, isPossiblySensitive=false, lang='en', contributorsIDs=[], retweetedStatus=null, userMentionEntities=[], urlEntities=[], hashtagEntities=[], mediaEntities=[MediaEntityJSONImpl{id=658330690262401024, url=https://t.co/7SJgoc3q1h, mediaURL=http://pbs.twimg.com/media/CSLcRlnUAAAmu5W.jpg, mediaURLHttps=https://pbs.twimg.com/media/CSLcRlnUAAAmu5W.jpg, expandedURL=http://twitter.com/ladygaga/status/658330697015230464/photo/1, displayURL='pic.twitter.com/7SJgoc3q1h', sizes={0=Size{width=150, height=150, resize=101}, 1=Size{width=340, height=255, resize=100}, 2=Size{width=600, height=450, resize=100}, 3=Size{width=1024, height=768, resize=100}}, type=photo}], symbolEntities=[], currentUserRetweetId=-1, user=UserJSONImpl{id=14230524, name='The Countess', screenName='ladygaga', location='', description='jazz art pop punk actress', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/651768708789108736/O-_dWj58_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/651768708789108736/O-_dWj58_normal.jpg', isDefaultProfileImage=false, url='null', isProtected=false, followersCount=52103935, status=null, profileBackgroundColor='0A090A', profileTextColor='333333', profileLinkColor='050505', profileSidebarFillColor='DDFFCC', profileSidebarBorderColor='000000', profileUseBackgroundImage=true, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=131609, createdAt=Thu Mar 27 00:37:48 EET 2008, favouritesCount=534, utcOffset=-18000, timeZone='Quito', profileBackgroundImageUrl='http://pbs.twimg.com/profile_background_images/514429204939563008/4md0cRjw.png', profileBackgroundImageUrlHttps='https://pbs.twimg.com/profile_background_images/514429204939563008/4md0cRjw.png', profileBackgroundTiled=true, lang='en', statusesCount=7064, isGeoEnabled=false, isVerified=true, translator=false, listedCount=232432, isFollowRequestSent=false, withheldInCountries=null}, withHeldInCountries=null}
+Scopes: null
+Source: <a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
+Text: RT @ladygaga: Last night, she saiiid oh baby I feel so down ?? https://t.co/7SJgoc3q1h
+User: UserJSONImpl{id=2258009366, name='Alyssa', screenName='floooowerss', location='tejas', description='@vincvnt ??', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/656584472163323904/JKmo1ybB_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/656584472163323904/JKmo1ybB_normal.jpg', isDefaultProfileImage=false, url='null', isProtected=false, followersCount=327, status=null, profileBackgroundColor='000000', profileTextColor='000000', profileLinkColor='00B371', profileSidebarFillColor='000000', profileSidebarBorderColor='000000', profileUseBackgroundImage=false, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=229, createdAt=Sun Dec 22 21:27:10 EET 2013, favouritesCount=5755, utcOffset=-1, timeZone='null', profileBackgroundImageUrl='http://abs.twimg.com/images/themes/theme1/bg.png', profileBackgroundImageUrlHttps='https://abs.twimg.com/images/themes/theme1/bg.png', profileBackgroundTiled=false, lang='en', statusesCount=4049, isGeoEnabled=true, isVerified=false, translator=false, listedCount=1, isFollowRequestSent=false, withheldInCountries=null}
+---------------------------------
+
+Id: 661694249080135680
+CreatedAt: Wed Nov 04 01:59:37 EET 2015
+CurrentUserRetweetId: -1
+FavoriteCount: 0
+GeoLocation: null
+HashtagEntities: []
+InReplyToScreenName: null
+InReplyToStatusId: -1
+InReplyToUserId: -1
+Lang: en
+MediaEntities: []
+Place: null
+RetweetCount: 11817
+RetweetedStatus: StatusJSONImpl{createdAt=Wed Feb 11 22:46:36 EET 2015, id=565612892972920834, text='@ladygaga you are actually an angel. i loved meeting you too!! and tony too! the cutest in the world.', source='<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>', isTruncated=false, inReplyToStatusId=565610054179913728, inReplyToUserId=14230524, isFavorited=false, isRetweeted=false, favoriteCount=18188, inReplyToScreenName='ladygaga', geoLocation=null, place=null, retweetCount=11817, isPossiblySensitive=false, lang='en', contributorsIDs=[], retweetedStatus=null, userMentionEntities=[UserMentionEntityJSONImpl{name='The Countess', screenName='ladygaga', id=14230524}], urlEntities=[], hashtagEntities=[], mediaEntities=[], symbolEntities=[], currentUserRetweetId=-1, user=UserJSONImpl{id=34507480, name='Ariana Grande', screenName='ArianaGrande', location='Honeymoon ?ve. ', description='moonlight', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/661278118041092096/ppi5ew4S_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/661278118041092096/ppi5ew4S_normal.jpg', isDefaultProfileImage=false, url='https://t.co/KuBZDZLgqI', isProtected=false, followersCount=33561819, status=null, profileBackgroundColor='000000', profileTextColor='D8A0C1', profileLinkColor='AD92D1', profileSidebarFillColor='F6F6F6', profileSidebarBorderColor='000000', profileUseBackgroundImage=true, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=68190, createdAt=Thu Apr 23 05:56:31 EEST 2009, favouritesCount=19928, utcOffset=-28800, timeZone='Pacific Time (US & Canada)', profileBackgroundImageUrl='http://pbs.twimg.com/profile_background_images/571171475973869568/-TmdB2Wz.png', profileBackgroundImageUrlHttps='https://pbs.twimg.com/profile_background_images/571171475973869568/-TmdB2Wz.png', profileBackgroundTiled=true, lang='en', statusesCount=38041, isGeoEnabled=false, isVerified=true, translator=false, listedCount=48672, isFollowRequestSent=false, withheldInCountries=null}, withHeldInCountries=null}
+Scopes: null
+Source: <a href="http://www.twitter.com" rel="nofollow">Twitter for Windows</a>
+Text: RT @ArianaGrande: @ladygaga you are actually an angel. i loved meeting you too!! and tony too! the cutest in the world.
+User: UserJSONImpl{id=628402872, name='Peter / fback?', screenName='jerryconha', location='moonlight', description='ag jb sg ddl 1d kp minaj', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/660938689154035712/g3J2i00m_normal.png', profileImageUrlHttps='https://pbs.twimg.com/profile_images/660938689154035712/g3J2i00m_normal.png', isDefaultProfileImage=false, url='http://t.co/xTliSrubXF', isProtected=false, followersCount=37675, status=null, profileBackgroundColor='FFFFFF', profileTextColor='333333', profileLinkColor='000105', profileSidebarFillColor='EFEFEF', profileSidebarBorderColor='000000', profileUseBackgroundImage=false, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=22747, createdAt=Fri Jul 06 15:10:07 EET 2012, favouritesCount=705, utcOffset=-7200, timeZone='Brasilia', profileBackgroundImageUrl='http://pbs.twimg.com/profile_background_images/469616573200621568/Pl2YTSdT.png', profileBackgroundImageUrlHttps='https://pbs.twimg.com/profile_background_images/469616573200621568/Pl2YTSdT.png', profileBackgroundTiled=false, lang='pt', statusesCount=364911, isGeoEnabled=true, isVerified=false, translator=true, listedCount=97, isFollowRequestSent=false, withheldInCountries=null}
+---------------------------------
+
+Id: 661694220135088128
+CreatedAt: Wed Nov 04 01:59:30 EET 2015
+CurrentUserRetweetId: -1
+FavoriteCount: 0
+GeoLocation: null
+HashtagEntities: []
+InReplyToScreenName: ladygaga
+InReplyToStatusId: -1
+InReplyToUserId: 14230524
+Lang: en
+MediaEntities: []
+Place: null
+RetweetCount: 0
+RetweetedStatus: null
+Scopes: null
+Source: <a href="http://twittbot.net/" rel="nofollow">twittbot.net</a>
+Text: @ladygaga i love you to the moon <3
+User: UserJSONImpl{id=752476015, name='Beez ', screenName='castielF', location='Kingdom of Monsters', description='There's something 'bout , baby ? and I @ladygaga ?', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/547976246324260864/oAM5fc7W_normal.jpeg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/547976246324260864/oAM5fc7W_normal.jpeg', isDefaultProfileImage=false, url='http://t.co/99KkXEzfRV', isProtected=false, followersCount=149, status=null, profileBackgroundColor='C0DEED', profileTextColor='333333', profileLinkColor='0084B4', profileSidebarFillColor='DDEEF6', profileSidebarBorderColor='000000', profileUseBackgroundImage=true, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=145, createdAt=Sun Aug 12 07:41:00 EET 2012, favouritesCount=226, utcOffset=25200, timeZone='Bangkok', profileBackgroundImageUrl='http://pbs.twimg.com/profile_background_images/378800000079014071/fe37052e2ca69e4db311946dc24eab40.jpeg', profileBackgroundImageUrlHttps='https://pbs.twimg.com/profile_background_images/378800000079014071/fe37052e2ca69e4db311946dc24eab40.jpeg', profileBackgroundTiled=false, lang='en', statusesCount=67181, isGeoEnabled=true, isVerified=false, translator=false, listedCount=4, isFollowRequestSent=false, withheldInCountries=null}
+---------------------------------
+
+Id: 661694060416118784
+CreatedAt: Wed Nov 04 01:58:52 EET 2015
+CurrentUserRetweetId: -1
+FavoriteCount: 0
+GeoLocation: null
+HashtagEntities: []
+InReplyToScreenName: null
+InReplyToStatusId: -1
+InReplyToUserId: -1
+Lang: en
+MediaEntities: [MediaEntityJSONImpl{id=661694060260958212, url=https://t.co/OL5YstWE9R, mediaURL=http://pbs.twimg.com/media/CS7PPfPXIAQP0Jx.jpg, mediaURLHttps=https://pbs.twimg.com/media/CS7PPfPXIAQP0Jx.jpg, expandedURL=http://twitter.com/SocmedBeauty/status/661694060416118784/photo/1, displayURL='pic.twitter.com/OL5YstWE9R', sizes={0=Size{width=150, height=150, resize=101}, 1=Size{width=340, height=191, resize=100}, 2=Size{width=600, height=338, resize=100}, 3=Size{width=1024, height=577, resize=100}}, type=photo}]
+Place: null
+RetweetCount: 0
+RetweetedStatus: null
+Scopes: null
+Source: <a href="http://ifttt.com" rel="nofollow">IFTTT</a>
+Text: @annabellaataroreh - If you don't have any shadows, you're not in the LIGHT. - @ladygaga https://t.co/OL5YstWE9R
+User: UserJSONImpl{id=2886980606, name='Social Media Beauty', screenName='SocmedBeauty', location='', description='Retweet from Instagram Account | Email: socmedbeauty@gmail.com | IG: socmedbeauty | Those all tweets are from IG..If IG and Twitter acc is same,you Lucky!', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/529696541162741761/t54kJ0B9_normal.jpeg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/529696541162741761/t54kJ0B9_normal.jpeg', isDefaultProfileImage=false, url='http://t.co/oG5hdyg9K6', isProtected=false, followersCount=4462, status=null, profileBackgroundColor='C0DEED', profileTextColor='333333', profileLinkColor='0084B4', profileSidebarFillColor='DDEEF6', profileSidebarBorderColor='C0DEED', profileUseBackgroundImage=true, isDefaultProfile=true, showAllInlineMedia=false, friendsCount=1808, createdAt=Sun Nov 02 06:13:54 EET 2014, favouritesCount=1218, utcOffset=25200, timeZone='Jakarta', profileBackgroundImageUrl='http://abs.twimg.com/images/themes/theme1/bg.png', profileBackgroundImageUrlHttps='https://abs.twimg.com/images/themes/theme1/bg.png', profileBackgroundTiled=false, lang='en', statusesCount=39862, isGeoEnabled=false, isVerified=false, translator=false, listedCount=127, isFollowRequestSent=false, withheldInCountries=null}
+---------------------------------
+
+Id: 661694052467765248
+CreatedAt: Wed Nov 04 01:58:50 EET 2015
+CurrentUserRetweetId: -1
+FavoriteCount: 0
+GeoLocation: null
+HashtagEntities: [HashtagEntityJSONImpl{text='TheMuppets'}]
+InReplyToScreenName: null
+InReplyToStatusId: -1
+InReplyToUserId: -1
+Lang: en
+MediaEntities: []
+Place: null
+RetweetCount: 445
+RetweetedStatus: StatusJSONImpl{createdAt=Tue Nov 03 21:55:01 EET 2015, id=661632693348802560, text='Bonjour, @ladygaga! It's been far too long since we've spent time together. Why don't you come perform with moi on my new show #TheMuppets?', source='<a href="http://www.sprinklr.com" rel="nofollow">Sprinklr</a>', isTruncated=false, inReplyToStatusId=-1, inReplyToUserId=-1, isFavorited=false, isRetweeted=false, favoriteCount=686, inReplyToScreenName='null', geoLocation=null, place=null, retweetCount=445, isPossiblySensitive=false, lang='en', contributorsIDs=[], retweetedStatus=null, userMentionEntities=[UserMentionEntityJSONImpl{name='The Countess', screenName='ladygaga', id=14230524}], urlEntities=[], hashtagEntities=[HashtagEntityJSONImpl{text='TheMuppets'}], mediaEntities=[], symbolEntities=[], currentUserRetweetId=-1, user=UserJSONImpl{id=785739140, name='Miss Piggy', screenName='MissPiggy', location='Hollywood, CA', description='Welcome to the official twitter of moi!', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/646795584079200257/ukv-DSfK_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/646795584079200257/ukv-DSfK_normal.jpg', isDefaultProfileImage=false, url='null', isProtected=false, followersCount=90333, status=null, profileBackgroundColor='DBE9ED', profileTextColor='333333', profileLinkColor='CC3366', profileSidebarFillColor='E6F6F9', profileSidebarBorderColor='DBE9ED', profileUseBackgroundImage=true, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=107, createdAt=Tue Aug 28 02:47:57 EET 2012, favouritesCount=45, utcOffset=-28800, timeZone='Pacific Time (US & Canada)', profileBackgroundImageUrl='http://abs.twimg.com/images/themes/theme17/bg.gif', profileBackgroundImageUrlHttps='https://abs.twimg.com/images/themes/theme17/bg.gif', profileBackgroundTiled=false, lang='en', statusesCount=749, isGeoEnabled=true, isVerified=true, translator=false, listedCount=443, isFollowRequestSent=false, withheldInCountries=null}, withHeldInCountries=null}
+Scopes: null
+Source: <a href="http://twitter.com/#!/download/ipad" rel="nofollow">Twitter for iPad</a>
+Text: RT @MissPiggy: Bonjour, @ladygaga! It's been far too long since we've spent time together. Why don't you come perform with moi on my new sh…
+User: UserJSONImpl{id=174076392, name='Holden', screenName='ectthor', location='M?xico, D.F.', description='Tan urbano, Tan arrogante y Tan manipulador. HATER. PERSONA SOLA.', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/638806634819522560/euQevrTA_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/638806634819522560/euQevrTA_normal.jpg', isDefaultProfileImage=false, url='null', isProtected=false, followersCount=1043, status=null, profileBackgroundColor='DD2E44', profileTextColor='13CFF0', profileLinkColor='3B94D9', profileSidebarFillColor='0F0F01', profileSidebarBorderColor='000000', profileUseBackgroundImage=true, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=475, createdAt=Tue Aug 03 04:41:35 EEST 2010, favouritesCount=4477, utcOffset=-21600, timeZone='Central Time (US & Canada)', profileBackgroundImageUrl='http://pbs.twimg.com/profile_background_images/538113589601513472/rFl0zx00.jpeg', profileBackgroundImageUrlHttps='https://pbs.twimg.com/profile_background_images/538113589601513472/rFl0zx00.jpeg', profileBackgroundTiled=true, lang='es', statusesCount=12167, isGeoEnabled=true, isVerified=false, translator=false, listedCount=0, isFollowRequestSent=false, withheldInCountries=null}
+---------------------------------
+
+Id: 661693993961578496
+CreatedAt: Wed Nov 04 01:58:36 EET 2015
+CurrentUserRetweetId: -1
+FavoriteCount: 0
+GeoLocation: null
+HashtagEntities: []
+InReplyToScreenName: ladygaga
+InReplyToStatusId: -1
+InReplyToUserId: 14230524
+Lang: en
+MediaEntities: []
+Place: null
+RetweetCount: 0
+RetweetedStatus: null
+Scopes: null
+Source: <a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
+Text: @ladygaga I love you so much
+User: UserJSONImpl{id=4114895232, name='Em Alleaha Atkins', screenName='EmAlleaha', location='', description='ACPA 16 Squid is my best friend', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/661591935967080448/mll53p3d_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/661591935967080448/mll53p3d_normal.jpg', isDefaultProfileImage=false, url='null', isProtected=false, followersCount=11, status=null, profileBackgroundColor='C0DEED', profileTextColor='333333', profileLinkColor='0084B4', profileSidebarFillColor='DDEEF6', profileSidebarBorderColor='C0DEED', profileUseBackgroundImage=true, isDefaultProfile=true, showAllInlineMedia=false, friendsCount=179, createdAt=Tue Nov 03 19:10:37 EET 2015, favouritesCount=0, utcOffset=-1, timeZone='null', profileBackgroundImageUrl='http://abs.twimg.com/images/themes/theme1/bg.png', profileBackgroundImageUrlHttps='https://abs.twimg.com/images/themes/theme1/bg.png', profileBackgroundTiled=false, lang='en', statusesCount=2, isGeoEnabled=false, isVerified=false, translator=false, listedCount=0, isFollowRequestSent=false, withheldInCountries=null}
+---------------------------------
+
+Id: 661693989238628353
+CreatedAt: Wed Nov 04 01:58:35 EET 2015
+CurrentUserRetweetId: -1
+FavoriteCount: 0
+GeoLocation: null
+HashtagEntities: []
+InReplyToScreenName: MissPiggy
+InReplyToStatusId: 661632693348802560
+InReplyToUserId: 785739140
+Lang: en
+MediaEntities: []
+Place: null
+RetweetCount: 0
+RetweetedStatus: null
+Scopes: null
+Source: <a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
+Text: @MissPiggy @ladygaga YASS PLS GAGA GO TO THE MUPPET SHOW
+User: UserJSONImpl{id=2288994755, name='GEN?GAGA', screenName='genaths23', location='', description='@LadyGaga is my QUEEN !! SHIT GAGA I LOVE YOU ? I love so much AHS and The Countess !! I AM LITTLE MONSTER FOR EVER?', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/658376733091954688/uAD8CYin_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/658376733091954688/uAD8CYin_normal.jpg', isDefaultProfileImage=false, url='https://t.co/UdMlp5wPzE', isProtected=false, followersCount=2412, status=null, profileBackgroundColor='C0DEED', profileTextColor='333333', profileLinkColor='0084B4', profileSidebarFillColor='DDEEF6', profileSidebarBorderColor='C0DEED', profileUseBackgroundImage=true, isDefaultProfile=true, showAllInlineMedia=false, friendsCount=2567, createdAt=Sat Jan 18 04:49:20 EET 2014, favouritesCount=16107, utcOffset=-1, timeZone='null', profileBackgroundImageUrl='http://abs.twimg.com/images/themes/theme1/bg.png', profileBackgroundImageUrlHttps='https://abs.twimg.com/images/themes/theme1/bg.png', profileBackgroundTiled=false, lang='fr', statusesCount=19335, isGeoEnabled=true, isVerified=false, translator=false, listedCount=19, isFollowRequestSent=false, withheldInCountries=null}
+---------------------------------
+
+Id: 661693945026617344
+CreatedAt: Wed Nov 04 01:58:24 EET 2015
+CurrentUserRetweetId: -1
+FavoriteCount: 0
+GeoLocation: null
+HashtagEntities: []
+InReplyToScreenName: ladygaga
+InReplyToStatusId: 661310590477082624
+InReplyToUserId: 14230524
+Lang: und
+MediaEntities: []
+Place: null
+RetweetCount: 0
+RetweetedStatus: null
+Scopes: null
+Source: <a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>
+Text: @ladygaga @neilbarrett
+User: UserJSONImpl{id=4108102030, name='Tus', screenName='Tus93859066', location='', description='', isContributorsEnabled=false, profileImageUrl='http://abs.twimg.com/sticky/default_profile_images/default_profile_4_normal.png', profileImageUrlHttps='https://abs.twimg.com/sticky/default_profile_images/default_profile_4_normal.png', isDefaultProfileImage=true, url='null', isProtected=false, followersCount=13, status=null, profileBackgroundColor='C0DEED', profileTextColor='333333', profileLinkColor='0084B4', profileSidebarFillColor='DDEEF6', profileSidebarBorderColor='C0DEED', profileUseBackgroundImage=true, isDefaultProfile=true, showAllInlineMedia=false, friendsCount=29, createdAt=Wed Nov 04 01:46:46 EET 2015, favouritesCount=0, utcOffset=-1, timeZone='null', profileBackgroundImageUrl='http://abs.twimg.com/images/themes/theme1/bg.png', profileBackgroundImageUrlHttps='https://abs.twimg.com/images/themes/theme1/bg.png', profileBackgroundTiled=false, lang='en', statusesCount=2, isGeoEnabled=false, isVerified=false, translator=false, listedCount=0, isFollowRequestSent=false, withheldInCountries=null}
+---------------------------------
+
+Id: 661693901259079680
+CreatedAt: Wed Nov 04 01:58:14 EET 2015
+CurrentUserRetweetId: -1
+FavoriteCount: 0
+GeoLocation: null
+HashtagEntities: []
+InReplyToScreenName: null
+InReplyToStatusId: -1
+InReplyToUserId: -1
+Lang: en
+MediaEntities: []
+Place: null
+RetweetCount: 2
+RetweetedStatus: StatusJSONImpl{createdAt=Wed Nov 04 01:54:44 EET 2015, id=661693022501863424, text='The certified diamond pinnacle of Pop perfection delivered via @ladygaga  https://t.co/U8O3jB5khU', source='<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>', isTruncated=false, inReplyToStatusId=-1, inReplyToUserId=-1, isFavorited=false, isRetweeted=false, favoriteCount=5, inReplyToScreenName='null', geoLocation=null, place=null, retweetCount=2, isPossiblySensitive=false, lang='en', contributorsIDs=[], retweetedStatus=null, userMentionEntities=[UserMentionEntityJSONImpl{name='The Countess', screenName='ladygaga', id=14230524}], urlEntities=[URLEntityJSONImpl{url='https://t.co/U8O3jB5khU', expandedURL='https://twitter.com/iheartstans/status/661692304311189504', displayURL='twitter.com/iheartstans/st…'}], hashtagEntities=[], mediaEntities=[], symbolEntities=[], currentUserRetweetId=-1, user=UserJSONImpl{id=51381144, name='Anton XTon', screenName='AntonXTon', location='St. Louis, MO', description='All I want to do is CREATE! #Mizzou17 Journalism Communications & Music. I sing. Aspiring model. Wanderer ??', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/653445591825977344/_ISTYM_P_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/653445591825977344/_ISTYM_P_normal.jpg', isDefaultProfileImage=false, url='http://t.co/Lz3fFGrE4u', isProtected=false, followersCount=1481, status=null, profileBackgroundColor='080808', profileTextColor='AA00FF', profileLinkColor='000DFF', profileSidebarFillColor='000000', profileSidebarBorderColor='FFFFFF', profileUseBackgroundImage=true, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=674, createdAt=Sat Jun 27 10:52:33 EEST 2009, favouritesCount=788, utcOffset=-21600, timeZone='Central Time (US & Canada)', profileBackgroundImageUrl='http://pbs.twimg.com/profile_background_images/661252135489683456/uIbURdTy.jpg', profileBackgroundImageUrlHttps='https://pbs.twimg.com/profile_background_images/661252135489683456/uIbURdTy.jpg', profileBackgroundTiled=true, lang='en', statusesCount=46806, isGeoEnabled=false, isVerified=false, translator=false, listedCount=8, isFollowRequestSent=false, withheldInCountries=null}, withHeldInCountries=null}
+Scopes: null
+Source: <a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
+Text: RT @AntonXTon: The certified diamond pinnacle of Pop perfection delivered via @ladygaga  https://t.co/U8O3jB5khU
+User: UserJSONImpl{id=30969874, name='Luxx †', screenName='LuxxSOCIAL', location='', description='@asielhardison followed 6/29 @Tinashe followed 10/8', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/660176110286733312/fgv4zBzo_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/660176110286733312/fgv4zBzo_normal.jpg', isDefaultProfileImage=false, url='https://t.co/N4dpk9BPPI', isProtected=false, followersCount=1376, status=null, profileBackgroundColor='000000', profileTextColor='999999', profileLinkColor='BF004C', profileSidebarFillColor='000000', profileSidebarBorderColor='FFFFFF', profileUseBackgroundImage=true, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=1027, createdAt=Tue Apr 14 00:51:06 EEST 2009, favouritesCount=4328, utcOffset=-18000, timeZone='Quito', profileBackgroundImageUrl='http://pbs.twimg.com/profile_background_images/680599610/4c79e7e2ef12f3301069fb200547fa38.jpeg', profileBackgroundImageUrlHttps='https://pbs.twimg.com/profile_background_images/680599610/4c79e7e2ef12f3301069fb200547fa38.jpeg', profileBackgroundTiled=true, lang='en', statusesCount=66529, isGeoEnabled=true, isVerified=false, translator=false, listedCount=12, isFollowRequestSent=false, withheldInCountries=null}
+---------------------------------
+
+Id: 661693875652829184
+CreatedAt: Wed Nov 04 01:58:08 EET 2015
+CurrentUserRetweetId: -1
+FavoriteCount: 6
+GeoLocation: null
+HashtagEntities: []
+InReplyToScreenName: null
+InReplyToStatusId: -1
+InReplyToUserId: -1
+Lang: en
+MediaEntities: [MediaEntityJSONImpl{id=661693871559077888, url=https://t.co/g32Bj3FR6H, mediaURL=http://pbs.twimg.com/media/CS7PEgRU8AA70kC.jpg, mediaURLHttps=https://pbs.twimg.com/media/CS7PEgRU8AA70kC.jpg, expandedURL=http://twitter.com/JadenSardelich/status/661693875652829184/photo/1, displayURL='pic.twitter.com/g32Bj3FR6H', sizes={0=Size{width=150, height=150, resize=101}, 1=Size{width=340, height=473, resize=100}, 2=Size{width=600, height=836, resize=100}, 3=Size{width=640, height=892, resize=100}}, type=photo}]
+Place: PlaceJSONImpl{name='West Columbia', streetAddress='null', countryCode='US', id='784d3cc53ed49744', country='United States', placeType='city', url='https://api.twitter.com/1.1/geo/id/784d3cc53ed49744.json', fullName='West Columbia, TX', boundingBoxType='Polygon', boundingBoxCoordinates=[[Ltwitter4j.GeoLocation;@5e0ec80c], geometryType='null', geometryCoordinates=null, containedWithIn=[]}
+RetweetCount: 0
+RetweetedStatus: null
+Scopes: null
+Source: <a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
+Text: my vote goes to you queen ? @ladygaga https://t.co/g32Bj3FR6H
+User: UserJSONImpl{id=2754167995, name='jolly jay??', screenName='JadenSardelich', location='', description='??????????sc: jaden_sardelich ? ???', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/660889008415772672/X9Fvky-9_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/660889008415772672/X9Fvky-9_normal.jpg', isDefaultProfileImage=false, url='https://t.co/ZIJcZDRE2R', isProtected=false, followersCount=608, status=null, profileBackgroundColor='C0DEED', profileTextColor='333333', profileLinkColor='0084B4', profileSidebarFillColor='DDEEF6', profileSidebarBorderColor='C0DEED', profileUseBackgroundImage=true, isDefaultProfile=true, showAllInlineMedia=false, friendsCount=99, createdAt=Fri Aug 22 09:27:19 EET 2014, favouritesCount=3164, utcOffset=-28800, timeZone='Pacific Time (US & Canada)', profileBackgroundImageUrl='http://abs.twimg.com/images/themes/theme1/bg.png', profileBackgroundImageUrlHttps='https://abs.twimg.com/images/themes/theme1/bg.png', profileBackgroundTiled=false, lang='en', statusesCount=213, isGeoEnabled=true, isVerified=false, translator=false, listedCount=0, isFollowRequestSent=false, withheldInCountries=null}
+---------------------------------
+
+Id: 661693835475570688
+CreatedAt: Wed Nov 04 01:57:58 EET 2015
+CurrentUserRetweetId: -1
+FavoriteCount: 0
+GeoLocation: null
+HashtagEntities: []
+InReplyToScreenName: null
+InReplyToStatusId: -1
+InReplyToUserId: -1
+Lang: und
+MediaEntities: [MediaEntityJSONImpl{id=661601662952411136, url=https://t.co/9Xztu5sLt3, mediaURL=http://pbs.twimg.com/media/CS57NQcWEAAR_hi.jpg, mediaURLHttps=https://pbs.twimg.com/media/CS57NQcWEAAR_hi.jpg, expandedURL=http://twitter.com/Fucksgag4/status/661601672725200899/photo/1, displayURL='pic.twitter.com/9Xztu5sLt3', sizes={0=Size{width=150, height=150, resize=101}, 1=Size{width=340, height=604, resize=100}, 2=Size{width=576, height=1024, resize=100}, 3=Size{width=576, height=1024, resize=100}}, type=photo}]
+Place: null
+RetweetCount: 1
+RetweetedStatus: StatusJSONImpl{createdAt=Tue Nov 03 19:51:45 EET 2015, id=661601672725200899, text='?????? @ladygaga https://t.co/9Xztu5sLt3', source='<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>', isTruncated=false, inReplyToStatusId=-1, inReplyToUserId=-1, isFavorited=false, isRetweeted=false, favoriteCount=0, inReplyToScreenName='null', geoLocation=null, place=null, retweetCount=1, isPossiblySensitive=false, lang='und', contributorsIDs=[], retweetedStatus=null, userMentionEntities=[UserMentionEntityJSONImpl{name='The Countess', screenName='ladygaga', id=14230524}], urlEntities=[], hashtagEntities=[], mediaEntities=[MediaEntityJSONImpl{id=661601662952411136, url=https://t.co/9Xztu5sLt3, mediaURL=http://pbs.twimg.com/media/CS57NQcWEAAR_hi.jpg, mediaURLHttps=https://pbs.twimg.com/media/CS57NQcWEAAR_hi.jpg, expandedURL=http://twitter.com/Fucksgag4/status/661601672725200899/photo/1, displayURL='pic.twitter.com/9Xztu5sLt3', sizes={0=Size{width=150, height=150, resize=101}, 1=Size{width=340, height=604, resize=100}, 2=Size{width=576, height=1024, resize=100}, 3=Size{width=576, height=1024, resize=100}}, type=photo}], symbolEntities=[], currentUserRetweetId=-1, user=UserJSONImpl{id=1921596746, name='it's me', screenName='Fucksgag4', location='', description='I love game, wants to play?', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/661327104949227520/dmiK1qKm_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/661327104949227520/dmiK1qKm_normal.jpg', isDefaultProfileImage=false, url='null', isProtected=false, followersCount=784, status=null, profileBackgroundColor='131516', profileTextColor='333333', profileLinkColor='009999', profileSidebarFillColor='DDEEF6', profileSidebarBorderColor='FFFFFF', profileUseBackgroundImage=true, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=789, createdAt=Tue Oct 01 02:18:44 EET 2013, favouritesCount=227, utcOffset=-7200, timeZone='Mid-Atlantic', profileBackgroundImageUrl='http://pbs.twimg.com/profile_background_images/378800000171233738/irrHwqWT.jpeg', profileBackgroundImageUrlHttps='https://pbs.twimg.com/profile_background_images/378800000171233738/irrHwqWT.jpeg', profileBackgroundTiled=true, lang='pt', statusesCount=4343, isGeoEnabled=false, isVerified=false, translator=false, listedCount=0, isFollowRequestSent=false, withheldInCountries=null}, withHeldInCountries=null}
+Scopes: null
+Source: <a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+Text: RT @Fucksgag4: ?????? @ladygaga https://t.co/9Xztu5sLt3
+User: UserJSONImpl{id=2765982513, name='? BOBINHA', screenName='MetidaUniversal', location='TROUXILANDIA', description='Pequeno monstrinho', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/660868368606633988/-Vidhhfy_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/660868368606633988/-Vidhhfy_normal.jpg', isDefaultProfileImage=false, url='null', isProtected=false, followersCount=1527, status=null, profileBackgroundColor='FFF04D', profileTextColor='333333', profileLinkColor='0099CC', profileSidebarFillColor='F6FFD1', profileSidebarBorderColor='FFF8AD', profileUseBackgroundImage=true, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=1381, createdAt=Wed Sep 10 05:13:17 EET 2014, favouritesCount=3686, utcOffset=-14400, timeZone='Atlantic Time (Canada)', profileBackgroundImageUrl='http://abs.twimg.com/images/themes/theme19/bg.gif', profileBackgroundImageUrlHttps='https://abs.twimg.com/images/themes/theme19/bg.gif', profileBackgroundTiled=false, lang='pt', statusesCount=18504, isGeoEnabled=true, isVerified=false, translator=false, listedCount=1, isFollowRequestSent=false, withheldInCountries=null}
+---------------------------------
+
+Id: 661693824608182273
+CreatedAt: Wed Nov 04 01:57:56 EET 2015
+CurrentUserRetweetId: -1
+FavoriteCount: 1
+GeoLocation: null
+HashtagEntities: []
+InReplyToScreenName: null
+InReplyToStatusId: -1
+InReplyToUserId: -1
+Lang: en
+MediaEntities: []
+Place: null
+RetweetCount: 0
+RetweetedStatus: null
+Scopes: null
+Source: <a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
+Text: It's my birthday todayyyy!!!??Would love to get a happy birthday+follow off my 2 favourite inspirations @ddlovato @ladygaga ????
+User: UserJSONImpl{id=3057385227, name='Rachel Buckley', screenName='Rachelbuckley23', location='', description='i love Demi Lovato and Lady Gaga so much??', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/569989298876067840/owq_VxgO_normal.jpeg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/569989298876067840/owq_VxgO_normal.jpeg', isDefaultProfileImage=false, url='null', isProtected=false, followersCount=330, status=null, profileBackgroundColor='C0DEED', profileTextColor='333333', profileLinkColor='0084B4', profileSidebarFillColor='DDEEF6', profileSidebarBorderColor='C0DEED', profileUseBackgroundImage=true, isDefaultProfile=true, showAllInlineMedia=false, friendsCount=1735, createdAt=Tue Feb 24 00:33:56 EET 2015, favouritesCount=1719, utcOffset=-1, timeZone='null', profileBackgroundImageUrl='http://abs.twimg.com/images/themes/theme1/bg.png', profileBackgroundImageUrlHttps='https://abs.twimg.com/images/themes/theme1/bg.png', profileBackgroundTiled=false, lang='en', statusesCount=958, isGeoEnabled=false, isVerified=false, translator=false, listedCount=0, isFollowRequestSent=false, withheldInCountries=null}
+---------------------------------
+
+Id: 661693795101073409
+CreatedAt: Wed Nov 04 01:57:49 EET 2015
+CurrentUserRetweetId: -1
+FavoriteCount: 0
+GeoLocation: null
+HashtagEntities: [HashtagEntityJSONImpl{text='HearUs'}, HashtagEntityJSONImpl{text='CDCwhistleblower'}, HashtagEntityJSONImpl{text='cdcTRUTH'}]
+InReplyToScreenName: null
+InReplyToStatusId: -1
+InReplyToUserId: -1
+Lang: en
+MediaEntities: [MediaEntityJSONImpl{id=658338693577441282, url=https://t.co/TJzoIxsXzr, mediaURL=http://pbs.twimg.com/media/CSLjjcSUAAI73qA.jpg, mediaURLHttps=https://pbs.twimg.com/media/CSLjjcSUAAI73qA.jpg, expandedURL=http://twitter.com/ceestave/status/658338695930511360/photo/1, displayURL='pic.twitter.com/TJzoIxsXzr', sizes={0=Size{width=150, height=150, resize=101}, 1=Size{width=340, height=604, resize=100}, 2=Size{width=540, height=960, resize=100}, 3=Size{width=540, height=960, resize=100}}, type=photo}]
+Place: null
+RetweetCount: 1
+RetweetedStatus: StatusJSONImpl{createdAt=Sun Oct 25 19:45:51 EET 2015, id=658338695930511360, text='It's not JUST autism! Donate now for PSA's https://t.co/yynpM98sJu #HearUs #CDCwhistleblower #cdcTRUTH @ladygaga RT! https://t.co/TJzoIxsXzr', source='<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>', isTruncated=false, inReplyToStatusId=-1, inReplyToUserId=-1, isFavorited=false, isRetweeted=false, favoriteCount=0, inReplyToScreenName='null', geoLocation=null, place=null, retweetCount=1, isPossiblySensitive=false, lang='en', contributorsIDs=[], retweetedStatus=null, userMentionEntities=[UserMentionEntityJSONImpl{name='The Countess', screenName='ladygaga', id=14230524}], urlEntities=[URLEntityJSONImpl{url='https://t.co/yynpM98sJu', expandedURL='http://CDCTRUTH.org', displayURL='CDCTRUTH.org'}], hashtagEntities=[HashtagEntityJSONImpl{text='HearUs'}, HashtagEntityJSONImpl{text='CDCwhistleblower'}, HashtagEntityJSONImpl{text='cdcTRUTH'}], mediaEntities=[MediaEntityJSONImpl{id=658338693577441282, url=https://t.co/TJzoIxsXzr, mediaURL=http://pbs.twimg.com/media/CSLjjcSUAAI73qA.jpg, mediaURLHttps=https://pbs.twimg.com/media/CSLjjcSUAAI73qA.jpg, expandedURL=http://twitter.com/ceestave/status/658338695930511360/photo/1, displayURL='pic.twitter.com/TJzoIxsXzr', sizes={0=Size{width=150, height=150, resize=101}, 1=Size{width=340, height=604, resize=100}, 2=Size{width=540, height=960, resize=100}, 3=Size{width=540, height=960, resize=100}}, type=photo}], symbolEntities=[], currentUserRetweetId=-1, user=UserJSONImpl{id=38774229, name='Candyce', screenName='ceestave', location='', description='Activist for children, Mom of vaccine injured child. https://t.co/KvkTMT1inH Go to #CDCwhistleblower, https://t.co/CdVrLeMqJr or just stay here!', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/659355500195131392/7Seov4dT_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/659355500195131392/7Seov4dT_normal.jpg', isDefaultProfileImage=false, url='null', isProtected=false, followersCount=2185, status=null, profileBackgroundColor='C0DEED', profileTextColor='333333', profileLinkColor='0084B4', profileSidebarFillColor='DDEEF6', profileSidebarBorderColor='C0DEED', profileUseBackgroundImage=true, isDefaultProfile=true, showAllInlineMedia=false, friendsCount=2368, createdAt=Sat May 09 05:09:50 EEST 2009, favouritesCount=25326, utcOffset=-1, timeZone='null', profileBackgroundImageUrl='http://abs.twimg.com/images/themes/theme1/bg.png', profileBackgroundImageUrlHttps='https://abs.twimg.com/images/themes/theme1/bg.png', profileBackgroundTiled=false, lang='en', statusesCount=56058, isGeoEnabled=true, isVerified=false, translator=false, listedCount=68, isFollowRequestSent=false, withheldInCountries=null}, withHeldInCountries=null}
+Scopes: null
+Source: <a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+Text: RT @ceestave: It's not JUST autism! Donate now for PSA's https://t.co/yynpM98sJu #HearUs #CDCwhistleblower #cdcTRUTH @ladygaga RT! https://…
+User: UserJSONImpl{id=3086781770, name='@VialNews', screenName='VialNews', location='', description='', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/577204414005403648/wYdyNpol_normal.jpeg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/577204414005403648/wYdyNpol_normal.jpeg', isDefaultProfileImage=false, url='null', isProtected=false, followersCount=794, status=null, profileBackgroundColor='C0DEED', profileTextColor='333333', profileLinkColor='0084B4', profileSidebarFillColor='DDEEF6', profileSidebarBorderColor='C0DEED', profileUseBackgroundImage=true, isDefaultProfile=true, showAllInlineMedia=false, friendsCount=599, createdAt=Sun Mar 15 22:23:58 EET 2015, favouritesCount=348, utcOffset=-1, timeZone='null', profileBackgroundImageUrl='http://abs.twimg.com/images/themes/theme1/bg.png', profileBackgroundImageUrlHttps='https://abs.twimg.com/images/themes/theme1/bg.png', profileBackgroundTiled=false, lang='en', statusesCount=7711, isGeoEnabled=false, isVerified=false, translator=false, listedCount=36, isFollowRequestSent=false, withheldInCountries=null}
+---------------------------------
+
+Id: 661693732127805440
+CreatedAt: Wed Nov 04 01:57:34 EET 2015
+CurrentUserRetweetId: -1
+FavoriteCount: 0
+GeoLocation: null
+HashtagEntities: []
+InReplyToScreenName: null
+InReplyToStatusId: -1
+InReplyToUserId: -1
+Lang: es
+MediaEntities: [MediaEntityJSONImpl{id=661692738010791936, url=https://t.co/jemQC8BbkV, mediaURL=http://pbs.twimg.com/media/CS7OCheWwAAm8nX.jpg, mediaURLHttps=https://pbs.twimg.com/media/CS7OCheWwAAm8nX.jpg, expandedURL=http://twitter.com/Wayne_mio66/status/661692799755100161/photo/1, displayURL='pic.twitter.com/jemQC8BbkV', sizes={0=Size{width=150, height=150, resize=101}, 1=Size{width=340, height=604, resize=100}, 2=Size{width=576, height=1024, resize=100}, 3=Size{width=576, height=1024, resize=100}}, type=photo}]
+Place: null
+RetweetCount: 2
+RetweetedStatus: StatusJSONImpl{createdAt=Wed Nov 04 01:53:51 EET 2015, id=661692799755100161, text='@HelpAMd @ladygaga Por Favor? https://t.co/jemQC8BbkV', source='<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>', isTruncated=false, inReplyToStatusId=661692232240603136, inReplyToUserId=3293838103, isFavorited=false, isRetweeted=false, favoriteCount=2, inReplyToScreenName='HelpAMd', geoLocation=null, place=null, retweetCount=2, isPossiblySensitive=false, lang='es', contributorsIDs=[], retweetedStatus=null, userMentionEntities=[UserMentionEntityJSONImpl{name='?HELP A DM/SPONSOR?', screenName='HelpAMd', id=3293838103}, UserMentionEntityJSONImpl{name='The Countess', screenName='ladygaga', id=14230524}], urlEntities=[], hashtagEntities=[], mediaEntities=[MediaEntityJSONImpl{id=661692738010791936, url=https://t.co/jemQC8BbkV, mediaURL=http://pbs.twimg.com/media/CS7OCheWwAAm8nX.jpg, mediaURLHttps=https://pbs.twimg.com/media/CS7OCheWwAAm8nX.jpg, expandedURL=http://twitter.com/Wayne_mio66/status/661692799755100161/photo/1, displayURL='pic.twitter.com/jemQC8BbkV', sizes={0=Size{width=150, height=150, resize=101}, 1=Size{width=340, height=604, resize=100}, 2=Size{width=576, height=1024, resize=100}, 3=Size{width=576, height=1024, resize=100}}, type=photo}], symbolEntities=[], currentUserRetweetId=-1, user=UserJSONImpl{id=3122254166, name='Lou=]', screenName='Wayne_mio66', location='', description='One Diretion?Little Mix?German?Sebastian?Screamau', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/660393951145381888/rtKQtKu9_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/660393951145381888/rtKQtKu9_normal.jpg', isDefaultProfileImage=false, url='null', isProtected=false, followersCount=1348, status=null, profileBackgroundColor='C0DEED', profileTextColor='333333', profileLinkColor='0084B4', profileSidebarFillColor='DDEEF6', profileSidebarBorderColor='C0DEED', profileUseBackgroundImage=true, isDefaultProfile=true, showAllInlineMedia=false, friendsCount=1378, createdAt=Wed Apr 01 02:36:36 EET 2015, favouritesCount=6840, utcOffset=-1, timeZone='null', profileBackgroundImageUrl='http://abs.twimg.com/images/themes/theme1/bg.png', profileBackgroundImageUrlHttps='https://abs.twimg.com/images/themes/theme1/bg.png', profileBackgroundTiled=false, lang='es', statusesCount=10908, isGeoEnabled=false, isVerified=false, translator=false, listedCount=4, isFollowRequestSent=false, withheldInCountries=null}, withHeldInCountries=null}
+Scopes: null
+Source: <a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
+Text: RT @Wayne_mio66: @HelpAMd @ladygaga Por Favor? https://t.co/jemQC8BbkV
+User: UserJSONImpl{id=2821548521, name='Follow Me Bruno Mars', screenName='daysinayeli', location='', description='Hi I'm hooligan BRUNO MARS follow me please :D yes!!!', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/661405622756241408/nxHNNhgs_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/661405622756241408/nxHNNhgs_normal.jpg', isDefaultProfileImage=false, url='null', isProtected=false, followersCount=410, status=null, profileBackgroundColor='000000', profileTextColor='000000', profileLinkColor='DD2E44', profileSidebarFillColor='000000', profileSidebarBorderColor='000000', profileUseBackgroundImage=false, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=541, createdAt=Sat Oct 11 01:31:55 EET 2014, favouritesCount=2205, utcOffset=-1, timeZone='null', profileBackgroundImageUrl='http://abs.twimg.com/images/themes/theme1/bg.png', profileBackgroundImageUrlHttps='https://abs.twimg.com/images/themes/theme1/bg.png', profileBackgroundTiled=false, lang='es', statusesCount=4747, isGeoEnabled=false, isVerified=false, translator=false, listedCount=8, isFollowRequestSent=false, withheldInCountries=null}
+---------------------------------
+
+Id: 661693721168228352
+CreatedAt: Wed Nov 04 01:57:31 EET 2015
+CurrentUserRetweetId: -1
+FavoriteCount: 0
+GeoLocation: null
+HashtagEntities: []
+InReplyToScreenName: null
+InReplyToStatusId: -1
+InReplyToUserId: -1
+Lang: pt
+MediaEntities: []
+Place: null
+RetweetCount: 0
+RetweetedStatus: null
+Scopes: null
+Source: <a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+Text: AM?M, OBRIGADO @LADYGAGA
+User: UserJSONImpl{id=587602156, name='fabio', screenName='youflop', location='rj, niter?i', description='se n?o gostou enfia um roj?o no cu e voa, sua filha da puta', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/661689017688305664/EfmzW_pD_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/661689017688305664/EfmzW_pD_normal.jpg', isDefaultProfileImage=false, url='https://t.co/0apbJA4cis', isProtected=false, followersCount=33252, status=null, profileBackgroundColor='FFFFFF', profileTextColor='333333', profileLinkColor='CCCCCC', profileSidebarFillColor='EFEFEF', profileSidebarBorderColor='000000', profileUseBackgroundImage=false, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=19978, createdAt=Tue May 22 20:30:26 EET 2012, favouritesCount=88458, utcOffset=-7200, timeZone='Brasilia', profileBackgroundImageUrl='http://pbs.twimg.com/profile_background_images/640652836095795200/yVmmXn2B.png', profileBackgroundImageUrlHttps='https://pbs.twimg.com/profile_background_images/640652836095795200/yVmmXn2B.png', profileBackgroundTiled=true, lang='pt', statusesCount=139463, isGeoEnabled=true, isVerified=false, translator=false, listedCount=37, isFollowRequestSent=false, withheldInCountries=null}
+---------------------------------
+
+Id: 661693698904715264
+CreatedAt: Wed Nov 04 01:57:26 EET 2015
+CurrentUserRetweetId: -1
+FavoriteCount: 0
+GeoLocation: null
+HashtagEntities: []
+InReplyToScreenName: ladygaga
+InReplyToStatusId: -1
+InReplyToUserId: 14230524
+Lang: und
+MediaEntities: []
+Place: null
+RetweetCount: 0
+RetweetedStatus: null
+Scopes: null
+Source: <a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
+Text: @ladygaga ??????? https://t.co/iAPeLd3qaq
+User: UserJSONImpl{id=64165517, name='Miki??', screenName='MikiMonster_', location='Tokyo', description='1/4 of PLs/ My Goddess? ??@ladygaga?? #FunkThePunk', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/658645585763811329/5yRaC3en_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/658645585763811329/5yRaC3en_normal.jpg', isDefaultProfileImage=false, url='null', isProtected=false, followersCount=2382, status=null, profileBackgroundColor='9AE4E8', profileTextColor='333333', profileLinkColor='9266CC', profileSidebarFillColor='DDFFCC', profileSidebarBorderColor='FFFFFF', profileUseBackgroundImage=true, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=337, createdAt=Sun Aug 09 15:34:36 EEST 2009, favouritesCount=1233, utcOffset=32400, timeZone='Tokyo', profileBackgroundImageUrl='http://pbs.twimg.com/profile_background_images/503167282051178496/bWTvOL8k.jpeg', profileBackgroundImageUrlHttps='https://pbs.twimg.com/profile_background_images/503167282051178496/bWTvOL8k.jpeg', profileBackgroundTiled=true, lang='ja', statusesCount=29883, isGeoEnabled=true, isVerified=false, translator=false, listedCount=30, isFollowRequestSent=false, withheldInCountries=null}
+---------------------------------
+
+Id: 661693673378222081
+CreatedAt: Wed Nov 04 01:57:20 EET 2015
+CurrentUserRetweetId: -1
+FavoriteCount: 0
+GeoLocation: null
+HashtagEntities: []
+InReplyToScreenName: ladygaga
+InReplyToStatusId: -1
+InReplyToUserId: 14230524
+Lang: en
+MediaEntities: []
+Place: null
+RetweetCount: 0
+RetweetedStatus: null
+Scopes: null
+Source: <a href="http://twittbot.net/" rel="nofollow">twittbot.net</a>
+Text: @ladygaga japan hokaido sky area https://t.co/mFhHpz2qKz
+User: UserJSONImpl{id=3112716812, name='sanbonidol', screenName='sanbonidol', location='', description='man. programmer.', isContributorsEnabled=false, profileImageUrl='http://abs.twimg.com/sticky/default_profile_images/default_profile_2_normal.png', profileImageUrlHttps='https://abs.twimg.com/sticky/default_profile_images/default_profile_2_normal.png', isDefaultProfileImage=true, url='null', isProtected=false, followersCount=3, status=null, profileBackgroundColor='C0DEED', profileTextColor='333333', profileLinkColor='0084B4', profileSidebarFillColor='DDEEF6', profileSidebarBorderColor='C0DEED', profileUseBackgroundImage=true, isDefaultProfile=true, showAllInlineMedia=false, friendsCount=3, createdAt=Sat Mar 28 13:06:40 EET 2015, favouritesCount=0, utcOffset=-1, timeZone='null', profileBackgroundImageUrl='http://abs.twimg.com/images/themes/theme1/bg.png', profileBackgroundImageUrlHttps='https://abs.twimg.com/images/themes/theme1/bg.png', profileBackgroundTiled=false, lang='ko', statusesCount=8881, isGeoEnabled=false, isVerified=false, translator=false, listedCount=0, isFollowRequestSent=false, withheldInCountries=null}
+---------------------------------
+
+Id: 661693670534586368
+CreatedAt: Wed Nov 04 01:57:19 EET 2015
+CurrentUserRetweetId: -1
+FavoriteCount: 0
+GeoLocation: null
+HashtagEntities: []
+InReplyToScreenName: null
+InReplyToStatusId: -1
+InReplyToUserId: -1
+Lang: es
+MediaEntities: [MediaEntityJSONImpl{id=661692738010791936, url=https://t.co/jemQC8BbkV, mediaURL=http://pbs.twimg.com/media/CS7OCheWwAAm8nX.jpg, mediaURLHttps=https://pbs.twimg.com/media/CS7OCheWwAAm8nX.jpg, expandedURL=http://twitter.com/Wayne_mio66/status/661692799755100161/photo/1, displayURL='pic.twitter.com/jemQC8BbkV', sizes={0=Size{width=150, height=150, resize=101}, 1=Size{width=340, height=604, resize=100}, 2=Size{width=576, height=1024, resize=100}, 3=Size{width=576, height=1024, resize=100}}, type=photo}]
+Place: null
+RetweetCount: 2
+RetweetedStatus: StatusJSONImpl{createdAt=Wed Nov 04 01:53:51 EET 2015, id=661692799755100161, text='@HelpAMd @ladygaga Por Favor? https://t.co/jemQC8BbkV', source='<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>', isTruncated=false, inReplyToStatusId=661692232240603136, inReplyToUserId=3293838103, isFavorited=false, isRetweeted=false, favoriteCount=2, inReplyToScreenName='HelpAMd', geoLocation=null, place=null, retweetCount=2, isPossiblySensitive=false, lang='es', contributorsIDs=[], retweetedStatus=null, userMentionEntities=[UserMentionEntityJSONImpl{name='?HELP A DM/SPONSOR?', screenName='HelpAMd', id=3293838103}, UserMentionEntityJSONImpl{name='The Countess', screenName='ladygaga', id=14230524}], urlEntities=[], hashtagEntities=[], mediaEntities=[MediaEntityJSONImpl{id=661692738010791936, url=https://t.co/jemQC8BbkV, mediaURL=http://pbs.twimg.com/media/CS7OCheWwAAm8nX.jpg, mediaURLHttps=https://pbs.twimg.com/media/CS7OCheWwAAm8nX.jpg, expandedURL=http://twitter.com/Wayne_mio66/status/661692799755100161/photo/1, displayURL='pic.twitter.com/jemQC8BbkV', sizes={0=Size{width=150, height=150, resize=101}, 1=Size{width=340, height=604, resize=100}, 2=Size{width=576, height=1024, resize=100}, 3=Size{width=576, height=1024, resize=100}}, type=photo}], symbolEntities=[], currentUserRetweetId=-1, user=UserJSONImpl{id=3122254166, name='Lou=]', screenName='Wayne_mio66', location='', description='One Diretion?Little Mix?German?Sebastian?Screamau', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/660393951145381888/rtKQtKu9_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/660393951145381888/rtKQtKu9_normal.jpg', isDefaultProfileImage=false, url='null', isProtected=false, followersCount=1348, status=null, profileBackgroundColor='C0DEED', profileTextColor='333333', profileLinkColor='0084B4', profileSidebarFillColor='DDEEF6', profileSidebarBorderColor='C0DEED', profileUseBackgroundImage=true, isDefaultProfile=true, showAllInlineMedia=false, friendsCount=1378, createdAt=Wed Apr 01 02:36:36 EET 2015, favouritesCount=6840, utcOffset=-1, timeZone='null', profileBackgroundImageUrl='http://abs.twimg.com/images/themes/theme1/bg.png', profileBackgroundImageUrlHttps='https://abs.twimg.com/images/themes/theme1/bg.png', profileBackgroundTiled=false, lang='es', statusesCount=10908, isGeoEnabled=false, isVerified=false, translator=false, listedCount=4, isFollowRequestSent=false, withheldInCountries=null}, withHeldInCountries=null}
+Scopes: null
+Source: <a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+Text: RT @Wayne_mio66: @HelpAMd @ladygaga Por Favor? https://t.co/jemQC8BbkV
+User: UserJSONImpl{id=3293838103, name='?HELP A DM/SPONSOR?', screenName='HelpAMd', location='?Cumpliendo sue?os?', description='Te ayudaremos con el follow de tus idolos?tambi?n damos dms?+350dms entregados?Creada 25/7/15. Activa notificaciones?Meta 1.9k ?pruebas en favoritos?Lista?', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/656625472932048896/TUorHoIJ_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/656625472932048896/TUorHoIJ_normal.jpg', isDefaultProfileImage=false, url='https://t.co/70MUCBfc4e', isProtected=false, followersCount=2070, status=null, profileBackgroundColor='000000', profileTextColor='000000', profileLinkColor='FFCC4D', profileSidebarFillColor='000000', profileSidebarBorderColor='000000', profileUseBackgroundImage=false, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=1609, createdAt=Sun Jul 26 00:51:42 EET 2015, favouritesCount=2918, utcOffset=-28800, timeZone='Pacific Time (US & Canada)', profileBackgroundImageUrl='http://abs.twimg.com/images/themes/theme1/bg.png', profileBackgroundImageUrlHttps='https://abs.twimg.com/images/themes/theme1/bg.png', profileBackgroundTiled=false, lang='es', statusesCount=6331, isGeoEnabled=true, isVerified=false, translator=false, listedCount=5, isFollowRequestSent=false, withheldInCountries=null}
+---------------------------------
+
+Id: 661693619489886208
+CreatedAt: Wed Nov 04 01:57:07 EET 2015
+CurrentUserRetweetId: -1
+FavoriteCount: 0
+GeoLocation: null
+HashtagEntities: []
+InReplyToScreenName: null
+InReplyToStatusId: -1
+InReplyToUserId: -1
+Lang: pt
+MediaEntities: []
+Place: null
+RetweetCount: 3
+RetweetedStatus: StatusJSONImpl{createdAt=Sun Nov 01 04:55:49 EET 2015, id=660651430466973696, text='Rosas s?o vermelhas, violetas s?o azuis @ladygaga me segue em nome de Jesus', source='<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>', isTruncated=false, inReplyToStatusId=-1, inReplyToUserId=-1, isFavorited=false, isRetweeted=false, favoriteCount=5, inReplyToScreenName='null', geoLocation=null, place=null, retweetCount=3, isPossiblySensitive=false, lang='pt', contributorsIDs=[], retweetedStatus=null, userMentionEntities=[UserMentionEntityJSONImpl{name='The Countess', screenName='ladygaga', id=14230524}], urlEntities=[], hashtagEntities=[], mediaEntities=[], symbolEntities=[], currentUserRetweetId=-1, user=UserJSONImpl{id=1921596746, name='it's me', screenName='Fucksgag4', location='', description='I love game, wants to play?', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/661327104949227520/dmiK1qKm_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/661327104949227520/dmiK1qKm_normal.jpg', isDefaultProfileImage=false, url='null', isProtected=false, followersCount=784, status=null, profileBackgroundColor='131516', profileTextColor='333333', profileLinkColor='009999', profileSidebarFillColor='DDEEF6', profileSidebarBorderColor='FFFFFF', profileUseBackgroundImage=true, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=789, createdAt=Tue Oct 01 02:18:44 EET 2013, favouritesCount=227, utcOffset=-7200, timeZone='Mid-Atlantic', profileBackgroundImageUrl='http://pbs.twimg.com/profile_background_images/378800000171233738/irrHwqWT.jpeg', profileBackgroundImageUrlHttps='https://pbs.twimg.com/profile_background_images/378800000171233738/irrHwqWT.jpeg', profileBackgroundTiled=true, lang='pt', statusesCount=4343, isGeoEnabled=false, isVerified=false, translator=false, listedCount=0, isFollowRequestSent=false, withheldInCountries=null}, withHeldInCountries=null}
+Scopes: null
+Source: <a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+Text: RT @Fucksgag4: Rosas s?o vermelhas, violetas s?o azuis @ladygaga me segue em nome de Jesus
+User: UserJSONImpl{id=2765982513, name='? BOBINHA', screenName='MetidaUniversal', location='TROUXILANDIA', description='Pequeno monstrinho', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/660868368606633988/-Vidhhfy_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/660868368606633988/-Vidhhfy_normal.jpg', isDefaultProfileImage=false, url='null', isProtected=false, followersCount=1527, status=null, profileBackgroundColor='FFF04D', profileTextColor='333333', profileLinkColor='0099CC', profileSidebarFillColor='F6FFD1', profileSidebarBorderColor='FFF8AD', profileUseBackgroundImage=true, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=1381, createdAt=Wed Sep 10 05:13:17 EET 2014, favouritesCount=3686, utcOffset=-14400, timeZone='Atlantic Time (Canada)', profileBackgroundImageUrl='http://abs.twimg.com/images/themes/theme19/bg.gif', profileBackgroundImageUrlHttps='https://abs.twimg.com/images/themes/theme19/bg.gif', profileBackgroundTiled=false, lang='pt', statusesCount=18504, isGeoEnabled=true, isVerified=false, translator=false, listedCount=1, isFollowRequestSent=false, withheldInCountries=null}
+---------------------------------
+
+Id: 661693594059821056
+CreatedAt: Wed Nov 04 01:57:01 EET 2015
+CurrentUserRetweetId: -1
+FavoriteCount: 0
+GeoLocation: null
+HashtagEntities: [HashtagEntityJSONImpl{text='TheMuppets'}]
+InReplyToScreenName: null
+InReplyToStatusId: -1
+InReplyToUserId: -1
+Lang: en
+MediaEntities: []
+Place: null
+RetweetCount: 445
+RetweetedStatus: StatusJSONImpl{createdAt=Tue Nov 03 21:55:01 EET 2015, id=661632693348802560, text='Bonjour, @ladygaga! It's been far too long since we've spent time together. Why don't you come perform with moi on my new show #TheMuppets?', source='<a href="http://www.sprinklr.com" rel="nofollow">Sprinklr</a>', isTruncated=false, inReplyToStatusId=-1, inReplyToUserId=-1, isFavorited=false, isRetweeted=false, favoriteCount=686, inReplyToScreenName='null', geoLocation=null, place=null, retweetCount=445, isPossiblySensitive=false, lang='en', contributorsIDs=[], retweetedStatus=null, userMentionEntities=[UserMentionEntityJSONImpl{name='The Countess', screenName='ladygaga', id=14230524}], urlEntities=[], hashtagEntities=[HashtagEntityJSONImpl{text='TheMuppets'}], mediaEntities=[], symbolEntities=[], currentUserRetweetId=-1, user=UserJSONImpl{id=785739140, name='Miss Piggy', screenName='MissPiggy', location='Hollywood, CA', description='Welcome to the official twitter of moi!', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/646795584079200257/ukv-DSfK_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/646795584079200257/ukv-DSfK_normal.jpg', isDefaultProfileImage=false, url='null', isProtected=false, followersCount=90333, status=null, profileBackgroundColor='DBE9ED', profileTextColor='333333', profileLinkColor='CC3366', profileSidebarFillColor='E6F6F9', profileSidebarBorderColor='DBE9ED', profileUseBackgroundImage=true, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=107, createdAt=Tue Aug 28 02:47:57 EET 2012, favouritesCount=45, utcOffset=-28800, timeZone='Pacific Time (US & Canada)', profileBackgroundImageUrl='http://abs.twimg.com/images/themes/theme17/bg.gif', profileBackgroundImageUrlHttps='https://abs.twimg.com/images/themes/theme17/bg.gif', profileBackgroundTiled=false, lang='en', statusesCount=749, isGeoEnabled=true, isVerified=true, translator=false, listedCount=443, isFollowRequestSent=false, withheldInCountries=null}, withHeldInCountries=null}
+Scopes: null
+Source: <a href="http://twitter.com/#!/download/ipad" rel="nofollow">Twitter for iPad</a>
+Text: RT @MissPiggy: Bonjour, @ladygaga! It's been far too long since we've spent time together. Why don't you come perform with moi on my new sh…
+User: UserJSONImpl{id=25111460, name='Matt Moss', screenName='mattmossforever', location='New York, NY', description='artist / producer / musician', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/570460672408834048/MATPQ6to_normal.jpeg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/570460672408834048/MATPQ6to_normal.jpeg', isDefaultProfileImage=false, url='http://t.co/jMPBTrNGjm', isProtected=false, followersCount=104, status=null, profileBackgroundColor='E8001B', profileTextColor='E8001B', profileLinkColor='E8001B', profileSidebarFillColor='000000', profileSidebarBorderColor='E8001B', profileUseBackgroundImage=true, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=62, createdAt=Wed Mar 18 19:25:33 EET 2009, favouritesCount=863, utcOffset=-18000, timeZone='Quito', profileBackgroundImageUrl='http://pbs.twimg.com/profile_background_images/27071911/m2.png', profileBackgroundImageUrlHttps='https://pbs.twimg.com/profile_background_images/27071911/m2.png', profileBackgroundTiled=true, lang='en', statusesCount=517, isGeoEnabled=true, isVerified=false, translator=false, listedCount=5, isFollowRequestSent=false, withheldInCountries=null}
+---------------------------------
+
+Id: 661693579128119296
+CreatedAt: Wed Nov 04 01:56:57 EET 2015
+CurrentUserRetweetId: -1
+FavoriteCount: 0
+GeoLocation: null
+HashtagEntities: []
+InReplyToScreenName: null
+InReplyToStatusId: -1
+InReplyToUserId: -1
+Lang: pt
+MediaEntities: []
+Place: null
+RetweetCount: 26
+RetweetedStatus: StatusJSONImpl{createdAt=Tue Nov 03 19:38:09 EET 2015, id=661598249342603264, text='VOTE FOR GAGA!
+
+@LadyGaga ? indicada oficialmente ao People’s Choice Awards. Vote: https://t.co/Xi4jwh5nBr', source='<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>', isTruncated=false, inReplyToStatusId=-1, inReplyToUserId=-1, isFavorited=false, isRetweeted=false, favoriteCount=16, inReplyToScreenName='null', geoLocation=null, place=null, retweetCount=26, isPossiblySensitive=false, lang='pt', contributorsIDs=[], retweetedStatus=null, userMentionEntities=[UserMentionEntityJSONImpl{name='The Countess', screenName='ladygaga', id=14230524}], urlEntities=[URLEntityJSONImpl{url='https://t.co/Xi4jwh5nBr', expandedURL='http://vote.peopleschoice.com/#!/home/all/45/2', displayURL='vote.peopleschoice.com/#!/home/all/45…'}], hashtagEntities=[], mediaEntities=[], symbolEntities=[], currentUserRetweetId=-1, user=UserJSONImpl{id=366296167, name='Mafia LittleMonsters', screenName='MafiaLMonster', location='Brasil', description='Sua fonte de not?cias sobre a @LadyGaga! Fotos, v?deos, not?cias e muito mais.', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/643266374656102402/kNyLVs9B_normal.png', profileImageUrlHttps='https://pbs.twimg.com/profile_images/643266374656102402/kNyLVs9B_normal.png', isDefaultProfileImage=false, url='https://t.co/lU0OUYZxls', isProtected=false, followersCount=41276, status=null, profileBackgroundColor='FAF7FA', profileTextColor='333333', profileLinkColor='4A913C', profileSidebarFillColor='EFEFEF', profileSidebarBorderColor='FFFFFF', profileUseBackgroundImage=true, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=6784, createdAt=Fri Sep 02 01:50:23 EET 2011, favouritesCount=5247, utcOffset=-10800, timeZone='Santiago', profileBackgroundImageUrl='http://pbs.twimg.com/profile_background_images/631553401340362753/81GGFaE6.png', profileBackgroundImageUrlHttps='https://pbs.twimg.com/profile_background_images/631553401340362753/81GGFaE6.png', profileBackgroundTiled=true, lang='pt', statusesCount=18691, isGeoEnabled=false, isVerified=false, translator=false, listedCount=6101, isFollowRequestSent=false, withheldInCountries=null}, withHeldInCountries=null}
+Scopes: null
+Source: <a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+Text: RT @MafiaLMonster: VOTE FOR GAGA!
+
+@LadyGaga ? indicada oficialmente ao People’s Choice Awards. Vote: https://t.co/Xi4jwh5nBr
+User: UserJSONImpl{id=3358809323, name='Lirou Monster', screenName='LirouMonster10', location='', description='Posso fazer nada se voc? n?o curte a Gaga quem t? perdendo ? voc? que n?o tem bom gosto ?', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/643883302932377600/o0qw0pmt_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/643883302932377600/o0qw0pmt_normal.jpg', isDefaultProfileImage=false, url='https://t.co/Lr15MJ02g8', isProtected=false, followersCount=573, status=null, profileBackgroundColor='000000', profileTextColor='000000', profileLinkColor='9266CC', profileSidebarFillColor='000000', profileSidebarBorderColor='000000', profileUseBackgroundImage=false, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=294, createdAt=Sat Jul 04 17:36:46 EET 2015, favouritesCount=289, utcOffset=-1, timeZone='null', profileBackgroundImageUrl='http://pbs.twimg.com/profile_background_images/647482767731769344/xFdvvztL.jpg', profileBackgroundImageUrlHttps='https://pbs.twimg.com/profile_background_images/647482767731769344/xFdvvztL.jpg', profileBackgroundTiled=false, lang='pt', statusesCount=10292, isGeoEnabled=false, isVerified=false, translator=false, listedCount=0, isFollowRequestSent=false, withheldInCountries=null}
+---------------------------------
+
+Id: 661693556210331648
+CreatedAt: Wed Nov 04 01:56:52 EET 2015
+CurrentUserRetweetId: -1
+FavoriteCount: 0
+GeoLocation: null
+HashtagEntities: []
+InReplyToScreenName: kazu_ladygaga
+InReplyToStatusId: 661621148791115777
+InReplyToUserId: 2422115168
+Lang: ja
+MediaEntities: []
+Place: null
+RetweetCount: 0
+RetweetedStatus: null
+Scopes: null
+Source: <a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
+Text: @kazu_ladygaga ???????????????????????????(?v?v??)
+User: UserJSONImpl{id=2304422288, name='????', screenName='Aika219Aika', location='', description='???16????????????? ?(^_^)', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/661568197557022720/eSrUJAsk_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/661568197557022720/eSrUJAsk_normal.jpg', isDefaultProfileImage=false, url='null', isProtected=false, followersCount=417, status=null, profileBackgroundColor='C0DEED', profileTextColor='333333', profileLinkColor='0084B4', profileSidebarFillColor='DDEEF6', profileSidebarBorderColor='C0DEED', profileUseBackgroundImage=true, isDefaultProfile=true, showAllInlineMedia=false, friendsCount=93, createdAt=Wed Jan 22 10:45:54 EET 2014, favouritesCount=2067, utcOffset=-1, timeZone='null', profileBackgroundImageUrl='http://abs.twimg.com/images/themes/theme1/bg.png', profileBackgroundImageUrlHttps='https://abs.twimg.com/images/themes/theme1/bg.png', profileBackgroundTiled=false, lang='ja', statusesCount=7860, isGeoEnabled=false, isVerified=false, translator=false, listedCount=1, isFollowRequestSent=false, withheldInCountries=null}
+---------------------------------
+
+Id: 661693542511808512
+CreatedAt: Wed Nov 04 01:56:48 EET 2015
+CurrentUserRetweetId: -1
+FavoriteCount: 0
+GeoLocation: null
+HashtagEntities: []
+InReplyToScreenName: null
+InReplyToStatusId: -1
+InReplyToUserId: -1
+Lang: en
+MediaEntities: [MediaEntityJSONImpl{id=660565234944516096, url=https://t.co/pcmVQwHLnx, mediaURL=http://pbs.twimg.com/media/CSrMlNPXIAA9_nN.jpg, mediaURLHttps=https://pbs.twimg.com/media/CSrMlNPXIAA9_nN.jpg, expandedURL=http://twitter.com/HauntLikeGaga/status/660565255639203840/photo/1, displayURL='pic.twitter.com/pcmVQwHLnx', sizes={0=Size{width=150, height=150, resize=101}, 1=Size{width=340, height=255, resize=100}, 2=Size{width=600, height=450, resize=100}, 3=Size{width=1024, height=768, resize=100}}, type=photo}]
+Place: null
+RetweetCount: 765
+RetweetedStatus: StatusJSONImpl{createdAt=Sat Oct 31 23:13:24 EET 2015, id=660565255639203840, text='Donovan and The Countess will be out on the streets tonight... Me & @Completelybatty ??? @ladygaga @mattbomer https://t.co/pcmVQwHLnx', source='<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>', isTruncated=false, inReplyToStatusId=-1, inReplyToUserId=-1, isFavorited=false, isRetweeted=false, favoriteCount=1956, inReplyToScreenName='null', geoLocation=null, place=null, retweetCount=765, isPossiblySensitive=false, lang='en', contributorsIDs=[], retweetedStatus=null, userMentionEntities=[UserMentionEntityJSONImpl{name='Becky', screenName='Completelybatty', id=167021567}, UserMentionEntityJSONImpl{name='The Countess', screenName='ladygaga', id=14230524}, UserMentionEntityJSONImpl{name='Matt Bomer', screenName='MattBomer', id=1516479518}], urlEntities=[], hashtagEntities=[], mediaEntities=[MediaEntityJSONImpl{id=660565234944516096, url=https://t.co/pcmVQwHLnx, mediaURL=http://pbs.twimg.com/media/CSrMlNPXIAA9_nN.jpg, mediaURLHttps=https://pbs.twimg.com/media/CSrMlNPXIAA9_nN.jpg, expandedURL=http://twitter.com/HauntLikeGaga/status/660565255639203840/photo/1, displayURL='pic.twitter.com/pcmVQwHLnx', sizes={0=Size{width=150, height=150, resize=101}, 1=Size{width=340, height=255, resize=100}, 2=Size{width=600, height=450, resize=100}, 3=Size{width=1024, height=768, resize=100}}, type=photo}], symbolEntities=[], currentUserRetweetId=-1, user=UserJSONImpl{id=363735426, name='Bricks & Strings', screenName='HauntLikeGaga', location='UK', description='@ladygaga once threw a drumstick that had been in her knickers at me and in that moment when it hit my hand I knew I was truly blessed. I'm also @fallentograce?', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/602390440617365504/7s0feGuN_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/602390440617365504/7s0feGuN_normal.jpg', isDefaultProfileImage=false, url='https://t.co/jDSmPKimnG', isProtected=false, followersCount=3276, status=null, profileBackgroundColor='080808', profileTextColor='1912E3', profileLinkColor='6712E6', profileSidebarFillColor='CAC9F5', profileSidebarBorderColor='000000', profileUseBackgroundImage=true, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=3541, createdAt=Sun Aug 28 19:11:00 EET 2011, favouritesCount=1865, utcOffset=3600, timeZone='Amsterdam', profileBackgroundImageUrl='http://pbs.twimg.com/profile_background_images/378800000067331055/3d7b7f8eab1ad11c6cf91ecaab69beeb.jpeg', profileBackgroundImageUrlHttps='https://pbs.twimg.com/profile_background_images/378800000067331055/3d7b7f8eab1ad11c6cf91ecaab69beeb.jpeg', profileBackgroundTiled=true, lang='en', statusesCount=32324, isGeoEnabled=true, isVerified=false, translator=false, listedCount=7, isFollowRequestSent=false, withheldInCountries=null}, withHeldInCountries=null}
+Scopes: null
+Source: <a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
+Text: RT @HauntLikeGaga: Donovan and The Countess will be out on the streets tonight... Me & @Completelybatty ??? @ladygaga @mattbomer https://t.…
+User: UserJSONImpl{id=624373593, name='Patrick Yves', screenName='pqpyves', location='Star World ??', description='Welcome Stars Girls and Stars Boys Here, all of us are stars.', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/644697082360655872/Nla1gKCT_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/644697082360655872/Nla1gKCT_normal.jpg', isDefaultProfileImage=false, url='null', isProtected=false, followersCount=4705, status=null, profileBackgroundColor='131516', profileTextColor='333333', profileLinkColor='FFCC4D', profileSidebarFillColor='EFEFEF', profileSidebarBorderColor='000000', profileUseBackgroundImage=true, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=2820, createdAt=Mon Jul 02 05:43:17 EET 2012, favouritesCount=13140, utcOffset=-7200, timeZone='Mid-Atlantic', profileBackgroundImageUrl='http://pbs.twimg.com/profile_background_images/511295270705831936/Itl3w_xz.png', profileBackgroundImageUrlHttps='https://pbs.twimg.com/profile_background_images/511295270705831936/Itl3w_xz.png', profileBackgroundTiled=true, lang='pt', statusesCount=45883, isGeoEnabled=true, isVerified=false, translator=false, listedCount=13, isFollowRequestSent=false, withheldInCountries=null}
+---------------------------------
+
+Id: 661693538879565824
+CreatedAt: Wed Nov 04 01:56:47 EET 2015
+CurrentUserRetweetId: -1
+FavoriteCount: 0
+GeoLocation: null
+HashtagEntities: []
+InReplyToScreenName: null
+InReplyToStatusId: -1
+InReplyToUserId: -1
+Lang: pt
+MediaEntities: []
+Place: null
+RetweetCount: 26
+RetweetedStatus: StatusJSONImpl{createdAt=Tue Nov 03 19:38:09 EET 2015, id=661598249342603264, text='VOTE FOR GAGA!
+
+@LadyGaga ? indicada oficialmente ao People’s Choice Awards. Vote: https://t.co/Xi4jwh5nBr', source='<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>', isTruncated=false, inReplyToStatusId=-1, inReplyToUserId=-1, isFavorited=false, isRetweeted=false, favoriteCount=16, inReplyToScreenName='null', geoLocation=null, place=null, retweetCount=26, isPossiblySensitive=false, lang='pt', contributorsIDs=[], retweetedStatus=null, userMentionEntities=[UserMentionEntityJSONImpl{name='The Countess', screenName='ladygaga', id=14230524}], urlEntities=[URLEntityJSONImpl{url='https://t.co/Xi4jwh5nBr', expandedURL='http://vote.peopleschoice.com/#!/home/all/45/2', displayURL='vote.peopleschoice.com/#!/home/all/45…'}], hashtagEntities=[], mediaEntities=[], symbolEntities=[], currentUserRetweetId=-1, user=UserJSONImpl{id=366296167, name='Mafia LittleMonsters', screenName='MafiaLMonster', location='Brasil', description='Sua fonte de not?cias sobre a @LadyGaga! Fotos, v?deos, not?cias e muito mais.', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/643266374656102402/kNyLVs9B_normal.png', profileImageUrlHttps='https://pbs.twimg.com/profile_images/643266374656102402/kNyLVs9B_normal.png', isDefaultProfileImage=false, url='https://t.co/lU0OUYZxls', isProtected=false, followersCount=41276, status=null, profileBackgroundColor='FAF7FA', profileTextColor='333333', profileLinkColor='4A913C', profileSidebarFillColor='EFEFEF', profileSidebarBorderColor='FFFFFF', profileUseBackgroundImage=true, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=6784, createdAt=Fri Sep 02 01:50:23 EET 2011, favouritesCount=5247, utcOffset=-10800, timeZone='Santiago', profileBackgroundImageUrl='http://pbs.twimg.com/profile_background_images/631553401340362753/81GGFaE6.png', profileBackgroundImageUrlHttps='https://pbs.twimg.com/profile_background_images/631553401340362753/81GGFaE6.png', profileBackgroundTiled=true, lang='pt', statusesCount=18691, isGeoEnabled=false, isVerified=false, translator=false, listedCount=6101, isFollowRequestSent=false, withheldInCountries=null}, withHeldInCountries=null}
+Scopes: null
+Source: <a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+Text: RT @MafiaLMonster: VOTE FOR GAGA!
+
+@LadyGaga ? indicada oficialmente ao People’s Choice Awards. Vote: https://t.co/Xi4jwh5nBr
+User: UserJSONImpl{id=1921140168, name='FuckU', screenName='BaDumTis69', location='', description='I'm a strog bitch, and u?', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/492770446513692672/UF7LO2UP_normal.jpeg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/492770446513692672/UF7LO2UP_normal.jpeg', isDefaultProfileImage=false, url='null', isProtected=false, followersCount=475, status=null, profileBackgroundColor='000000', profileTextColor='000000', profileLinkColor='B30089', profileSidebarFillColor='000000', profileSidebarBorderColor='000000', profileUseBackgroundImage=false, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=104, createdAt=Mon Sep 30 23:11:31 EET 2013, favouritesCount=3741, utcOffset=-7200, timeZone='Brasilia', profileBackgroundImageUrl='http://abs.twimg.com/images/themes/theme1/bg.png', profileBackgroundImageUrlHttps='https://abs.twimg.com/images/themes/theme1/bg.png', profileBackgroundTiled=false, lang='pt', statusesCount=5325, isGeoEnabled=false, isVerified=false, translator=false, listedCount=1, isFollowRequestSent=false, withheldInCountries=null}
+---------------------------------
+
+Id: 661693524509908992
+CreatedAt: Wed Nov 04 01:56:44 EET 2015
+CurrentUserRetweetId: -1
+FavoriteCount: 0
+GeoLocation: null
+HashtagEntities: []
+InReplyToScreenName: null
+InReplyToStatusId: -1
+InReplyToUserId: -1
+Lang: en
+MediaEntities: [MediaEntityJSONImpl{id=660647429923016704, url=https://t.co/7mR8fr3yOl, mediaURL=http://pbs.twimg.com/media/CSsXVlZWEAA7_Ny.jpg, mediaURLHttps=https://pbs.twimg.com/media/CSsXVlZWEAA7_Ny.jpg, expandedURL=http://twitter.com/tylertella/status/660647432359923712/photo/1, displayURL='pic.twitter.com/7mR8fr3yOl', sizes={0=Size{width=150, height=150, resize=101}, 1=Size{width=340, height=635, resize=100}, 2=Size{width=548, height=1024, resize=100}, 3=Size{width=548, height=1024, resize=100}}, type=photo}]
+Place: null
+RetweetCount: 723
+RetweetedStatus: StatusJSONImpl{createdAt=Sun Nov 01 04:39:56 EET 2015, id=660647432359923712, text='me and the countess last night ???? @ladygaga https://t.co/7mR8fr3yOl', source='<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>', isTruncated=false, inReplyToStatusId=-1, inReplyToUserId=-1, isFavorited=false, isRetweeted=false, favoriteCount=2040, inReplyToScreenName='null', geoLocation=null, place=PlaceJSONImpl{name='Baton Rouge', streetAddress='null', countryCode='US', id='c7ef5f3368b68777', country='United States', placeType='city', url='https://api.twitter.com/1.1/geo/id/c7ef5f3368b68777.json', fullName='Baton Rouge, LA', boundingBoxType='Polygon', boundingBoxCoordinates=[[Ltwitter4j.GeoLocation;@786a26b6], geometryType='null', geometryCoordinates=null, containedWithIn=[]}, retweetCount=723, isPossiblySensitive=false, lang='en', contributorsIDs=[], retweetedStatus=null, userMentionEntities=[UserMentionEntityJSONImpl{name='The Countess', screenName='ladygaga', id=14230524}], urlEntities=[], hashtagEntities=[], mediaEntities=[MediaEntityJSONImpl{id=660647429923016704, url=https://t.co/7mR8fr3yOl, mediaURL=http://pbs.twimg.com/media/CSsXVlZWEAA7_Ny.jpg, mediaURLHttps=https://pbs.twimg.com/media/CSsXVlZWEAA7_Ny.jpg, expandedURL=http://twitter.com/tylertella/status/660647432359923712/photo/1, displayURL='pic.twitter.com/7mR8fr3yOl', sizes={0=Size{width=150, height=150, resize=101}, 1=Size{width=340, height=635, resize=100}, 2=Size{width=548, height=1024, resize=100}, 3=Size{width=548, height=1024, resize=100}}, type=photo}], symbolEntities=[], currentUserRetweetId=-1, user=UserJSONImpl{id=1319691157, name='tyler', screenName='tylertella', location='', description='I'm gonna Wear Designer and Forget your Name', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/650858797498372096/bW74krYy_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/650858797498372096/bW74krYy_normal.jpg', isDefaultProfileImage=false, url='null', isProtected=false, followersCount=946, status=null, profileBackgroundColor='C0DEED', profileTextColor='333333', profileLinkColor='0084B4', profileSidebarFillColor='DDEEF6', profileSidebarBorderColor='C0DEED', profileUseBackgroundImage=true, isDefaultProfile=true, showAllInlineMedia=false, friendsCount=1115, createdAt=Mon Apr 01 08:00:44 EET 2013, favouritesCount=6220, utcOffset=-1, timeZone='null', profileBackgroundImageUrl='http://abs.twimg.com/images/themes/theme1/bg.png', profileBackgroundImageUrlHttps='https://abs.twimg.com/images/themes/theme1/bg.png', profileBackgroundTiled=false, lang='en', statusesCount=8542, isGeoEnabled=true, isVerified=false, translator=false, listedCount=3, isFollowRequestSent=false, withheldInCountries=null}, withHeldInCountries=null}
+Scopes: null
+Source: <a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
+Text: RT @tylertella: me and the countess last night ???? @ladygaga https://t.co/7mR8fr3yOl
+User: UserJSONImpl{id=624373593, name='Patrick Yves', screenName='pqpyves', location='Star World ??', description='Welcome Stars Girls and Stars Boys Here, all of us are stars.', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/644697082360655872/Nla1gKCT_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/644697082360655872/Nla1gKCT_normal.jpg', isDefaultProfileImage=false, url='null', isProtected=false, followersCount=4705, status=null, profileBackgroundColor='131516', profileTextColor='333333', profileLinkColor='FFCC4D', profileSidebarFillColor='EFEFEF', profileSidebarBorderColor='000000', profileUseBackgroundImage=true, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=2820, createdAt=Mon Jul 02 05:43:17 EET 2012, favouritesCount=13140, utcOffset=-7200, timeZone='Mid-Atlantic', profileBackgroundImageUrl='http://pbs.twimg.com/profile_background_images/511295270705831936/Itl3w_xz.png', profileBackgroundImageUrlHttps='https://pbs.twimg.com/profile_background_images/511295270705831936/Itl3w_xz.png', profileBackgroundTiled=true, lang='pt', statusesCount=45883, isGeoEnabled=true, isVerified=false, translator=false, listedCount=13, isFollowRequestSent=false, withheldInCountries=null}
+---------------------------------
+
+Id: 661693524216270848
+CreatedAt: Wed Nov 04 01:56:44 EET 2015
+CurrentUserRetweetId: -1
+FavoriteCount: 0
+GeoLocation: null
+HashtagEntities: []
+InReplyToScreenName: null
+InReplyToStatusId: -1
+InReplyToUserId: -1
+Lang: en
+MediaEntities: []
+Place: null
+RetweetCount: 866
+RetweetedStatus: StatusJSONImpl{createdAt=Fri Oct 30 08:03:28 EET 2015, id=659973874767892480, text='What a tribute to @MrRPMurphy you are a true genius @ladygaga bringing all of yourself.. Always. We are all the better for it.', source='<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>', isTruncated=false, inReplyToStatusId=-1, inReplyToUserId=-1, isFavorited=false, isRetweeted=false, favoriteCount=1764, inReplyToScreenName='null', geoLocation=null, place=null, retweetCount=866, isPossiblySensitive=false, lang='en', contributorsIDs=[], retweetedStatus=null, userMentionEntities=[UserMentionEntityJSONImpl{name='Ryan Murphy', screenName='MrRPMurphy', id=475212144}, UserMentionEntityJSONImpl{name='The Countess', screenName='ladygaga', id=14230524}], urlEntities=[], hashtagEntities=[], mediaEntities=[], symbolEntities=[], currentUserRetweetId=-1, user=UserJSONImpl{id=602993818, name='Sarah Paulson', screenName='MsSarahPaulson', location='LA / NYC', description='Always Hungry', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/657787645179793408/IfWgzzIL_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/657787645179793408/IfWgzzIL_normal.jpg', isDefaultProfileImage=false, url='null', isProtected=false, followersCount=547448, status=null, profileBackgroundColor='ACDED6', profileTextColor='333333', profileLinkColor='038543', profileSidebarFillColor='F6F6F6', profileSidebarBorderColor='EEEEEE', profileUseBackgroundImage=true, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=252, createdAt=Fri Jun 08 22:08:54 EET 2012, favouritesCount=20, utcOffset=-18000, timeZone='Eastern Time (US & Canada)', profileBackgroundImageUrl='http://abs.twimg.com/images/themes/theme18/bg.gif', profileBackgroundImageUrlHttps='https://abs.twimg.com/images/themes/theme18/bg.gif', profileBackgroundTiled=false, lang='en', statusesCount=10022, isGeoEnabled=false, isVerified=true, translator=false, listedCount=1571, isFollowRequestSent=false, withheldInCountries=null}, withHeldInCountries=null}
+Scopes: null
+Source: <a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+Text: RT @MsSarahPaulson: What a tribute to @MrRPMurphy you are a true genius @ladygaga bringing all of yourself.. Always. We are all the better …
+User: UserJSONImpl{id=40521950, name='GeorGe', screenName='GeorMx', location='Venezuela', description='~Live on & dream on~', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/622929442734784514/7d7GELWl_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/622929442734784514/7d7GELWl_normal.jpg', isDefaultProfileImage=false, url='http://t.co/ESIU7HwRo0', isProtected=false, followersCount=881, status=null, profileBackgroundColor='1A1B1F', profileTextColor='666666', profileLinkColor='2FC2EF', profileSidebarFillColor='700470', profileSidebarBorderColor='000000', profileUseBackgroundImage=true, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=933, createdAt=Sat May 16 22:06:45 EEST 2009, favouritesCount=3849, utcOffset=-16200, timeZone='Caracas', profileBackgroundImageUrl='http://pbs.twimg.com/profile_background_images/490205835792887809/rUxCC9Hy.jpeg', profileBackgroundImageUrlHttps='https://pbs.twimg.com/profile_background_images/490205835792887809/rUxCC9Hy.jpeg', profileBackgroundTiled=true, lang='fr', statusesCount=10959, isGeoEnabled=false, isVerified=false, translator=false, listedCount=15, isFollowRequestSent=false, withheldInCountries=null}
+---------------------------------
+
+Id: 661693506130415617
+CreatedAt: Wed Nov 04 01:56:40 EET 2015
+CurrentUserRetweetId: -1
+FavoriteCount: 0
+GeoLocation: null
+HashtagEntities: [HashtagEntityJSONImpl{text='halloween2015'}, HashtagEntityJSONImpl{text='AHS'}]
+InReplyToScreenName: null
+InReplyToStatusId: -1
+InReplyToUserId: -1
+Lang: en
+MediaEntities: [MediaEntityJSONImpl{id=660648062004670468, url=https://t.co/DvxXl67QFI, mediaURL=http://pbs.twimg.com/media/CSsX6YFWsAQZdtS.jpg, mediaURLHttps=https://pbs.twimg.com/media/CSsX6YFWsAQZdtS.jpg, expandedURL=http://twitter.com/projectARTPOP/status/660648068187049984/photo/1, displayURL='pic.twitter.com/DvxXl67QFI', sizes={0=Size{width=150, height=150, resize=101}, 1=Size{width=340, height=604, resize=100}, 2=Size{width=576, height=1024, resize=100}, 3=Size{width=576, height=1024, resize=100}}, type=photo}]
+Place: null
+RetweetCount: 707
+RetweetedStatus: StatusJSONImpl{createdAt=Sun Nov 01 04:42:28 EET 2015, id=660648068187049984, text='@ladygaga I was The Countess last night with my beautiful blood drinking partner @EricUndefined #halloween2015 #AHS https://t.co/DvxXl67QFI', source='<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>', isTruncated=false, inReplyToStatusId=-1, inReplyToUserId=14230524, isFavorited=false, isRetweeted=false, favoriteCount=2046, inReplyToScreenName='ladygaga', geoLocation=null, place=PlaceJSONImpl{name='Greensboro', streetAddress='null', countryCode='US', id='a6c257c61f294ec1', country='United States', placeType='city', url='https://api.twitter.com/1.1/geo/id/a6c257c61f294ec1.json', fullName='Greensboro, NC', boundingBoxType='Polygon', boundingBoxCoordinates=[[Ltwitter4j.GeoLocation;@12ec930], geometryType='null', geometryCoordinates=null, containedWithIn=[]}, retweetCount=707, isPossiblySensitive=false, lang='en', contributorsIDs=[], retweetedStatus=null, userMentionEntities=[UserMentionEntityJSONImpl{name='The Countess', screenName='ladygaga', id=14230524}, UserMentionEntityJSONImpl{name='Eric', screenName='EricUndefined', id=21535707}], urlEntities=[], hashtagEntities=[HashtagEntityJSONImpl{text='halloween2015'}, HashtagEntityJSONImpl{text='AHS'}], mediaEntities=[MediaEntityJSONImpl{id=660648062004670468, url=https://t.co/DvxXl67QFI, mediaURL=http://pbs.twimg.com/media/CSsX6YFWsAQZdtS.jpg, mediaURLHttps=https://pbs.twimg.com/media/CSsX6YFWsAQZdtS.jpg, expandedURL=http://twitter.com/projectARTPOP/status/660648068187049984/photo/1, displayURL='pic.twitter.com/DvxXl67QFI', sizes={0=Size{width=150, height=150, resize=101}, 1=Size{width=340, height=604, resize=100}, 2=Size{width=576, height=1024, resize=100}, 3=Size{width=576, height=1024, resize=100}}, type=photo}], symbolEntities=[], currentUserRetweetId=-1, user=UserJSONImpl{id=87862940, name='Alexander', screenName='projectARTPOP', location='North Carolina', description='Alex, 18, I'm writing an album, I'm really fucking queer, @ladygaga is my goddess and I'm a cancer. I'm dating the most gorgeous person in the multiverse.', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/658056694702997504/WzzYlblm_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/658056694702997504/WzzYlblm_normal.jpg', isDefaultProfileImage=false, url='null', isProtected=false, followersCount=450, status=null, profileBackgroundColor='9AE4E8', profileTextColor='333333', profileLinkColor='E85DE8', profileSidebarFillColor='EFEFEF', profileSidebarBorderColor='000000', profileUseBackgroundImage=true, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=539, createdAt=Fri Nov 06 06:00:21 EET 2009, favouritesCount=12207, utcOffset=-21600, timeZone='Central Time (US & Canada)', profileBackgroundImageUrl='http://pbs.twimg.com/profile_background_images/514543918721933313/FgaVilyb.jpeg', profileBackgroundImageUrlHttps='https://pbs.twimg.com/profile_background_images/514543918721933313/FgaVilyb.jpeg', profileBackgroundTiled=true, lang='en', statusesCount=18590, isGeoEnabled=true, isVerified=false, translator=false, listedCount=6, isFollowRequestSent=false, withheldInCountries=null}, withHeldInCountries=null}
+Scopes: null
+Source: <a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
+Text: RT @projectARTPOP: @ladygaga I was The Countess last night with my beautiful blood drinking partner @EricUndefined #halloween2015 #AHS http…
+User: UserJSONImpl{id=624373593, name='Patrick Yves', screenName='pqpyves', location='Star World ??', description='Welcome Stars Girls and Stars Boys Here, all of us are stars.', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/644697082360655872/Nla1gKCT_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/644697082360655872/Nla1gKCT_normal.jpg', isDefaultProfileImage=false, url='null', isProtected=false, followersCount=4705, status=null, profileBackgroundColor='131516', profileTextColor='333333', profileLinkColor='FFCC4D', profileSidebarFillColor='EFEFEF', profileSidebarBorderColor='000000', profileUseBackgroundImage=true, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=2820, createdAt=Mon Jul 02 05:43:17 EET 2012, favouritesCount=13140, utcOffset=-7200, timeZone='Mid-Atlantic', profileBackgroundImageUrl='http://pbs.twimg.com/profile_background_images/511295270705831936/Itl3w_xz.png', profileBackgroundImageUrlHttps='https://pbs.twimg.com/profile_background_images/511295270705831936/Itl3w_xz.png', profileBackgroundTiled=true, lang='pt', statusesCount=45883, isGeoEnabled=true, isVerified=false, translator=false, listedCount=13, isFollowRequestSent=false, withheldInCountries=null}
+---------------------------------
+
+Id: 661693492163444736
+CreatedAt: Wed Nov 04 01:56:36 EET 2015
+CurrentUserRetweetId: -1
+FavoriteCount: 0
+GeoLocation: null
+HashtagEntities: []
+InReplyToScreenName: null
+InReplyToStatusId: -1
+InReplyToUserId: -1
+Lang: en
+MediaEntities: [MediaEntityJSONImpl{id=660648066693898240, url=https://t.co/H3aOyqNihb, mediaURL=http://pbs.twimg.com/media/CSsX6pjWoAAVdc6.jpg, mediaURLHttps=https://pbs.twimg.com/media/CSsX6pjWoAAVdc6.jpg, expandedURL=http://twitter.com/AmyGrimesSuxx/status/660648072859557889/photo/1, displayURL='pic.twitter.com/H3aOyqNihb', sizes={0=Size{width=150, height=150, resize=101}, 1=Size{width=340, height=331, resize=100}, 2=Size{width=600, height=585, resize=100}, 3=Size{width=640, height=624, resize=100}}, type=photo}]
+Place: null
+RetweetCount: 856
+RetweetedStatus: StatusJSONImpl{createdAt=Sun Nov 01 04:42:29 EET 2015, id=660648072859557889, text='The Countess will be roaming the streets in many countries tonight for GAGAWEEN @ladygaga @PenelopyJean ??? https://t.co/H3aOyqNihb', source='<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>', isTruncated=false, inReplyToStatusId=-1, inReplyToUserId=-1, isFavorited=false, isRetweeted=false, favoriteCount=2677, inReplyToScreenName='null', geoLocation=null, place=null, retweetCount=856, isPossiblySensitive=false, lang='en', contributorsIDs=[], retweetedStatus=null, userMentionEntities=[UserMentionEntityJSONImpl{name='The Countess', screenName='ladygaga', id=14230524}, UserMentionEntityJSONImpl{name='Penelopy Jean', screenName='PenelopyJean', id=302741662}], urlEntities=[], hashtagEntities=[], mediaEntities=[MediaEntityJSONImpl{id=660648066693898240, url=https://t.co/H3aOyqNihb, mediaURL=http://pbs.twimg.com/media/CSsX6pjWoAAVdc6.jpg, mediaURLHttps=https://pbs.twimg.com/media/CSsX6pjWoAAVdc6.jpg, expandedURL=http://twitter.com/AmyGrimesSuxx/status/660648072859557889/photo/1, displayURL='pic.twitter.com/H3aOyqNihb', sizes={0=Size{width=150, height=150, resize=101}, 1=Size{width=340, height=331, resize=100}, 2=Size{width=600, height=585, resize=100}, 3=Size{width=640, height=624, resize=100}}, type=photo}], symbolEntities=[], currentUserRetweetId=-1, user=UserJSONImpl{id=195800710, name='AmyGrimesSuxx | Gaga', screenName='AmyGrimesSuxx', location='Ireland', description='21. John & Edward. Gaga followed 6/12/13, Gaga noticed me x26. Luke/4 +Band followed 26/3/14, Met 4/4. Liam Payne/4 followed 15/10/14. Dev follows??', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/656568629161521152/YQn_cFDF_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/656568629161521152/YQn_cFDF_normal.jpg', isDefaultProfileImage=false, url='null', isProtected=false, followersCount=3542, status=null, profileBackgroundColor='FF6699', profileTextColor='333333', profileLinkColor='B40B43', profileSidebarFillColor='DDEEF6', profileSidebarBorderColor='FFFFFF', profileUseBackgroundImage=true, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=953, createdAt=Mon Sep 27 19:18:04 EEST 2010, favouritesCount=18349, utcOffset=0, timeZone='Dublin', profileBackgroundImageUrl='http://pbs.twimg.com/profile_background_images/378800000182803610/Gyg_bf0B.jpeg', profileBackgroundImageUrlHttps='https://pbs.twimg.com/profile_background_images/378800000182803610/Gyg_bf0B.jpeg', profileBackgroundTiled=true, lang='en', statusesCount=86202, isGeoEnabled=true, isVerified=false, translator=false, listedCount=22, isFollowRequestSent=false, withheldInCountries=null}, withHeldInCountries=null}
+Scopes: null
+Source: <a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
+Text: RT @AmyGrimesSuxx: The Countess will be roaming the streets in many countries tonight for GAGAWEEN @ladygaga @PenelopyJean ??? https://t.co…
+User: UserJSONImpl{id=624373593, name='Patrick Yves', screenName='pqpyves', location='Star World ??', description='Welcome Stars Girls and Stars Boys Here, all of us are stars.', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/644697082360655872/Nla1gKCT_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/644697082360655872/Nla1gKCT_normal.jpg', isDefaultProfileImage=false, url='null', isProtected=false, followersCount=4705, status=null, profileBackgroundColor='131516', profileTextColor='333333', profileLinkColor='FFCC4D', profileSidebarFillColor='EFEFEF', profileSidebarBorderColor='000000', profileUseBackgroundImage=true, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=2820, createdAt=Mon Jul 02 05:43:17 EET 2012, favouritesCount=13140, utcOffset=-7200, timeZone='Mid-Atlantic', profileBackgroundImageUrl='http://pbs.twimg.com/profile_background_images/511295270705831936/Itl3w_xz.png', profileBackgroundImageUrlHttps='https://pbs.twimg.com/profile_background_images/511295270705831936/Itl3w_xz.png', profileBackgroundTiled=true, lang='pt', statusesCount=45883, isGeoEnabled=true, isVerified=false, translator=false, listedCount=13, isFollowRequestSent=false, withheldInCountries=null}
+---------------------------------
+
+Id: 661693481224691712
+CreatedAt: Wed Nov 04 01:56:34 EET 2015
+CurrentUserRetweetId: -1
+FavoriteCount: 0
+GeoLocation: null
+HashtagEntities: []
+InReplyToScreenName: null
+InReplyToStatusId: -1
+InReplyToUserId: -1
+Lang: en
+MediaEntities: [MediaEntityJSONImpl{id=660648475596582912, url=https://t.co/uf4KJXWgQU, mediaURL=http://pbs.twimg.com/media/CSsYSc1WcAAexUy.jpg, mediaURLHttps=https://pbs.twimg.com/media/CSsYSc1WcAAexUy.jpg, expandedURL=http://twitter.com/MINILGAGA/status/660648481128914944/photo/1, displayURL='pic.twitter.com/uf4KJXWgQU', sizes={0=Size{width=150, height=150, resize=101}, 1=Size{width=340, height=453, resize=100}, 2=Size{width=600, height=800, resize=100}, 3=Size{width=720, height=960, resize=100}}, type=photo}]
+Place: null
+RetweetCount: 928
+RetweetedStatus: StatusJSONImpl{createdAt=Sun Nov 01 04:44:06 EET 2015, id=660648481128914944, text='@ladygaga The Countess is in Chicago tonight ? https://t.co/uf4KJXWgQU', source='<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>', isTruncated=false, inReplyToStatusId=-1, inReplyToUserId=14230524, isFavorited=false, isRetweeted=false, favoriteCount=3182, inReplyToScreenName='ladygaga', geoLocation=null, place=null, retweetCount=928, isPossiblySensitive=false, lang='en', contributorsIDs=[], retweetedStatus=null, userMentionEntities=[UserMentionEntityJSONImpl{name='The Countess', screenName='ladygaga', id=14230524}], urlEntities=[], hashtagEntities=[], mediaEntities=[MediaEntityJSONImpl{id=660648475596582912, url=https://t.co/uf4KJXWgQU, mediaURL=http://pbs.twimg.com/media/CSsYSc1WcAAexUy.jpg, mediaURLHttps=https://pbs.twimg.com/media/CSsYSc1WcAAexUy.jpg, expandedURL=http://twitter.com/MINILGAGA/status/660648481128914944/photo/1, displayURL='pic.twitter.com/uf4KJXWgQU', sizes={0=Size{width=150, height=150, resize=101}, 1=Size{width=340, height=453, resize=100}, 2=Size{width=600, height=800, resize=100}, 3=Size{width=720, height=960, resize=100}}, type=photo}], symbolEntities=[], currentUserRetweetId=-1, user=UserJSONImpl{id=52637105, name='Brittany Gaga', screenName='MINILGAGA', location='Windy City', description='Spreading Gaga's love & message to as many as I can through my art, performance, & style. INSTAGRAM:  brittany_gaga', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/494957759490953216/CUZJa2wt_normal.jpeg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/494957759490953216/CUZJa2wt_normal.jpeg', isDefaultProfileImage=false, url='null', isProtected=false, followersCount=261, status=null, profileBackgroundColor='9AE4E8', profileTextColor='333333', profileLinkColor='0084B4', profileSidebarFillColor='DDFFCC', profileSidebarBorderColor='BDDCAD', profileUseBackgroundImage=true, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=125, createdAt=Wed Jul 01 07:50:50 EEST 2009, favouritesCount=172, utcOffset=-21600, timeZone='Central Time (US & Canada)', profileBackgroundImageUrl='http://pbs.twimg.com/profile_background_images/195006134/67039_447618502415_309145902415_5173937_824485_n.jpg', profileBackgroundImageUrlHttps='https://pbs.twimg.com/profile_background_images/195006134/67039_447618502415_309145902415_5173937_824485_n.jpg', profileBackgroundTiled=true, lang='en', statusesCount=1354, isGeoEnabled=false, isVerified=false, translator=false, listedCount=4, isFollowRequestSent=false, withheldInCountries=null}, withHeldInCountries=null}
+Scopes: null
+Source: <a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
+Text: RT @MINILGAGA: @ladygaga The Countess is in Chicago tonight ? https://t.co/uf4KJXWgQU
+User: UserJSONImpl{id=624373593, name='Patrick Yves', screenName='pqpyves', location='Star World ??', description='Welcome Stars Girls and Stars Boys Here, all of us are stars.', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/644697082360655872/Nla1gKCT_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/644697082360655872/Nla1gKCT_normal.jpg', isDefaultProfileImage=false, url='null', isProtected=false, followersCount=4705, status=null, profileBackgroundColor='131516', profileTextColor='333333', profileLinkColor='FFCC4D', profileSidebarFillColor='EFEFEF', profileSidebarBorderColor='000000', profileUseBackgroundImage=true, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=2820, createdAt=Mon Jul 02 05:43:17 EET 2012, favouritesCount=13140, utcOffset=-7200, timeZone='Mid-Atlantic', profileBackgroundImageUrl='http://pbs.twimg.com/profile_background_images/511295270705831936/Itl3w_xz.png', profileBackgroundImageUrlHttps='https://pbs.twimg.com/profile_background_images/511295270705831936/Itl3w_xz.png', profileBackgroundTiled=true, lang='pt', statusesCount=45883, isGeoEnabled=true, isVerified=false, translator=false, listedCount=13, isFollowRequestSent=false, withheldInCountries=null}
+---------------------------------
+
+Id: 661693477634240512
+CreatedAt: Wed Nov 04 01:56:33 EET 2015
+CurrentUserRetweetId: -1
+FavoriteCount: 0
+GeoLocation: null
+HashtagEntities: [HashtagEntityJSONImpl{text='Magazine'}, HashtagEntityJSONImpl{text='Books'}, HashtagEntityJSONImpl{text='LadyGaga'}, HashtagEntityJSONImpl{text='Book'}, HashtagEntityJSONImpl{text='Auction'}]
+InReplyToScreenName: null
+InReplyToStatusId: -1
+InReplyToUserId: -1
+Lang: en
+MediaEntities: []
+Place: null
+RetweetCount: 0
+RetweetedStatus: null
+Scopes: null
+Source: <a href="http://dlvr.it" rel="nofollow">dlvr.it</a>
+Text: L #Magazine #Books Rolling Stone #LadyGaga, June 9, 2011 Back Issue #Book #Auction https://t.co/1tYvH01nft
+User: UserJSONImpl{id=491838627, name='Lady GaGa Fans', screenName='LadyGaGa___News', location='', description='The latest Lady GaGa gossip online keeping you up to date with all Lady GaGa news. #InstantFollowBack', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/1825952681/111_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/1825952681/111_normal.jpg', isDefaultProfileImage=false, url='null', isProtected=false, followersCount=5252, status=null, profileBackgroundColor='C0DEED', profileTextColor='333333', profileLinkColor='0084B4', profileSidebarFillColor='DDEEF6', profileSidebarBorderColor='C0DEED', profileUseBackgroundImage=true, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=5368, createdAt=Tue Feb 14 05:27:46 EET 2012, favouritesCount=0, utcOffset=-28800, timeZone='Pacific Time (US & Canada)', profileBackgroundImageUrl='http://pbs.twimg.com/profile_background_images/424482763/222.jpg', profileBackgroundImageUrlHttps='https://pbs.twimg.com/profile_background_images/424482763/222.jpg', profileBackgroundTiled=true, lang='en', statusesCount=235140, isGeoEnabled=false, isVerified=false, translator=false, listedCount=198, isFollowRequestSent=false, withheldInCountries=null}
+---------------------------------
+
+Id: 661693440934223872
+CreatedAt: Wed Nov 04 01:56:24 EET 2015
+CurrentUserRetweetId: -1
+FavoriteCount: 0
+GeoLocation: null
+HashtagEntities: []
+InReplyToScreenName: null
+InReplyToStatusId: -1
+InReplyToUserId: -1
+Lang: en
+MediaEntities: [MediaEntityJSONImpl{id=660068403441369092, url=https://t.co/KY03BKPlIY, mediaURL=http://pbs.twimg.com/media/CSkItzqVAAQFtCU.jpg, mediaURLHttps=https://pbs.twimg.com/media/CSkItzqVAAQFtCU.jpg, expandedURL=http://twitter.com/msleamichele/status/660068409372049408/photo/1, displayURL='pic.twitter.com/KY03BKPlIY', sizes={0=Size{width=150, height=150, resize=101}, 1=Size{width=340, height=255, resize=100}, 2=Size{width=600, height=450, resize=100}, 3=Size{width=1024, height=768, resize=100}}, type=photo}]
+Place: null
+RetweetCount: 1697
+RetweetedStatus: StatusJSONImpl{createdAt=Fri Oct 30 14:19:06 EET 2015, id=660068409372049408, text='No words can truly say how AMAZING @ladygaga performance was @amfAR ? SO blown away! ?? https://t.co/KY03BKPlIY', source='<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>', isTruncated=false, inReplyToStatusId=-1, inReplyToUserId=-1, isFavorited=false, isRetweeted=false, favoriteCount=3075, inReplyToScreenName='null', geoLocation=null, place=null, retweetCount=1697, isPossiblySensitive=false, lang='en', contributorsIDs=[], retweetedStatus=null, userMentionEntities=[UserMentionEntityJSONImpl{name='The Countess', screenName='ladygaga', id=14230524}, UserMentionEntityJSONImpl{name='amfAR', screenName='amfAR', id=16544437}], urlEntities=[], hashtagEntities=[], mediaEntities=[MediaEntityJSONImpl{id=660068403441369092, url=https://t.co/KY03BKPlIY, mediaURL=http://pbs.twimg.com/media/CSkItzqVAAQFtCU.jpg, mediaURLHttps=https://pbs.twimg.com/media/CSkItzqVAAQFtCU.jpg, expandedURL=http://twitter.com/msleamichele/status/660068409372049408/photo/1, displayURL='pic.twitter.com/KY03BKPlIY', sizes={0=Size{width=150, height=150, resize=101}, 1=Size{width=340, height=255, resize=100}, 2=Size{width=600, height=450, resize=100}, 3=Size{width=1024, height=768, resize=100}}, type=photo}], symbolEntities=[], currentUserRetweetId=-1, user=UserJSONImpl{id=50515656, name='Lea Michele', screenName='msleamichele', location='', description='Actor, singer, author. Louder: Available on iTunes, Scream Queens: Tuesdays 9/8c on FOX, You First: available here: http://t.co/B2etCtLlPR', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/654386339157143552/PARNCOzb_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/654386339157143552/PARNCOzb_normal.jpg', isDefaultProfileImage=false, url='null', isProtected=false, followersCount=4638209, status=null, profileBackgroundColor='FFFFFF', profileTextColor='000000', profileLinkColor='FF0000', profileSidebarFillColor='D6D5D2', profileSidebarBorderColor='FFFFFF', profileUseBackgroundImage=true, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=100, createdAt=Thu Jun 25 04:56:04 EEST 2009, favouritesCount=183, utcOffset=-28800, timeZone='Pacific Time (US & Canada)', profileBackgroundImageUrl='http://pbs.twimg.com/profile_background_images/647214286717104128/_Ac64bUo.png', profileBackgroundImageUrlHttps='https://pbs.twimg.com/profile_background_images/647214286717104128/_Ac64bUo.png', profileBackgroundTiled=false, lang='en', statusesCount=6728, isGeoEnabled=false, isVerified=true, translator=false, listedCount=27530, isFollowRequestSent=false, withheldInCountries=null}, withHeldInCountries=null}
+Scopes: null
+Source: <a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+Text: RT @msleamichele: No words can truly say how AMAZING @ladygaga performance was @amfAR ? SO blown away! ?? https://t.co/KY03BKPlIY
+User: UserJSONImpl{id=40521950, name='GeorGe', screenName='GeorMx', location='Venezuela', description='~Live on & dream on~', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/622929442734784514/7d7GELWl_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/622929442734784514/7d7GELWl_normal.jpg', isDefaultProfileImage=false, url='http://t.co/ESIU7HwRo0', isProtected=false, followersCount=881, status=null, profileBackgroundColor='1A1B1F', profileTextColor='666666', profileLinkColor='2FC2EF', profileSidebarFillColor='700470', profileSidebarBorderColor='000000', profileUseBackgroundImage=true, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=933, createdAt=Sat May 16 22:06:45 EEST 2009, favouritesCount=3849, utcOffset=-16200, timeZone='Caracas', profileBackgroundImageUrl='http://pbs.twimg.com/profile_background_images/490205835792887809/rUxCC9Hy.jpeg', profileBackgroundImageUrlHttps='https://pbs.twimg.com/profile_background_images/490205835792887809/rUxCC9Hy.jpeg', profileBackgroundTiled=true, lang='fr', statusesCount=10959, isGeoEnabled=false, isVerified=false, translator=false, listedCount=15, isFollowRequestSent=false, withheldInCountries=null}
+---------------------------------
+
+Id: 661693425264259072
+CreatedAt: Wed Nov 04 01:56:20 EET 2015
+CurrentUserRetweetId: -1
+FavoriteCount: 0
+GeoLocation: null
+HashtagEntities: []
+InReplyToScreenName: null
+InReplyToStatusId: -1
+InReplyToUserId: -1
+Lang: en
+MediaEntities: [MediaEntityJSONImpl{id=661310523913424897, url=https://t.co/UHPfdEQYWc, mediaURL=http://pbs.twimg.com/media/CS1yavAWUAEEFpY.jpg, mediaURLHttps=https://pbs.twimg.com/media/CS1yavAWUAEEFpY.jpg, expandedURL=http://twitter.com/ladygaga/status/661310590477082624/photo/1, displayURL='pic.twitter.com/UHPfdEQYWc', sizes={0=Size{width=150, height=150, resize=101}, 1=Size{width=340, height=459, resize=100}, 2=Size{width=600, height=810, resize=100}, 3=Size{width=758, height=1024, resize=100}}, type=photo}]
+Place: null
+RetweetCount: 3515
+RetweetedStatus: StatusJSONImpl{createdAt=Tue Nov 03 00:35:05 EET 2015, id=661310590477082624, text='Love this suit @neilbarrett and amazing heels Paula Cademartori https://t.co/UHPfdEQYWc', source='<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>', isTruncated=false, inReplyToStatusId=-1, inReplyToUserId=-1, isFavorited=false, isRetweeted=false, favoriteCount=7132, inReplyToScreenName='null', geoLocation=null, place=null, retweetCount=3515, isPossiblySensitive=false, lang='en', contributorsIDs=[], retweetedStatus=null, userMentionEntities=[UserMentionEntityJSONImpl{name='Neil Barrett', screenName='neilbarrett', id=70394683}], urlEntities=[], hashtagEntities=[], mediaEntities=[MediaEntityJSONImpl{id=661310523913424897, url=https://t.co/UHPfdEQYWc, mediaURL=http://pbs.twimg.com/media/CS1yavAWUAEEFpY.jpg, mediaURLHttps=https://pbs.twimg.com/media/CS1yavAWUAEEFpY.jpg, expandedURL=http://twitter.com/ladygaga/status/661310590477082624/photo/1, displayURL='pic.twitter.com/UHPfdEQYWc', sizes={0=Size{width=150, height=150, resize=101}, 1=Size{width=340, height=459, resize=100}, 2=Size{width=600, height=810, resize=100}, 3=Size{width=758, height=1024, resize=100}}, type=photo}], symbolEntities=[], currentUserRetweetId=-1, user=UserJSONImpl{id=14230524, name='The Countess', screenName='ladygaga', location='', description='jazz art pop punk actress', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/651768708789108736/O-_dWj58_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/651768708789108736/O-_dWj58_normal.jpg', isDefaultProfileImage=false, url='null', isProtected=false, followersCount=52103935, status=null, profileBackgroundColor='0A090A', profileTextColor='333333', profileLinkColor='050505', profileSidebarFillColor='DDFFCC', profileSidebarBorderColor='000000', profileUseBackgroundImage=true, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=131609, createdAt=Thu Mar 27 00:37:48 EET 2008, favouritesCount=534, utcOffset=-18000, timeZone='Quito', profileBackgroundImageUrl='http://pbs.twimg.com/profile_background_images/514429204939563008/4md0cRjw.png', profileBackgroundImageUrlHttps='https://pbs.twimg.com/profile_background_images/514429204939563008/4md0cRjw.png', profileBackgroundTiled=true, lang='en', statusesCount=7064, isGeoEnabled=false, isVerified=true, translator=false, listedCount=232432, isFollowRequestSent=false, withheldInCountries=null}, withHeldInCountries=null}
+Scopes: null
+Source: <a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+Text: RT @ladygaga: Love this suit @neilbarrett and amazing heels Paula Cademartori https://t.co/UHPfdEQYWc
+User: UserJSONImpl{id=2294293787, name='Rodolfo?', screenName='rodgermanotta', location='Madalena, Cear?', description='Little Monsters e Uckers fan?tico, apaixonado por pop e matem?tica.', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/657195586505089024/e7778MUR_normal.png', profileImageUrlHttps='https://pbs.twimg.com/profile_images/657195586505089024/e7778MUR_normal.png', isDefaultProfileImage=false, url='https://t.co/uoeUArbL5Y', isProtected=false, followersCount=709, status=null, profileBackgroundColor='4A913C', profileTextColor='333333', profileLinkColor='FA743E', profileSidebarFillColor='DDEEF6', profileSidebarBorderColor='FFFFFF', profileUseBackgroundImage=true, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=521, createdAt=Tue Jan 21 00:46:25 EET 2014, favouritesCount=956, utcOffset=-7200, timeZone='Brasilia', profileBackgroundImageUrl='http://pbs.twimg.com/profile_background_images/620786199939153921/L_ZxUNkb.jpg', profileBackgroundImageUrlHttps='https://pbs.twimg.com/profile_background_images/620786199939153921/L_ZxUNkb.jpg', profileBackgroundTiled=true, lang='pt', statusesCount=3396, isGeoEnabled=true, isVerified=false, translator=false, listedCount=2, isFollowRequestSent=false, withheldInCountries=null}
+---------------------------------
+
+Id: 661693397900640256
+CreatedAt: Wed Nov 04 01:56:14 EET 2015
+CurrentUserRetweetId: -1
+FavoriteCount: 0
+GeoLocation: null
+HashtagEntities: []
+InReplyToScreenName: null
+InReplyToStatusId: -1
+InReplyToUserId: -1
+Lang: en
+MediaEntities: [MediaEntityJSONImpl{id=661075554636926976, url=https://t.co/10LGjULsvp, mediaURL=http://pbs.twimg.com/media/CSyctuPUEAA7SJl.jpg, mediaURLHttps=https://pbs.twimg.com/media/CSyctuPUEAA7SJl.jpg, expandedURL=http://twitter.com/ladygaga/status/661075565366091776/photo/1, displayURL='pic.twitter.com/10LGjULsvp', sizes={0=Size{width=150, height=150, resize=101}, 1=Size{width=340, height=501, resize=100}, 2=Size{width=600, height=885, resize=100}, 3=Size{width=694, height=1024, resize=100}}, type=photo}]
+Place: null
+RetweetCount: 3240
+RetweetedStatus: StatusJSONImpl{createdAt=Mon Nov 02 09:01:11 EET 2015, id=661075565366091776, text='Love my @YSL t-shirt they are the best! Custom @MaisonValentino purse very vintage @ManoloBlahnik kitten heels ?? https://t.co/10LGjULsvp', source='<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>', isTruncated=false, inReplyToStatusId=-1, inReplyToUserId=-1, isFavorited=false, isRetweeted=false, favoriteCount=7544, inReplyToScreenName='null', geoLocation=null, place=null, retweetCount=3240, isPossiblySensitive=false, lang='en', contributorsIDs=[], retweetedStatus=null, userMentionEntities=[UserMentionEntityJSONImpl{name='Yves Saint Laurent', screenName='YSL', id=60054156}, UserMentionEntityJSONImpl{name='Valentino', screenName='MaisonValentino', id=73359920}, UserMentionEntityJSONImpl{name='Manolo Blahnik', screenName='ManoloBlahnik', id=714334891}], urlEntities=[], hashtagEntities=[], mediaEntities=[MediaEntityJSONImpl{id=661075554636926976, url=https://t.co/10LGjULsvp, mediaURL=http://pbs.twimg.com/media/CSyctuPUEAA7SJl.jpg, mediaURLHttps=https://pbs.twimg.com/media/CSyctuPUEAA7SJl.jpg, expandedURL=http://twitter.com/ladygaga/status/661075565366091776/photo/1, displayURL='pic.twitter.com/10LGjULsvp', sizes={0=Size{width=150, height=150, resize=101}, 1=Size{width=340, height=501, resize=100}, 2=Size{width=600, height=885, resize=100}, 3=Size{width=694, height=1024, resize=100}}, type=photo}], symbolEntities=[], currentUserRetweetId=-1, user=UserJSONImpl{id=14230524, name='The Countess', screenName='ladygaga', location='', description='jazz art pop punk actress', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/651768708789108736/O-_dWj58_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/651768708789108736/O-_dWj58_normal.jpg', isDefaultProfileImage=false, url='null', isProtected=false, followersCount=52103935, status=null, profileBackgroundColor='0A090A', profileTextColor='333333', profileLinkColor='050505', profileSidebarFillColor='DDFFCC', profileSidebarBorderColor='000000', profileUseBackgroundImage=true, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=131609, createdAt=Thu Mar 27 00:37:48 EET 2008, favouritesCount=534, utcOffset=-18000, timeZone='Quito', profileBackgroundImageUrl='http://pbs.twimg.com/profile_background_images/514429204939563008/4md0cRjw.png', profileBackgroundImageUrlHttps='https://pbs.twimg.com/profile_background_images/514429204939563008/4md0cRjw.png', profileBackgroundTiled=true, lang='en', statusesCount=7064, isGeoEnabled=false, isVerified=true, translator=false, listedCount=232432, isFollowRequestSent=false, withheldInCountries=null}, withHeldInCountries=null}
+Scopes: null
+Source: <a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+Text: RT @ladygaga: Love my @YSL t-shirt they are the best! Custom @MaisonValentino purse very vintage @ManoloBlahnik kitten heels ?? https://t.c…
+User: UserJSONImpl{id=2294293787, name='Rodolfo?', screenName='rodgermanotta', location='Madalena, Cear?', description='Little Monsters e Uckers fan?tico, apaixonado por pop e matem?tica.', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/657195586505089024/e7778MUR_normal.png', profileImageUrlHttps='https://pbs.twimg.com/profile_images/657195586505089024/e7778MUR_normal.png', isDefaultProfileImage=false, url='https://t.co/uoeUArbL5Y', isProtected=false, followersCount=709, status=null, profileBackgroundColor='4A913C', profileTextColor='333333', profileLinkColor='FA743E', profileSidebarFillColor='DDEEF6', profileSidebarBorderColor='FFFFFF', profileUseBackgroundImage=true, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=521, createdAt=Tue Jan 21 00:46:25 EET 2014, favouritesCount=956, utcOffset=-7200, timeZone='Brasilia', profileBackgroundImageUrl='http://pbs.twimg.com/profile_background_images/620786199939153921/L_ZxUNkb.jpg', profileBackgroundImageUrlHttps='https://pbs.twimg.com/profile_background_images/620786199939153921/L_ZxUNkb.jpg', profileBackgroundTiled=true, lang='pt', statusesCount=3396, isGeoEnabled=true, isVerified=false, translator=false, listedCount=2, isFollowRequestSent=false, withheldInCountries=null}
+---------------------------------
+
+Id: 661693358134460416
+CreatedAt: Wed Nov 04 01:56:04 EET 2015
+CurrentUserRetweetId: -1
+FavoriteCount: 0
+GeoLocation: null
+HashtagEntities: []
+InReplyToScreenName: null
+InReplyToStatusId: -1
+InReplyToUserId: -1
+Lang: en
+MediaEntities: []
+Place: null
+RetweetCount: 0
+RetweetedStatus: null
+Scopes: null
+Source: <a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+Text: Everyone vote https://t.co/TFwwIPAdqG x @ladygaga  x
+User: UserJSONImpl{id=32501903, name='Jenna Sian Robinshaw', screenName='Jenlovesgaga', location='', description='', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/280405590/Jenna_001_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/280405590/Jenna_001_normal.jpg', isDefaultProfileImage=false, url='null', isProtected=false, followersCount=113, status=null, profileBackgroundColor='642D8B', profileTextColor='3D1957', profileLinkColor='FF0000', profileSidebarFillColor='7AC3EE', profileSidebarBorderColor='65B0DA', profileUseBackgroundImage=true, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=138, createdAt=Fri Apr 17 21:03:59 EEST 2009, favouritesCount=19, utcOffset=-1, timeZone='null', profileBackgroundImageUrl='http://pbs.twimg.com/profile_background_images/19680860/hair1.jpg', profileBackgroundImageUrlHttps='https://pbs.twimg.com/profile_background_images/19680860/hair1.jpg', profileBackgroundTiled=true, lang='en', statusesCount=54, isGeoEnabled=false, isVerified=false, translator=false, listedCount=0, isFollowRequestSent=false, withheldInCountries=null}
+---------------------------------
+
+Id: 661693349959634944
+CreatedAt: Wed Nov 04 01:56:02 EET 2015
+CurrentUserRetweetId: -1
+FavoriteCount: 0
+GeoLocation: null
+HashtagEntities: [HashtagEntityJSONImpl{text='americanhorrorstoryhotel'}, HashtagEntityJSONImpl{text='governmenthooker'}, HashtagEntityJSONImpl{text='ladygaga'}, HashtagEntityJSONImpl{text='britboi'}]
+InReplyToScreenName: null
+InReplyToStatusId: -1
+InReplyToUserId: -1
+Lang: und
+MediaEntities: []
+Place: null
+RetweetCount: 1
+RetweetedStatus: StatusJSONImpl{createdAt=Wed Nov 04 01:43:32 EET 2015, id=661690203279663104, text='?
+? #americanhorrorstoryhotel
+? #governmenthooker
+? #ladygaga
+? #britboi https://t.co/Qpfiq0XIB5', source='<a href="http://instagram.com" rel="nofollow">Instagram</a>', isTruncated=false, inReplyToStatusId=-1, inReplyToUserId=-1, isFavorited=false, isRetweeted=false, favoriteCount=0, inReplyToScreenName='null', geoLocation=null, place=null, retweetCount=1, isPossiblySensitive=false, lang='und', contributorsIDs=[], retweetedStatus=null, userMentionEntities=[], urlEntities=[URLEntityJSONImpl{url='https://t.co/Qpfiq0XIB5', expandedURL='https://instagram.com/p/9pDuVfFBFW/', displayURL='instagram.com/p/9pDuVfFBFW/'}], hashtagEntities=[HashtagEntityJSONImpl{text='americanhorrorstoryhotel'}, HashtagEntityJSONImpl{text='governmenthooker'}, HashtagEntityJSONImpl{text='ladygaga'}, HashtagEntityJSONImpl{text='britboi'}], mediaEntities=[], symbolEntities=[], currentUserRetweetId=-1, user=UserJSONImpl{id=20088318, name='heyitsbritboi', screenName='BritBoi', location='Houston, Texas', description='Follow me on Instagram! http://t.co/7p4ZciKmU4', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/648745850919718913/1Zs7k9Xk_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/648745850919718913/1Zs7k9Xk_normal.jpg', isDefaultProfileImage=false, url='null', isProtected=false, followersCount=30431, status=null, profileBackgroundColor='000000', profileTextColor='D4D4D4', profileLinkColor='000000', profileSidebarFillColor='1D1D1D', profileSidebarBorderColor='FFFFFF', profileUseBackgroundImage=false, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=24878, createdAt=Wed Feb 04 22:19:56 EET 2009, favouritesCount=150, utcOffset=-21600, timeZone='Central Time (US & Canada)', profileBackgroundImageUrl='http://pbs.twimg.com/profile_background_images/458781468974514176/P4EEiDAn.jpeg', profileBackgroundImageUrlHttps='https://pbs.twimg.com/profile_background_images/458781468974514176/P4EEiDAn.jpeg', profileBackgroundTiled=false, lang='en', statusesCount=70248, isGeoEnabled=false, isVerified=false, translator=false, listedCount=919, isFollowRequestSent=false, withheldInCountries=null}, withHeldInCountries=null}
+Scopes: null
+Source: <a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>
+Text: RT @BritBoi: ?
+? #americanhorrorstoryhotel
+? #governmenthooker
+? #ladygaga
+? #britboi https://t.co/Qpfiq0XIB5
+User: UserJSONImpl{id=277324962, name='? Promote The 100 ?', screenName='BadKidPrincess', location='obsessing over Caitlin Stasey?', description='I am a MONSTER, FANGELIC, AARONATOR! #Ezria #Frary #Kennash #GoT #Olicity #Brallie #Bellarke #The100 #Gotham #DIVERGENT #Onision BTWBall 1/31/13! artRAVE 07/16', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/616086979969613824/-RATEl5S_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/616086979969613824/-RATEl5S_normal.jpg', isDefaultProfileImage=false, url='null', isProtected=false, followersCount=1536, status=null, profileBackgroundColor='1A1B1F', profileTextColor='F01149', profileLinkColor='F20947', profileSidebarFillColor='252429', profileSidebarBorderColor='000000', profileUseBackgroundImage=true, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=2001, createdAt=Tue Apr 05 07:11:38 EET 2011, favouritesCount=6435, utcOffset=-21600, timeZone='Central Time (US & Canada)', profileBackgroundImageUrl='http://pbs.twimg.com/profile_background_images/668054635/557a4b5c88b774453ef7d25c4518fe9a.jpeg', profileBackgroundImageUrlHttps='https://pbs.twimg.com/profile_background_images/668054635/557a4b5c88b774453ef7d25c4518fe9a.jpeg', profileBackgroundTiled=true, lang='en', statusesCount=47282, isGeoEnabled=false, isVerified=false, translator=false, listedCount=14, isFollowRequestSent=false, withheldInCountries=null}
+---------------------------------
+
+Id: 661693313897099264
+CreatedAt: Wed Nov 04 01:55:54 EET 2015
+CurrentUserRetweetId: -1
+FavoriteCount: 0
+GeoLocation: null
+HashtagEntities: []
+InReplyToScreenName: null
+InReplyToStatusId: -1
+InReplyToUserId: -1
+Lang: en
+MediaEntities: [MediaEntityJSONImpl{id=661075554636926976, url=https://t.co/10LGjULsvp, mediaURL=http://pbs.twimg.com/media/CSyctuPUEAA7SJl.jpg, mediaURLHttps=https://pbs.twimg.com/media/CSyctuPUEAA7SJl.jpg, expandedURL=http://twitter.com/ladygaga/status/661075565366091776/photo/1, displayURL='pic.twitter.com/10LGjULsvp', sizes={0=Size{width=150, height=150, resize=101}, 1=Size{width=340, height=501, resize=100}, 2=Size{width=600, height=885, resize=100}, 3=Size{width=694, height=1024, resize=100}}, type=photo}]
+Place: null
+RetweetCount: 3240
+RetweetedStatus: StatusJSONImpl{createdAt=Mon Nov 02 09:01:11 EET 2015, id=661075565366091776, text='Love my @YSL t-shirt they are the best! Custom @MaisonValentino purse very vintage @ManoloBlahnik kitten heels ?? https://t.co/10LGjULsvp', source='<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>', isTruncated=false, inReplyToStatusId=-1, inReplyToUserId=-1, isFavorited=false, isRetweeted=false, favoriteCount=7544, inReplyToScreenName='null', geoLocation=null, place=null, retweetCount=3240, isPossiblySensitive=false, lang='en', contributorsIDs=[], retweetedStatus=null, userMentionEntities=[UserMentionEntityJSONImpl{name='Yves Saint Laurent', screenName='YSL', id=60054156}, UserMentionEntityJSONImpl{name='Valentino', screenName='MaisonValentino', id=73359920}, UserMentionEntityJSONImpl{name='Manolo Blahnik', screenName='ManoloBlahnik', id=714334891}], urlEntities=[], hashtagEntities=[], mediaEntities=[MediaEntityJSONImpl{id=661075554636926976, url=https://t.co/10LGjULsvp, mediaURL=http://pbs.twimg.com/media/CSyctuPUEAA7SJl.jpg, mediaURLHttps=https://pbs.twimg.com/media/CSyctuPUEAA7SJl.jpg, expandedURL=http://twitter.com/ladygaga/status/661075565366091776/photo/1, displayURL='pic.twitter.com/10LGjULsvp', sizes={0=Size{width=150, height=150, resize=101}, 1=Size{width=340, height=501, resize=100}, 2=Size{width=600, height=885, resize=100}, 3=Size{width=694, height=1024, resize=100}}, type=photo}], symbolEntities=[], currentUserRetweetId=-1, user=UserJSONImpl{id=14230524, name='The Countess', screenName='ladygaga', location='', description='jazz art pop punk actress', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/651768708789108736/O-_dWj58_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/651768708789108736/O-_dWj58_normal.jpg', isDefaultProfileImage=false, url='null', isProtected=false, followersCount=52103935, status=null, profileBackgroundColor='0A090A', profileTextColor='333333', profileLinkColor='050505', profileSidebarFillColor='DDFFCC', profileSidebarBorderColor='000000', profileUseBackgroundImage=true, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=131609, createdAt=Thu Mar 27 00:37:48 EET 2008, favouritesCount=534, utcOffset=-18000, timeZone='Quito', profileBackgroundImageUrl='http://pbs.twimg.com/profile_background_images/514429204939563008/4md0cRjw.png', profileBackgroundImageUrlHttps='https://pbs.twimg.com/profile_background_images/514429204939563008/4md0cRjw.png', profileBackgroundTiled=true, lang='en', statusesCount=7064, isGeoEnabled=false, isVerified=true, translator=false, listedCount=232432, isFollowRequestSent=false, withheldInCountries=null}, withHeldInCountries=null}
+Scopes: null
+Source: <a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
+Text: RT @ladygaga: Love my @YSL t-shirt they are the best! Custom @MaisonValentino purse very vintage @ManoloBlahnik kitten heels ?? https://t.c…
+User: UserJSONImpl{id=624373593, name='Patrick Yves', screenName='pqpyves', location='Star World ??', description='Welcome Stars Girls and Stars Boys Here, all of us are stars.', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/644697082360655872/Nla1gKCT_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/644697082360655872/Nla1gKCT_normal.jpg', isDefaultProfileImage=false, url='null', isProtected=false, followersCount=4705, status=null, profileBackgroundColor='131516', profileTextColor='333333', profileLinkColor='FFCC4D', profileSidebarFillColor='EFEFEF', profileSidebarBorderColor='000000', profileUseBackgroundImage=true, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=2820, createdAt=Mon Jul 02 05:43:17 EET 2012, favouritesCount=13140, utcOffset=-7200, timeZone='Mid-Atlantic', profileBackgroundImageUrl='http://pbs.twimg.com/profile_background_images/511295270705831936/Itl3w_xz.png', profileBackgroundImageUrlHttps='https://pbs.twimg.com/profile_background_images/511295270705831936/Itl3w_xz.png', profileBackgroundTiled=true, lang='pt', statusesCount=45883, isGeoEnabled=true, isVerified=false, translator=false, listedCount=13, isFollowRequestSent=false, withheldInCountries=null}
+---------------------------------
+
+Id: 661693269122924544
+CreatedAt: Wed Nov 04 01:55:43 EET 2015
+CurrentUserRetweetId: -1
+FavoriteCount: 0
+GeoLocation: null
+HashtagEntities: [HashtagEntityJSONImpl{text='ladygaga'}]
+InReplyToScreenName: null
+InReplyToStatusId: -1
+InReplyToUserId: -1
+Lang: en
+MediaEntities: []
+Place: null
+RetweetCount: 0
+RetweetedStatus: null
+Scopes: null
+Source: <a href="http://instagram.com" rel="nofollow">Instagram</a>
+Text: Yaasaass bitch yaaassss slay ? #ladygaga https://t.co/rkuqj5uSiY
+User: UserJSONImpl{id=96035025, name='Coach.', screenName='VertrellCarter', location='Chicago, Illinois', description='Random Black Dude Be Everywhere', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/378800000798584310/99d0013606d8ecf1e47e4fabdfc60f68_normal.jpeg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/378800000798584310/99d0013606d8ecf1e47e4fabdfc60f68_normal.jpeg', isDefaultProfileImage=false, url='null', isProtected=false, followersCount=443, status=null, profileBackgroundColor='000000', profileTextColor='E320E3', profileLinkColor='827D7D', profileSidebarFillColor='000203', profileSidebarBorderColor='000000', profileUseBackgroundImage=true, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=68, createdAt=Fri Dec 11 04:06:14 EET 2009, favouritesCount=179, utcOffset=-21600, timeZone='Central Time (US & Canada)', profileBackgroundImageUrl='http://pbs.twimg.com/profile_background_images/432219759430483968/Hcgpjmko.jpeg', profileBackgroundImageUrlHttps='https://pbs.twimg.com/profile_background_images/432219759430483968/Hcgpjmko.jpeg', profileBackgroundTiled=true, lang='en', statusesCount=115176, isGeoEnabled=false, isVerified=false, translator=false, listedCount=16, isFollowRequestSent=false, withheldInCountries=null}
+---------------------------------
+
+Id: 661693241906081792
+CreatedAt: Wed Nov 04 01:55:37 EET 2015
+CurrentUserRetweetId: -1
+FavoriteCount: 0
+GeoLocation: null
+HashtagEntities: []
+InReplyToScreenName: null
+InReplyToStatusId: -1
+InReplyToUserId: -1
+Lang: en
+MediaEntities: [MediaEntityJSONImpl{id=661310523913424897, url=https://t.co/UHPfdEQYWc, mediaURL=http://pbs.twimg.com/media/CS1yavAWUAEEFpY.jpg, mediaURLHttps=https://pbs.twimg.com/media/CS1yavAWUAEEFpY.jpg, expandedURL=http://twitter.com/ladygaga/status/661310590477082624/photo/1, displayURL='pic.twitter.com/UHPfdEQYWc', sizes={0=Size{width=150, height=150, resize=101}, 1=Size{width=340, height=459, resize=100}, 2=Size{width=600, height=810, resize=100}, 3=Size{width=758, height=1024, resize=100}}, type=photo}]
+Place: null
+RetweetCount: 3515
+RetweetedStatus: StatusJSONImpl{createdAt=Tue Nov 03 00:35:05 EET 2015, id=661310590477082624, text='Love this suit @neilbarrett and amazing heels Paula Cademartori https://t.co/UHPfdEQYWc', source='<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>', isTruncated=false, inReplyToStatusId=-1, inReplyToUserId=-1, isFavorited=false, isRetweeted=false, favoriteCount=7132, inReplyToScreenName='null', geoLocation=null, place=null, retweetCount=3515, isPossiblySensitive=false, lang='en', contributorsIDs=[], retweetedStatus=null, userMentionEntities=[UserMentionEntityJSONImpl{name='Neil Barrett', screenName='neilbarrett', id=70394683}], urlEntities=[], hashtagEntities=[], mediaEntities=[MediaEntityJSONImpl{id=661310523913424897, url=https://t.co/UHPfdEQYWc, mediaURL=http://pbs.twimg.com/media/CS1yavAWUAEEFpY.jpg, mediaURLHttps=https://pbs.twimg.com/media/CS1yavAWUAEEFpY.jpg, expandedURL=http://twitter.com/ladygaga/status/661310590477082624/photo/1, displayURL='pic.twitter.com/UHPfdEQYWc', sizes={0=Size{width=150, height=150, resize=101}, 1=Size{width=340, height=459, resize=100}, 2=Size{width=600, height=810, resize=100}, 3=Size{width=758, height=1024, resize=100}}, type=photo}], symbolEntities=[], currentUserRetweetId=-1, user=UserJSONImpl{id=14230524, name='The Countess', screenName='ladygaga', location='', description='jazz art pop punk actress', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/651768708789108736/O-_dWj58_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/651768708789108736/O-_dWj58_normal.jpg', isDefaultProfileImage=false, url='null', isProtected=false, followersCount=52103935, status=null, profileBackgroundColor='0A090A', profileTextColor='333333', profileLinkColor='050505', profileSidebarFillColor='DDFFCC', profileSidebarBorderColor='000000', profileUseBackgroundImage=true, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=131609, createdAt=Thu Mar 27 00:37:48 EET 2008, favouritesCount=534, utcOffset=-18000, timeZone='Quito', profileBackgroundImageUrl='http://pbs.twimg.com/profile_background_images/514429204939563008/4md0cRjw.png', profileBackgroundImageUrlHttps='https://pbs.twimg.com/profile_background_images/514429204939563008/4md0cRjw.png', profileBackgroundTiled=true, lang='en', statusesCount=7064, isGeoEnabled=false, isVerified=true, translator=false, listedCount=232432, isFollowRequestSent=false, withheldInCountries=null}, withHeldInCountries=null}
+Scopes: null
+Source: <a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
+Text: RT @ladygaga: Love this suit @neilbarrett and amazing heels Paula Cademartori https://t.co/UHPfdEQYWc
+User: UserJSONImpl{id=624373593, name='Patrick Yves', screenName='pqpyves', location='Star World ??', description='Welcome Stars Girls and Stars Boys Here, all of us are stars.', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/644697082360655872/Nla1gKCT_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/644697082360655872/Nla1gKCT_normal.jpg', isDefaultProfileImage=false, url='null', isProtected=false, followersCount=4705, status=null, profileBackgroundColor='131516', profileTextColor='333333', profileLinkColor='FFCC4D', profileSidebarFillColor='EFEFEF', profileSidebarBorderColor='000000', profileUseBackgroundImage=true, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=2820, createdAt=Mon Jul 02 05:43:17 EET 2012, favouritesCount=13140, utcOffset=-7200, timeZone='Mid-Atlantic', profileBackgroundImageUrl='http://pbs.twimg.com/profile_background_images/511295270705831936/Itl3w_xz.png', profileBackgroundImageUrlHttps='https://pbs.twimg.com/profile_background_images/511295270705831936/Itl3w_xz.png', profileBackgroundTiled=true, lang='pt', statusesCount=45883, isGeoEnabled=true, isVerified=false, translator=false, listedCount=13, isFollowRequestSent=false, withheldInCountries=null}
+---------------------------------
+
+Id: 661693223585374208
+CreatedAt: Wed Nov 04 01:55:32 EET 2015
+CurrentUserRetweetId: -1
+FavoriteCount: 0
+GeoLocation: null
+HashtagEntities: []
+InReplyToScreenName: null
+InReplyToStatusId: -1
+InReplyToUserId: -1
+Lang: en
+MediaEntities: []
+Place: null
+RetweetCount: 685
+RetweetedStatus: StatusJSONImpl{createdAt=Tue May 12 01:43:11 EET 2015, id=597909848861343744, text='@ladygaga You actually are a Lady but where is Gaga?', source='<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>', isTruncated=false, inReplyToStatusId=-1, inReplyToUserId=14230524, isFavorited=false, isRetweeted=false, favoriteCount=747, inReplyToScreenName='ladygaga', geoLocation=null, place=null, retweetCount=685, isPossiblySensitive=false, lang='en', contributorsIDs=[], retweetedStatus=null, userMentionEntities=[UserMentionEntityJSONImpl{name='The Countess', screenName='ladygaga', id=14230524}], urlEntities=[], hashtagEntities=[], mediaEntities=[], symbolEntities=[], currentUserRetweetId=-1, user=UserJSONImpl{id=338057442, name='Daniel Ordo?ez', screenName='Daniel54_', location='Bogot?, Colombia', description='I'm half living my life between reality and fantasy at all times.', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/635623650448777216/l4IwLUSX_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/635623650448777216/l4IwLUSX_normal.jpg', isDefaultProfileImage=false, url='null', isProtected=false, followersCount=378, status=null, profileBackgroundColor='FFFFFF', profileTextColor='000000', profileLinkColor='000000', profileSidebarFillColor='FFFFFF', profileSidebarBorderColor='FFFFFF', profileUseBackgroundImage=true, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=487, createdAt=Tue Jul 19 03:44:46 EET 2011, favouritesCount=860, utcOffset=-1, timeZone='null', profileBackgroundImageUrl='http://pbs.twimg.com/profile_background_images/378800000086237570/5c1d337c75d37a827558f3834bd0d7ca.jpeg', profileBackgroundImageUrlHttps='https://pbs.twimg.com/profile_background_images/378800000086237570/5c1d337c75d37a827558f3834bd0d7ca.jpeg', profileBackgroundTiled=true, lang='es', statusesCount=1216, isGeoEnabled=true, isVerified=false, translator=false, listedCount=1, isFollowRequestSent=false, withheldInCountries=null}, withHeldInCountries=null}
+Scopes: null
+Source: <a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>
+Text: RT @Daniel54_: @ladygaga You actually are a Lady but where is Gaga?
+User: UserJSONImpl{id=91589156, name='?j?', screenName='JDudleyRowe', location='Hotel Cortez', description='I dunno some professional Fanboy with Issues. Hopeless romantic. Music junkie. Nerd. ?', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/660118481015324673/cH9iy32O_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/660118481015324673/cH9iy32O_normal.jpg', isDefaultProfileImage=false, url='https://twitter.com/cher/status/592865186719113217', isProtected=false, followersCount=23331, status=null, profileBackgroundColor='45BFE8', profileTextColor='3CB07A', profileLinkColor='FFCC4D', profileSidebarFillColor='241310', profileSidebarBorderColor='FFFFFF', profileUseBackgroundImage=true, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=22287, createdAt=Sat Nov 21 17:13:06 EET 2009, favouritesCount=80608, utcOffset=-18000, timeZone='Quito', profileBackgroundImageUrl='http://pbs.twimg.com/profile_background_images/526587264122368000/-1OUokwg.jpeg', profileBackgroundImageUrlHttps='https://pbs.twimg.com/profile_background_images/526587264122368000/-1OUokwg.jpeg', profileBackgroundTiled=true, lang='en', statusesCount=159115, isGeoEnabled=true, isVerified=false, translator=false, listedCount=117, isFollowRequestSent=false, withheldInCountries=null}
+---------------------------------
+
+Id: 661693126235435009
+CreatedAt: Wed Nov 04 01:55:09 EET 2015
+CurrentUserRetweetId: -1
+FavoriteCount: 0
+GeoLocation: null
+HashtagEntities: []
+InReplyToScreenName: ladygaga
+InReplyToStatusId: -1
+InReplyToUserId: 14230524
+Lang: en
+MediaEntities: []
+Place: null
+RetweetCount: 0
+RetweetedStatus: null
+Scopes: null
+Source: <a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+Text: @ladygaga please follow me gaga!!!
+User: UserJSONImpl{id=3158271385, name='Pedro Pikie Tails', screenName='pedrx21', location='', description='', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/660600097537847296/vqG9_-b6_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/660600097537847296/vqG9_-b6_normal.jpg', isDefaultProfileImage=false, url='https://t.co/VMxNMuJTLV', isProtected=false, followersCount=18, status=null, profileBackgroundColor='642D8B', profileTextColor='000000', profileLinkColor='9266CC', profileSidebarFillColor='000000', profileSidebarBorderColor='000000', profileUseBackgroundImage=true, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=180, createdAt=Wed Apr 15 23:39:06 EET 2015, favouritesCount=17, utcOffset=-28800, timeZone='Pacific Time (US & Canada)', profileBackgroundImageUrl='http://abs.twimg.com/images/themes/theme10/bg.gif', profileBackgroundImageUrlHttps='https://abs.twimg.com/images/themes/theme10/bg.gif', profileBackgroundTiled=true, lang='es', statusesCount=57, isGeoEnabled=false, isVerified=false, translator=false, listedCount=0, isFollowRequestSent=false, withheldInCountries=null}
+---------------------------------
+
+Id: 661693116446035968
+CreatedAt: Wed Nov 04 01:55:07 EET 2015
+CurrentUserRetweetId: -1
+FavoriteCount: 0
+GeoLocation: null
+HashtagEntities: []
+InReplyToScreenName: null
+InReplyToStatusId: -1
+InReplyToUserId: -1
+Lang: en
+MediaEntities: []
+Place: null
+RetweetCount: 2
+RetweetedStatus: StatusJSONImpl{createdAt=Wed Nov 04 01:54:44 EET 2015, id=661693022501863424, text='The certified diamond pinnacle of Pop perfection delivered via @ladygaga  https://t.co/U8O3jB5khU', source='<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>', isTruncated=false, inReplyToStatusId=-1, inReplyToUserId=-1, isFavorited=false, isRetweeted=false, favoriteCount=5, inReplyToScreenName='null', geoLocation=null, place=null, retweetCount=2, isPossiblySensitive=false, lang='en', contributorsIDs=[], retweetedStatus=null, userMentionEntities=[UserMentionEntityJSONImpl{name='The Countess', screenName='ladygaga', id=14230524}], urlEntities=[URLEntityJSONImpl{url='https://t.co/U8O3jB5khU', expandedURL='https://twitter.com/iheartstans/status/661692304311189504', displayURL='twitter.com/iheartstans/st…'}], hashtagEntities=[], mediaEntities=[], symbolEntities=[], currentUserRetweetId=-1, user=UserJSONImpl{id=51381144, name='Anton XTon', screenName='AntonXTon', location='St. Louis, MO', description='All I want to do is CREATE! #Mizzou17 Journalism Communications & Music. I sing. Aspiring model. Wanderer ??', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/653445591825977344/_ISTYM_P_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/653445591825977344/_ISTYM_P_normal.jpg', isDefaultProfileImage=false, url='http://t.co/Lz3fFGrE4u', isProtected=false, followersCount=1481, status=null, profileBackgroundColor='080808', profileTextColor='AA00FF', profileLinkColor='000DFF', profileSidebarFillColor='000000', profileSidebarBorderColor='FFFFFF', profileUseBackgroundImage=true, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=674, createdAt=Sat Jun 27 10:52:33 EEST 2009, favouritesCount=788, utcOffset=-21600, timeZone='Central Time (US & Canada)', profileBackgroundImageUrl='http://pbs.twimg.com/profile_background_images/661252135489683456/uIbURdTy.jpg', profileBackgroundImageUrlHttps='https://pbs.twimg.com/profile_background_images/661252135489683456/uIbURdTy.jpg', profileBackgroundTiled=true, lang='en', statusesCount=46806, isGeoEnabled=false, isVerified=false, translator=false, listedCount=8, isFollowRequestSent=false, withheldInCountries=null}, withHeldInCountries=null}
+Scopes: null
+Source: <a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
+Text: RT @AntonXTon: The certified diamond pinnacle of Pop perfection delivered via @ladygaga  https://t.co/U8O3jB5khU
+User: UserJSONImpl{id=3148450244, name='iHeartStans', screenName='iHeartStans', location='', description='', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/659126650668367872/PK8J1D1A_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/659126650668367872/PK8J1D1A_normal.jpg', isDefaultProfileImage=false, url='null', isProtected=false, followersCount=732, status=null, profileBackgroundColor='FF5CC7', profileTextColor='000000', profileLinkColor='FFCC4D', profileSidebarFillColor='000000', profileSidebarBorderColor='000000', profileUseBackgroundImage=true, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=25, createdAt=Fri Apr 10 19:33:08 EET 2015, favouritesCount=4577, utcOffset=-28800, timeZone='Pacific Time (US & Canada)', profileBackgroundImageUrl='http://pbs.twimg.com/profile_background_images/620723487850631168/TXjtUDeP.jpg', profileBackgroundImageUrlHttps='https://pbs.twimg.com/profile_background_images/620723487850631168/TXjtUDeP.jpg', profileBackgroundTiled=true, lang='en', statusesCount=5959, isGeoEnabled=true, isVerified=false, translator=false, listedCount=7, isFollowRequestSent=false, withheldInCountries=null}
+---------------------------------
+
+Id: 661693074616266752
+CreatedAt: Wed Nov 04 01:54:57 EET 2015
+CurrentUserRetweetId: -1
+FavoriteCount: 0
+GeoLocation: null
+HashtagEntities: [HashtagEntityJSONImpl{text='TheMuppets'}]
+InReplyToScreenName: null
+InReplyToStatusId: -1
+InReplyToUserId: -1
+Lang: en
+MediaEntities: []
+Place: null
+RetweetCount: 445
+RetweetedStatus: StatusJSONImpl{createdAt=Tue Nov 03 21:55:01 EET 2015, id=661632693348802560, text='Bonjour, @ladygaga! It's been far too long since we've spent time together. Why don't you come perform with moi on my new show #TheMuppets?', source='<a href="http://www.sprinklr.com" rel="nofollow">Sprinklr</a>', isTruncated=false, inReplyToStatusId=-1, inReplyToUserId=-1, isFavorited=false, isRetweeted=false, favoriteCount=686, inReplyToScreenName='null', geoLocation=null, place=null, retweetCount=445, isPossiblySensitive=false, lang='en', contributorsIDs=[], retweetedStatus=null, userMentionEntities=[UserMentionEntityJSONImpl{name='The Countess', screenName='ladygaga', id=14230524}], urlEntities=[], hashtagEntities=[HashtagEntityJSONImpl{text='TheMuppets'}], mediaEntities=[], symbolEntities=[], currentUserRetweetId=-1, user=UserJSONImpl{id=785739140, name='Miss Piggy', screenName='MissPiggy', location='Hollywood, CA', description='Welcome to the official twitter of moi!', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/646795584079200257/ukv-DSfK_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/646795584079200257/ukv-DSfK_normal.jpg', isDefaultProfileImage=false, url='null', isProtected=false, followersCount=90333, status=null, profileBackgroundColor='DBE9ED', profileTextColor='333333', profileLinkColor='CC3366', profileSidebarFillColor='E6F6F9', profileSidebarBorderColor='DBE9ED', profileUseBackgroundImage=true, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=107, createdAt=Tue Aug 28 02:47:57 EET 2012, favouritesCount=45, utcOffset=-28800, timeZone='Pacific Time (US & Canada)', profileBackgroundImageUrl='http://abs.twimg.com/images/themes/theme17/bg.gif', profileBackgroundImageUrlHttps='https://abs.twimg.com/images/themes/theme17/bg.gif', profileBackgroundTiled=false, lang='en', statusesCount=749, isGeoEnabled=true, isVerified=true, translator=false, listedCount=443, isFollowRequestSent=false, withheldInCountries=null}, withHeldInCountries=null}
+Scopes: null
+Source: <a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
+Text: RT @MissPiggy: Bonjour, @ladygaga! It's been far too long since we've spent time together. Why don't you come perform with moi on my new sh…
+User: UserJSONImpl{id=2910025679, name='Joe | Lady Gaga', screenName='celebratethefun', location='nunya damn business', description='just in case anyone remembers, I was @behindtheburqaa gaga + kesha own my soul', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/661294491803000834/9TOLy_27_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/661294491803000834/9TOLy_27_normal.jpg', isDefaultProfileImage=false, url='null', isProtected=false, followersCount=264, status=null, profileBackgroundColor='000000', profileTextColor='000000', profileLinkColor='FA743E', profileSidebarFillColor='000000', profileSidebarBorderColor='000000', profileUseBackgroundImage=false, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=180, createdAt=Mon Dec 08 00:53:47 EET 2014, favouritesCount=4381, utcOffset=-1, timeZone='null', profileBackgroundImageUrl='http://abs.twimg.com/images/themes/theme1/bg.png', profileBackgroundImageUrlHttps='https://abs.twimg.com/images/themes/theme1/bg.png', profileBackgroundTiled=false, lang='en', statusesCount=2099, isGeoEnabled=false, isVerified=false, translator=false, listedCount=1, isFollowRequestSent=false, withheldInCountries=null}
+---------------------------------
+
+Id: 661693028252450816
+CreatedAt: Wed Nov 04 01:54:46 EET 2015
+CurrentUserRetweetId: -1
+FavoriteCount: 0
+GeoLocation: null
+HashtagEntities: []
+InReplyToScreenName: null
+InReplyToStatusId: -1
+InReplyToUserId: -1
+Lang: en
+MediaEntities: []
+Place: null
+RetweetCount: 0
+RetweetedStatus: null
+Scopes: null
+Source: <a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+Text: Everyone vote for @ladygaga  on the people choice awards!
+User: UserJSONImpl{id=32501903, name='Jenna Sian Robinshaw', screenName='Jenlovesgaga', location='', description='', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/280405590/Jenna_001_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/280405590/Jenna_001_normal.jpg', isDefaultProfileImage=false, url='null', isProtected=false, followersCount=113, status=null, profileBackgroundColor='642D8B', profileTextColor='3D1957', profileLinkColor='FF0000', profileSidebarFillColor='7AC3EE', profileSidebarBorderColor='65B0DA', profileUseBackgroundImage=true, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=138, createdAt=Fri Apr 17 21:03:59 EEST 2009, favouritesCount=19, utcOffset=-1, timeZone='null', profileBackgroundImageUrl='http://pbs.twimg.com/profile_background_images/19680860/hair1.jpg', profileBackgroundImageUrlHttps='https://pbs.twimg.com/profile_background_images/19680860/hair1.jpg', profileBackgroundTiled=true, lang='en', statusesCount=54, isGeoEnabled=false, isVerified=false, translator=false, listedCount=0, isFollowRequestSent=false, withheldInCountries=null}
+---------------------------------
+
+Id: 661693022501863424
+CreatedAt: Wed Nov 04 01:54:44 EET 2015
+CurrentUserRetweetId: -1
+FavoriteCount: 5
+GeoLocation: null
+HashtagEntities: []
+InReplyToScreenName: null
+InReplyToStatusId: -1
+InReplyToUserId: -1
+Lang: en
+MediaEntities: []
+Place: null
+RetweetCount: 2
+RetweetedStatus: null
+Scopes: null
+Source: <a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
+Text: The certified diamond pinnacle of Pop perfection delivered via @ladygaga  https://t.co/U8O3jB5khU
+User: UserJSONImpl{id=51381144, name='Anton XTon', screenName='AntonXTon', location='St. Louis, MO', description='All I want to do is CREATE! #Mizzou17 Journalism Communications & Music. I sing. Aspiring model. Wanderer ??', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/653445591825977344/_ISTYM_P_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/653445591825977344/_ISTYM_P_normal.jpg', isDefaultProfileImage=false, url='http://t.co/Lz3fFGrE4u', isProtected=false, followersCount=1481, status=null, profileBackgroundColor='080808', profileTextColor='AA00FF', profileLinkColor='000DFF', profileSidebarFillColor='000000', profileSidebarBorderColor='FFFFFF', profileUseBackgroundImage=true, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=674, createdAt=Sat Jun 27 10:52:33 EEST 2009, favouritesCount=788, utcOffset=-21600, timeZone='Central Time (US & Canada)', profileBackgroundImageUrl='http://pbs.twimg.com/profile_background_images/661252135489683456/uIbURdTy.jpg', profileBackgroundImageUrlHttps='https://pbs.twimg.com/profile_background_images/661252135489683456/uIbURdTy.jpg', profileBackgroundTiled=true, lang='en', statusesCount=46806, isGeoEnabled=false, isVerified=false, translator=false, listedCount=8, isFollowRequestSent=false, withheldInCountries=null}
+---------------------------------
+
+Id: 661693005561106432
+CreatedAt: Wed Nov 04 01:54:40 EET 2015
+CurrentUserRetweetId: -1
+FavoriteCount: 1
+GeoLocation: null
+HashtagEntities: [HashtagEntityJSONImpl{text='FreeKeshaNow'}]
+InReplyToScreenName: zaynmalik
+InReplyToStatusId: -1
+InReplyToUserId: 176566242
+Lang: en
+MediaEntities: []
+Place: PlaceJSONImpl{name='San Bruno', streetAddress='null', countryCode='US', id='5358b6f78dd95ef6', country='United States', placeType='city', url='https://api.twitter.com/1.1/geo/id/5358b6f78dd95ef6.json', fullName='San Bruno, CA', boundingBoxType='Polygon', boundingBoxCoordinates=[[Ltwitter4j.GeoLocation;@4586dab0], geometryType='null', geometryCoordinates=null, containedWithIn=[]}
+RetweetCount: 1
+RetweetedStatus: null
+Scopes: null
+Source: <a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
+Text: @zaynmalik @ladygaga @taylorswift13 @Adele @NICKIMINAJ please tweet the #FreeKeshaNow please she  needs support form iconic figures I beg
+User: UserJSONImpl{id=3667212912, name='Marco Hinojosa', screenName='Lorde4323', location='', description='Hiii I love Adele, Nicki Minaj, Zayn Malik, Sia, and Lorde so attack them and in my mind I have already plotted your death in over a hundred ways so yaaaay', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/646928706787667968/Ork7euwZ_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/646928706787667968/Ork7euwZ_normal.jpg', isDefaultProfileImage=false, url='null', isProtected=false, followersCount=35, status=null, profileBackgroundColor='C0DEED', profileTextColor='333333', profileLinkColor='0084B4', profileSidebarFillColor='DDEEF6', profileSidebarBorderColor='C0DEED', profileUseBackgroundImage=true, isDefaultProfile=true, showAllInlineMedia=false, friendsCount=114, createdAt=Thu Sep 24 08:00:29 EET 2015, favouritesCount=644, utcOffset=-1, timeZone='null', profileBackgroundImageUrl='http://abs.twimg.com/images/themes/theme1/bg.png', profileBackgroundImageUrlHttps='https://abs.twimg.com/images/themes/theme1/bg.png', profileBackgroundTiled=false, lang='en', statusesCount=271, isGeoEnabled=true, isVerified=false, translator=false, listedCount=0, isFollowRequestSent=false, withheldInCountries=null}
+---------------------------------
+
+Id: 661692973248339968
+CreatedAt: Wed Nov 04 01:54:33 EET 2015
+CurrentUserRetweetId: -1
+FavoriteCount: 0
+GeoLocation: null
+HashtagEntities: [HashtagEntityJSONImpl{text='artRAVEMilan'}]
+InReplyToScreenName: null
+InReplyToStatusId: -1
+InReplyToUserId: -1
+Lang: en
+MediaEntities: [MediaEntityJSONImpl{id=661692963542712320, url=https://t.co/28JR8z6Q6J, mediaURL=http://pbs.twimg.com/media/CS7OPppWwAAiLmX.jpg, mediaURLHttps=https://pbs.twimg.com/media/CS7OPppWwAAiLmX.jpg, expandedURL=http://twitter.com/ellespleen/status/661692973248339968/photo/1, displayURL='pic.twitter.com/28JR8z6Q6J', sizes={0=Size{width=150, height=150, resize=101}, 1=Size{width=340, height=383, resize=100}, 2=Size{width=453, height=512, resize=100}, 3=Size{width=453, height=512, resize=100}}, type=photo}]
+Place: null
+RetweetCount: 0
+RetweetedStatus: null
+Scopes: null
+Source: <a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
+Text: One year ago today I saw @ladygaga for the first time ever. I'll never forget that day. I love you. #artRAVEMilan https://t.co/28JR8z6Q6J
+User: UserJSONImpl{id=2281105676, name='aphrodite', screenName='ellespleen', location='', description='You can drive all night looking for the answers in the pouring rain.', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/660654426647109632/2H-AdHTF_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/660654426647109632/2H-AdHTF_normal.jpg', isDefaultProfileImage=false, url='null', isProtected=false, followersCount=1031, status=null, profileBackgroundColor='000000', profileTextColor='000000', profileLinkColor='000000', profileSidebarFillColor='000000', profileSidebarBorderColor='000000', profileUseBackgroundImage=false, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=1918, createdAt=Tue Jan 07 23:06:45 EET 2014, favouritesCount=11018, utcOffset=-1, timeZone='null', profileBackgroundImageUrl='http://abs.twimg.com/images/themes/theme1/bg.png', profileBackgroundImageUrlHttps='https://abs.twimg.com/images/themes/theme1/bg.png', profileBackgroundTiled=false, lang='it', statusesCount=14643, isGeoEnabled=true, isVerified=false, translator=false, listedCount=9, isFollowRequestSent=false, withheldInCountries=null}
+---------------------------------
+
+Id: 661692936904704001
+CreatedAt: Wed Nov 04 01:54:24 EET 2015
+CurrentUserRetweetId: -1
+FavoriteCount: 0
+GeoLocation: null
+HashtagEntities: []
+InReplyToScreenName: null
+InReplyToStatusId: -1
+InReplyToUserId: -1
+Lang: en
+MediaEntities: [MediaEntityJSONImpl{id=661310523913424897, url=https://t.co/UHPfdEQYWc, mediaURL=http://pbs.twimg.com/media/CS1yavAWUAEEFpY.jpg, mediaURLHttps=https://pbs.twimg.com/media/CS1yavAWUAEEFpY.jpg, expandedURL=http://twitter.com/ladygaga/status/661310590477082624/photo/1, displayURL='pic.twitter.com/UHPfdEQYWc', sizes={0=Size{width=150, height=150, resize=101}, 1=Size{width=340, height=459, resize=100}, 2=Size{width=600, height=810, resize=100}, 3=Size{width=758, height=1024, resize=100}}, type=photo}]
+Place: null
+RetweetCount: 3515
+RetweetedStatus: StatusJSONImpl{createdAt=Tue Nov 03 00:35:05 EET 2015, id=661310590477082624, text='Love this suit @neilbarrett and amazing heels Paula Cademartori https://t.co/UHPfdEQYWc', source='<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>', isTruncated=false, inReplyToStatusId=-1, inReplyToUserId=-1, isFavorited=false, isRetweeted=false, favoriteCount=7132, inReplyToScreenName='null', geoLocation=null, place=null, retweetCount=3515, isPossiblySensitive=false, lang='en', contributorsIDs=[], retweetedStatus=null, userMentionEntities=[UserMentionEntityJSONImpl{name='Neil Barrett', screenName='neilbarrett', id=70394683}], urlEntities=[], hashtagEntities=[], mediaEntities=[MediaEntityJSONImpl{id=661310523913424897, url=https://t.co/UHPfdEQYWc, mediaURL=http://pbs.twimg.com/media/CS1yavAWUAEEFpY.jpg, mediaURLHttps=https://pbs.twimg.com/media/CS1yavAWUAEEFpY.jpg, expandedURL=http://twitter.com/ladygaga/status/661310590477082624/photo/1, displayURL='pic.twitter.com/UHPfdEQYWc', sizes={0=Size{width=150, height=150, resize=101}, 1=Size{width=340, height=459, resize=100}, 2=Size{width=600, height=810, resize=100}, 3=Size{width=758, height=1024, resize=100}}, type=photo}], symbolEntities=[], currentUserRetweetId=-1, user=UserJSONImpl{id=14230524, name='The Countess', screenName='ladygaga', location='', description='jazz art pop punk actress', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/651768708789108736/O-_dWj58_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/651768708789108736/O-_dWj58_normal.jpg', isDefaultProfileImage=false, url='null', isProtected=false, followersCount=52103935, status=null, profileBackgroundColor='0A090A', profileTextColor='333333', profileLinkColor='050505', profileSidebarFillColor='DDFFCC', profileSidebarBorderColor='000000', profileUseBackgroundImage=true, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=131609, createdAt=Thu Mar 27 00:37:48 EET 2008, favouritesCount=534, utcOffset=-18000, timeZone='Quito', profileBackgroundImageUrl='http://pbs.twimg.com/profile_background_images/514429204939563008/4md0cRjw.png', profileBackgroundImageUrlHttps='https://pbs.twimg.com/profile_background_images/514429204939563008/4md0cRjw.png', profileBackgroundTiled=true, lang='en', statusesCount=7064, isGeoEnabled=false, isVerified=true, translator=false, listedCount=232432, isFollowRequestSent=false, withheldInCountries=null}, withHeldInCountries=null}
+Scopes: null
+Source: <a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>
+Text: RT @ladygaga: Love this suit @neilbarrett and amazing heels Paula Cademartori https://t.co/UHPfdEQYWc
+User: UserJSONImpl{id=589300708, name='JACK', screenName='Jack_Tweets_', location='ROOM 64', description='love, live, laugh', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/643101637758861312/FELEUHLD_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/643101637758861312/FELEUHLD_normal.jpg', isDefaultProfileImage=false, url='null', isProtected=false, followersCount=2944, status=null, profileBackgroundColor='642D8B', profileTextColor='333333', profileLinkColor='FF0000', profileSidebarFillColor='DDEEF6', profileSidebarBorderColor='FFFFFF', profileUseBackgroundImage=true, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=1938, createdAt=Thu May 24 20:47:21 EET 2012, favouritesCount=1451, utcOffset=7200, timeZone='Istanbul', profileBackgroundImageUrl='http://pbs.twimg.com/profile_background_images/643547533822820353/apO7GNVu.png', profileBackgroundImageUrlHttps='https://pbs.twimg.com/profile_background_images/643547533822820353/apO7GNVu.png', profileBackgroundTiled=true, lang='en', statusesCount=28793, isGeoEnabled=true, isVerified=false, translator=false, listedCount=10, isFollowRequestSent=false, withheldInCountries=null}
+---------------------------------
+
+Id: 661692891132104704
+CreatedAt: Wed Nov 04 01:54:13 EET 2015
+CurrentUserRetweetId: -1
+FavoriteCount: 0
+GeoLocation: null
+HashtagEntities: [HashtagEntityJSONImpl{text='PeopleChoiceAwards'}]
+InReplyToScreenName: null
+InReplyToStatusId: -1
+InReplyToUserId: -1
+Lang: en
+MediaEntities: [MediaEntityJSONImpl{id=661692815525613568, url=https://t.co/gXzDRVP6fI, mediaURL=http://pbs.twimg.com/media/CS7OHCPVEAALHcM.jpg, mediaURLHttps=https://pbs.twimg.com/media/CS7OHCPVEAALHcM.jpg, expandedURL=http://twitter.com/fran_csuarez/status/661692891132104704/photo/1, displayURL='pic.twitter.com/gXzDRVP6fI', sizes={0=Size{width=150, height=150, resize=101}, 1=Size{width=340, height=245, resize=100}, 2=Size{width=600, height=432, resize=100}, 3=Size{width=1024, height=738, resize=100}}, type=photo}]
+Place: null
+RetweetCount: 0
+RetweetedStatus: null
+Scopes: null
+Source: <a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
+Text: Relationships goals @ladygaga @TaylorKinney111 #PeopleChoiceAwards ??? https://t.co/gXzDRVP6fI
+User: UserJSONImpl{id=149600410, name='Francisco Carre?n', screenName='fran_csuarez', location='', description='', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/653953510648643585/xG1wm8vb_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/653953510648643585/xG1wm8vb_normal.jpg', isDefaultProfileImage=false, url='null', isProtected=false, followersCount=519, status=null, profileBackgroundColor='131516', profileTextColor='333333', profileLinkColor='009999', profileSidebarFillColor='EFEFEF', profileSidebarBorderColor='EEEEEE', profileUseBackgroundImage=true, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=452, createdAt=Sat May 29 21:14:01 EEST 2010, favouritesCount=2097, utcOffset=-21600, timeZone='Central Time (US & Canada)', profileBackgroundImageUrl='http://abs.twimg.com/images/themes/theme14/bg.gif', profileBackgroundImageUrlHttps='https://abs.twimg.com/images/themes/theme14/bg.gif', profileBackgroundTiled=true, lang='es', statusesCount=4809, isGeoEnabled=true, isVerified=false, translator=false, listedCount=0, isFollowRequestSent=false, withheldInCountries=null}
+---------------------------------
+
+Id: 661692838975942656
+CreatedAt: Wed Nov 04 01:54:01 EET 2015
+CurrentUserRetweetId: -1
+FavoriteCount: 0
+GeoLocation: null
+HashtagEntities: []
+InReplyToScreenName: null
+InReplyToStatusId: -1
+InReplyToUserId: -1
+Lang: en
+MediaEntities: [MediaEntityJSONImpl{id=660846515477286912, url=https://t.co/zxvaaCNFGr, mediaURL=http://pbs.twimg.com/media/CSvMZ44UEAAbCcN.jpg, mediaURLHttps=https://pbs.twimg.com/media/CSvMZ44UEAAbCcN.jpg, expandedURL=http://twitter.com/fansaddict1/status/660846526843895808/photo/1, displayURL='pic.twitter.com/zxvaaCNFGr', sizes={0=Size{width=150, height=150, resize=101}, 1=Size{width=340, height=340, resize=100}, 2=Size{width=480, height=480, resize=100}, 3=Size{width=480, height=480, resize=100}}, type=photo}]
+Place: null
+RetweetCount: 2
+RetweetedStatus: StatusJSONImpl{createdAt=Sun Nov 01 17:51:04 EET 2015, id=660846526843895808, text='The Countess @ladygaga https://t.co/zxvaaCNFGr', source='<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>', isTruncated=false, inReplyToStatusId=-1, inReplyToUserId=-1, isFavorited=false, isRetweeted=false, favoriteCount=0, inReplyToScreenName='null', geoLocation=null, place=null, retweetCount=2, isPossiblySensitive=false, lang='en', contributorsIDs=[], retweetedStatus=null, userMentionEntities=[UserMentionEntityJSONImpl{name='The Countess', screenName='ladygaga', id=14230524}], urlEntities=[], hashtagEntities=[], mediaEntities=[MediaEntityJSONImpl{id=660846515477286912, url=https://t.co/zxvaaCNFGr, mediaURL=http://pbs.twimg.com/media/CSvMZ44UEAAbCcN.jpg, mediaURLHttps=https://pbs.twimg.com/media/CSvMZ44UEAAbCcN.jpg, expandedURL=http://twitter.com/fansaddict1/status/660846526843895808/photo/1, displayURL='pic.twitter.com/zxvaaCNFGr', sizes={0=Size{width=150, height=150, resize=101}, 1=Size{width=340, height=340, resize=100}, 2=Size{width=480, height=480, resize=100}, 3=Size{width=480, height=480, resize=100}}, type=photo}], symbolEntities=[], currentUserRetweetId=-1, user=UserJSONImpl{id=3941555186, name='Fandom's Indonesia', screenName='fansaddict1', location='Indonesia', description='TheFirst&TheBiggest All Fandom's in INDONESIA. We will updates imagine,facts,new music&video,trends Hollywood and many more. line : @uhc3291p', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/655910012741550084/ZvFvCNov_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/655910012741550084/ZvFvCNov_normal.jpg', isDefaultProfileImage=false, url='null', isProtected=false, followersCount=31, status=null, profileBackgroundColor='C0DEED', profileTextColor='333333', profileLinkColor='0084B4', profileSidebarFillColor='DDEEF6', profileSidebarBorderColor='C0DEED', profileUseBackgroundImage=true, isDefaultProfile=true, showAllInlineMedia=false, friendsCount=51, createdAt=Mon Oct 19 02:52:25 EET 2015, favouritesCount=10, utcOffset=-1, timeZone='null', profileBackgroundImageUrl='http://abs.twimg.com/images/themes/theme1/bg.png', profileBackgroundImageUrlHttps='https://abs.twimg.com/images/themes/theme1/bg.png', profileBackgroundTiled=false, lang='en', statusesCount=154, isGeoEnabled=false, isVerified=false, translator=false, listedCount=0, isFollowRequestSent=false, withheldInCountries=null}, withHeldInCountries=null}
+Scopes: null
+Source: <a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>
+Text: RT @fansaddict1: The Countess @ladygaga https://t.co/zxvaaCNFGr
+User: UserJSONImpl{id=2471968700, name='Macklemore Indonesia', screenName='macklemore_IND', location='INDONESIA-SEATTLE', description='TheFirstFanbaseMacklemore&RyanLewisFromIndonesia. Since2012. We are #SharkFaceGang from INDONESIA line : @uhc3291p Supported : @Universal_Indo', isContributorsEnabled=false, profileImageUrl='http://pbs.twimg.com/profile_images/643627331118985217/tQBkWSMo_normal.jpg', profileImageUrlHttps='https://pbs.twimg.com/profile_images/643627331118985217/tQBkWSMo_normal.jpg', isDefaultProfileImage=false, url='https://t.co/u4sFMHDlHv', isProtected=false, followersCount=150, status=null, profileBackgroundColor='C0DEED', profileTextColor='333333', profileLinkColor='0084B4', profileSidebarFillColor='DDEEF6', profileSidebarBorderColor='FFFFFF', profileUseBackgroundImage=true, isDefaultProfile=false, showAllInlineMedia=false, friendsCount=91, createdAt=Thu May 01 08:06:31 EET 2014, favouritesCount=368, utcOffset=25200, timeZone='Bangkok', profileBackgroundImageUrl='http://pbs.twimg.com/profile_background_images/461738622555676672/vYFCoXed.jpeg', profileBackgroundImageUrlHttps='https://pbs.twimg.com/profile_background_images/461738622555676672/vYFCoXed.jpeg', profileBackgroundTiled=true, lang='en', statusesCount=696, isGeoEnabled=false, isVerified=false, translator=false, listedCount=1, isFollowRequestSent=false, withheldInCountries=null}
+---------------------------------
