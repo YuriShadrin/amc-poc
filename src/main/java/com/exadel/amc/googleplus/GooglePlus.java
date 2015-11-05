@@ -1,12 +1,14 @@
 package com.exadel.amc.googleplus;
 
 import java.io.IOException;
-import java.io.InputStreamReader;
+import java.io.StringReader;
 import java.security.GeneralSecurityException;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+import java.util.Properties;
 
+import com.exadel.amc.facebook.FacebookTest;
 import com.google.api.client.auth.oauth2.Credential;
 import com.google.api.client.extensions.java6.auth.oauth2.AuthorizationCodeInstalledApp;
 import com.google.api.client.extensions.jetty.auth.oauth2.LocalServerReceiver;
@@ -179,11 +181,18 @@ public class GooglePlus {
         }
         return result;
     }
-
+    
+    static final String JSON_CONF = "{\"installed\":{\"client_id\": \"${client.id}\",\"client_secret\":\"${client.secret}\"}}";
     private Credential authorize() throws IOException {
-        GoogleClientSecrets clientSecrets = GoogleClientSecrets.load(jsonFactory,
-                new InputStreamReader(GooglePlus.class.getResourceAsStream("/keys/googleplus_keys.json")));
+        
+        Properties props = new Properties();
+        props.load(FacebookTest.class.getResourceAsStream("/keys/googleplus_keys.properties"));
+        
+        String json = JSON_CONF.
+                replaceAll("\\$\\{client.id}", props.getProperty("client.id").trim()).
+                replaceAll("\\$\\{client.secret}", props.getProperty("client.secret").trim());
 
+        GoogleClientSecrets clientSecrets = GoogleClientSecrets.load(jsonFactory, new StringReader(json));
         GoogleAuthorizationCodeFlow flow = new GoogleAuthorizationCodeFlow.Builder(httpTransport,
                 jsonFactory, clientSecrets, Arrays.asList(PlusScopes.PLUS_LOGIN, PlusScopes.PLUS_ME,
                         PlusScopes.USERINFO_EMAIL, PlusScopes.USERINFO_PROFILE)).setDataStoreFactory(dataStoreFactory)
