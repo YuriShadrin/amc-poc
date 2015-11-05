@@ -124,14 +124,10 @@ api.key=API_KEY
 * Add credentials -> API key -> Server key
 * Click "Create" button, get API key from opened popup window  
 
-Change configuration in: ```src/main/resources/keys/googleplus_keys.json```
-```json
-{
-  "installed": {
-    "client_id": "CLIENT_ID",
-    "client_secret":"CLIENT_SECRET"
-  }
-}
+Change configuration in: ```src/main/resources/keys/googleplus_keys.properties```
+```properties
+client.id=CLIENT_ID
+client.secret=CLIENT_SECRET
 ```
 
 :warning: During first run a default browser will be opened with request to provide access to your profile.
